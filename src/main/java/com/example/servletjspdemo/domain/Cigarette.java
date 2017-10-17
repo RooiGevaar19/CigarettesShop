@@ -4,15 +4,17 @@ public class Cigarette {
 	private int id = 0;
 	private String Name = "";
 	private double Price = 0.0;
+	private int Count = 0;
 	
 	public Cigarette() {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public Cigarette(int a, String b, double c) {
+	public Cigarette(int a, String b, double c, int d) {
 		this.id = a;
 		this.Name = b;
 		this.Price = c;
+		this.Count = d;
 	}
 	
 	public int getId() {
@@ -33,5 +35,18 @@ public class Cigarette {
 	}
 	public void setPrice(double Price) {
 		this.Price = Price;
+	}
+	
+	public int getCount() {
+		return Count;
+	}
+
+	public void setCount(int count) {
+		Count = count;
+	}
+
+	@Override
+	public String toString() {
+		return ""+Name+"\t"+Price+"\t"+Count+"";
 	}
 }
