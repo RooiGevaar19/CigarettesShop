@@ -12,7 +12,7 @@
 	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigarettesStorage" scope="application" />
 	
 	<% 
-  	storage.add(person);
+  	storage.insert(cigarette);
 	%>
 
 	<p>Following person has been added to storage: </p>
