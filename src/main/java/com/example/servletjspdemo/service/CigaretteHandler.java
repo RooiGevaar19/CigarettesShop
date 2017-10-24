@@ -18,10 +18,11 @@ public class CigaretteHandler implements CigBase {
 
 	private String createTableCig = "CREATE TABLE Cigarette(id INTEGER, Name VARCHAR(40), Price DECIMAL(8,2), Count INTEGER);";
 
+	private String getAllCigStmt = "SELECT id, Name, Price, Count FROM Cigarette;";
+	
 	private PreparedStatement addCigStmt;
 	private PreparedStatement deleteAllCigStmt;
 	private PreparedStatement deleteCigStmt;
-	private PreparedStatement getAllCigStmt;
 	private PreparedStatement replaceCigStmt;
 
 	private Statement statement;
@@ -46,8 +47,7 @@ public class CigaretteHandler implements CigBase {
 			addCigStmt = connection.prepareStatement("INSERT INTO Cigarette(id, Name, Price, Count) VALUES (?, ?, ?, ?);");
 			deleteAllCigStmt = connection.prepareStatement("DELETE FROM Cigarette;");
 			deleteCigStmt = connection.prepareStatement("DELETE FROM Cigarette WHERE id = ?;");
-			getAllCigStmt = connection.prepareStatement("SELECT id, Name, Price, Count FROM Cigarette;");
-			getAllCigStmt = connection.prepareStatement("UPDATE Cigarette SET id = ?, Name = ?, Price = ?, Count = ? WHERE id = ?;");
+			replaceCigStmt = connection.prepareStatement("UPDATE Cigarette SET id = ?, Name = ?, Price = ?, Count = ? WHERE id = ?;");
 			System.out.println("Connected!");
 		} catch (SQLException e) {
 			e.printStackTrace();
@@ -58,7 +58,7 @@ public class CigaretteHandler implements CigBase {
 		List<Cigarette> cigs = new ArrayList<Cigarette>();
 
 		try {
-			ResultSet rs = getAllCigStmt.executeQuery();
+			ResultSet rs = statement.executeQuery(getAllCigStmt);
 
 			while (rs.next()) {
 				Cigarette p = new Cigarette();
