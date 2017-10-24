@@ -1,7 +1,0 @@
-/target
-*.jar
-.*
-/db/*.jar
-/.settings
-*.sh
-/db
