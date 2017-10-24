@@ -20,7 +20,7 @@
 	<p>Cena za sztukę: ${cigarette.price} </p>
 	<p>Ilość sztuk: <jsp:getProperty name="cigarette" property="count"></jsp:getProperty></p>
 	<p>
-  		<a href="showAllPersons.jsp">Show all persons</a>
+  		<a href="cigList">Show all persons</a>
 	</p>
 </body>
 </html>

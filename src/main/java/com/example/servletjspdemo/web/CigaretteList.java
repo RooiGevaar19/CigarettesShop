@@ -24,12 +24,6 @@ public class CigaretteList extends HttpServlet {
 		PrintWriter out = response.getWriter();
 		
 		CigaretteHandler cigdb = new CigaretteHandler();
-		cigdb.removeAllCigarettes();
-		cigdb.addCigarette(new Cigarette(1, "Marlboro", 15.50, 2137));
-		cigdb.addCigarette(new Cigarette(2, "Pallmall", 12.00, 1488));
-		cigdb.addCigarette(new Cigarette(3, "West", 14.20, 911));
-		cigdb.addCigarette(new Cigarette(4, "LM", 13.70, 997));
-		cigdb.addCigarette(new Cigarette(5, "Route 66", 12.50, 2287));
 		
 		for (Cigarette i : cigdb.getAllCigarettes()) {
 			out.println(""+i.toString()+"<br/>");

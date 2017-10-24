@@ -2,7 +2,7 @@ package com.example.servletjspdemo.domain;
 
 public class Cigarette {
 	private int id = 0;
-	String Name = "";
+	private String Name = "";
 	private double Price = 0.0;
 	private int Count = 0;
 	
