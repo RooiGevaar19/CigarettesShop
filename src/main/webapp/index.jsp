@@ -8,7 +8,12 @@
         <title>Demo application</title>
     </head>
     <body>
-        <h2>Sklep z papierosami</h2>
+    	<center><img src="newicon1great50.png"></center>
+        <center><h2>Sklep z papierosami</h2></center>
+        <h3>Zakupy</h3>
+        <p><a href="addCigToTran.jsp">Dodaj towar do koszyka</a></p>
+        <p><a href="showTran.jsp">Pokaż koszyk</a></p>
+        
         <h3>Zarządzanie towarami</h3>
         <p><a href="obtainCigaretteData.jsp">Dodaj nowy towar</a></p>
         <p><a href="cigList">Pokaż wszystkie towary</a></p>
