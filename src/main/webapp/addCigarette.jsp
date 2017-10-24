@@ -9,15 +9,16 @@
 <body>
 	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
 	<jsp:setProperty name="cigarette" property="*" /> 
-	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigarettesStorage" scope="application" />
+	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
 	
 	<% 
-  	storage.insert(cigarette);
+  	storage.addCigarette(cigarette);
 	%>
 
-	<p>Following person has been added to storage: </p>
-	<p>First name: ${person.firstName} </p>
-	<p>Year of birth: <jsp:getProperty name="person" property="yob"></jsp:getProperty></p>
+	<p>Dodano towar od bazy: </p>
+	<p>Nazwa: ${cigarette.name} </p>
+	<p>Cena za sztukę: ${cigarette.price} </p>
+	<p>Ilość sztuk: <jsp:getProperty name="cigarette" property="count"></jsp:getProperty></p>
 	<p>
   		<a href="showAllPersons.jsp">Show all persons</a>
 	</p>

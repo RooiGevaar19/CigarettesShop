@@ -1,2 +1,5 @@
 /target
-.jar
+*.jar
+.*
+/db/*.jar
+/.settings

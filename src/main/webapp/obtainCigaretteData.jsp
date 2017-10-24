@@ -9,10 +9,10 @@
 <body>
 	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
 	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
-	<form action="addPerson.jsp">
-		Nazwa towaru :<input type="text" name="Name" value="${cigarette.Name}" /><br />
-		Cena za sztukę :<input type="text" name="Name" value="${cigarette.Price}" /><br />
-		Ilość :<input type="text" name="Name" value="${cigarette.Count}" /><br />
+	<form action="addCigarette.jsp">
+		Nazwa towaru :<input type="text" name="name" value="${cigarette.name}" /><br />
+		Cena za sztukę :<input type="text" name="price" value="${cigarette.price}" /><br />
+		Ilość :<input type="text" name="count" value="${cigarette.count}" /><br />
 		<input type="submit" value=" OK ">
 	</form>
 </body>
