@@ -24,10 +24,11 @@ public class TranFail extends HttpServlet{
         out.println("</head>");
         out.println("<body>");
         out.println("<center><img src=\"newicon1great50.png\"><h2>Sklep z papierosami</h2></center>");
+        out.println("<hr>");
         out.println("<center><h1>Zakup nie powiodl sie!</h1></center>");
         out.println("<hr>");
-        out.println("<a href=\"basket\">Koszyk</a><br>");
-        out.println("<a href=\"index.jsp\">Strona glowna</a><br>");
+        out.println("<center><btc><a href=\"basket\">Koszyk</a></btc><br>");
+        out.println("<btc><a href=\"index.jsp\">Strona glowna</a></btc></center><br>");
         out.println("</body>");
         out.println("</html>");
 	}

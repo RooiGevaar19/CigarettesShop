@@ -24,9 +24,10 @@ public class TranSuccess extends HttpServlet {
         out.println("</head>");
         out.println("<body>");
         out.println("<center><img src=\"newicon1great50.png\"><h2>Sklep z papierosami</h2></center>");
+        out.println("<hr>");
         out.println("<center><h1>Zakup udany!</h1></center>");
         out.println("<hr>");
-        out.println("<a href=\"index.jsp\">Strona glowna</a><br>");
+        out.println("<center><btc><a href=\"index.jsp\">Strona glowna</a></btc></center><br>");
         out.println("</body>");
         out.println("</html>");
 	}

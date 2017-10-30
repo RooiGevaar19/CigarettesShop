@@ -12,7 +12,7 @@
 </head>
 <body>
 	<center><img src="newicon1great50.png">
-    <h2>Sklep z papierosami</h2></center>
+    <h2>Sklep z papierosami</h2></center><hr>
 <%
 	out.println("<h3>Dostępne produkty:</h3><br>\n");
 	out.println("<table>");

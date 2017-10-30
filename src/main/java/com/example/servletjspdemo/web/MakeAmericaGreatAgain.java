@@ -17,6 +17,7 @@ public class MakeAmericaGreatAgain extends HttpServlet{
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		CigaretteHandler storage = new CigaretteHandler();
+		storage.removeAllCigarettes();
 		storage.addCigarette(new Cigarette(1, "Marlboro", 16.00, 2137));
 		storage.addCigarette(new Cigarette(2, "Chesterfield", 12.70, 1488));
 		storage.addCigarette(new Cigarette(3, "Lucky Strike", 16.00, 1024));

@@ -11,13 +11,17 @@
     </head>
     <body>
     	<center><img src="newicon1great50.png">
-    	<h2>Sklep z papierosami</h2></center>
-        <h3>Zakupy</h3>
-        <p><a href="addToBasket.jsp">Dodaj towar do koszyka</a></p>
-        <p><a href="basket">Pokaż koszyk</a></p>
+    	<h2>Sklep z papierosami</h2></center><hr>
+        <center><h3>Zakupy</h3></center>
+        <center>
+        <btc><a href="addToBasket.jsp">Dodaj towar do koszyka</a></btc>
+        <btc><a href="basket">Pokaż koszyk</a></btc>
+        </center>
         
-        <h3>Zarządzanie towarami</h3>
-        <p><a href="obtainCigaretteData.jsp">Dodaj nowy towar</a></p>
-        <p><a href="cigList">Pokaż wszystkie towary</a></p>
+        <center><h3>Zarządzanie towarami</h3></center>
+        <center>
+        <btc><a href="obtainCigaretteData.jsp">Dodaj nowy towar</a></btc>
+        <btc><a href="cigList">Pokaż wszystkie towary</a></btc>
+        </center>
     </body>
 </html>

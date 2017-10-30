@@ -32,6 +32,7 @@ public class CigaretteList extends HttpServlet {
         out.println("</head>");
         out.println("<body>");
         out.println("<center><img src=\"newicon1great50.png\"><h2>Sklep z papierosami</h2></center>");
+        out.println("<hr>");
 		out.println("<h3>Dostępne produkty:</h3>");
 		out.println("<table>");
 		out.println("<th>Nazwa</th> <th>Cena</th> <th>Ilość</th>\n");
@@ -40,7 +41,7 @@ public class CigaretteList extends HttpServlet {
 			out.println("<tr><td>"+i.getName()+"</td><td>"+String.format("%.2f PLN", i.getPrice())+"</td><td>"+i.getCount()+"</td></tr>");
 		}
 		out.println("</table>");
-		out.println("<a href=\"index.jsp\">Wstecz</a>");
+		out.println("<btl><a href=\"index.jsp\">Wstecz</a></btl>");
 		out.println("</body>");
 		out.println("</html>");
 	}

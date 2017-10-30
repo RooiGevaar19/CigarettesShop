@@ -28,12 +28,12 @@ public class AddFail extends HttpServlet {
         out.println("</head>");
         out.println("<body>");
         out.println("<center><img src=\"newicon1great50.png\"><h2>Sklep z papierosami</h2></center>");
+        out.println("<hr>");
         out.println("<center><h1>Produkt jest niedostępny. Spróbuj później.</h1></center>");
         out.println("<hr>");
-        out.println("<h2>Koszyk</h2>");
-        out.println("<a href=\"addToBasket.jsp\">Kontynuuj dodawanie do koszyka</a><br>");
-        out.println("<a href=\"basket\">Zobacz koszyk</a><br>");
-        out.println("<a href=\"index.jsp\">Strona główna</a><br>");
+        out.println("<center><btc><a href=\"addToBasket.jsp\">Kontynuuj dodawanie do koszyka</a></btc>");
+        out.println("<btc><a href=\"basket\">Zobacz koszyk</a></btc>");
+        out.println("<btc><a href=\"index.jsp\">Strona główna</a></btc></center>");
         out.println("</body>");
         out.println("</html>");
 		

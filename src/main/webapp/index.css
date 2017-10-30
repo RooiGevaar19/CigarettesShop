@@ -11,3 +11,82 @@ th {
 td {
 	padding : 0.05in;
 }
+
+h1 {
+	font-size:0.35in;
+	margin-left:0.1in;
+}
+
+h2 {
+	font-size:0.3in;
+	margin-left:0.1in;
+}
+
+h3 {
+	font-size:0.25in;
+	margin-left:0.1in;
+}
+
+a {
+	clear: both;
+	background-color: #FF8800;
+	font-family: Comfortaa, Sans, Calibri;
+	font-size: 0.2in;
+	padding: 0.1in;
+	color: #FFFFFF;
+	margin-top: 0.1in;
+	margin-left: 0.1in;
+	margin-right: 0.1in;
+	margin-bottom: 0.1in;
+	text-align: middle, center;
+}
+
+a:hover {
+	clear: both;
+	background-color: #FFCC44;
+	font-family: Comfortaa, Sans, Calibri;
+	padding: 0.1in;
+	font-size: 0.2in;
+	color: #FFFFFF;
+	margin-top: 0.1in;
+	margin-left: 0.1in;
+	margin-right: 0.1in;
+	margin-bottom: 0.1in;
+	text-align: middle, center;
+	text-decoration: none;
+}
+
+a:link
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+p {
+	margin: 0.3in;
+}
+
+table {
+	margin-left:0.1in;
+	margin-right:0.1in;
+	margin-top:0.1in;
+	margin-bottom: 0.3in;
+}
+
+btc {
+	margin:0.3in;
+	text-align: center;
+	display: block;
+}
+
+btl {
+	margin-top:0.3in;
+	margin-bottom:0.3in;
+	text-align: left;
+}

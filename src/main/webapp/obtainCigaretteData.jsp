@@ -9,15 +9,16 @@
 </head>
 <body>
 	<center><img src="newicon1great50.png">
-    <h2>Sklep z papierosami</h2></center>
+    <h2>Sklep z papierosami</h2></center><hr>
 	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
 	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
-	<form action="addCigarette.jsp">
+	<form action="addCigarette.jsp" style="margin-left:0.1in">
 		Nazwa towaru :<input type="text" name="name" value="${cigarette.name}" /><br />
 		Cena za sztukę :<input type="text" name="price" value="${cigarette.price}" /><br />
 		Ilość :<input type="text" name="count" value="${cigarette.count}" /><br />
 		<input type="submit" value=" OK ">
 	</form>
-	<a href="index.jsp">Wróć</a>
+	<br>
+	<btl><a href="index.jsp">Wróć</a></btl>
 </body>
 </html>

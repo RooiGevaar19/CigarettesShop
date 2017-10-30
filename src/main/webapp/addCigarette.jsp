@@ -12,16 +12,16 @@
 	<jsp:setProperty name="cigarette" property="*" /> 
 	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
 	<center><img src="newicon1great50.png">
-    <h2>Sklep z papierosami</h2></center>
+    <h2>Sklep z papierosami</h2></center><hr>
     
 	<% 
   	storage.addCigarette(cigarette);
 	%>
 
-	<p>Dodano towar do bazy: </p>
-	<p>Nazwa: ${cigarette.name} </p>
-	<p>Cena za sztukę: ${cigarette.price} </p>
-	<p>Ilość sztuk: <jsp:getProperty name="cigarette" property="count"></jsp:getProperty></p>
+	<p><h3>Dodano towar do bazy:</h3> </p>
+	<p><b>Nazwa:</b> ${cigarette.name} </p>
+	<p><b>Cena za sztukę:</b> ${cigarette.price} </p>
+	<p><b>Ilość sztuk:</b> <jsp:getProperty name="cigarette" property="count"></jsp:getProperty></p>
 	<p>
   		<a href="cigList">Pokaż wszystkie towary</a>
   		<a href="index.jsp">Wstecz</a>

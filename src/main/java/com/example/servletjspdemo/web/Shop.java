@@ -48,6 +48,7 @@ public class Shop extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<center><img src=\"newicon1great50.png\"><h2>Sklep z papierosami</h2></center>");
+            out.println("<hr>");
             out.println("<h3>Twój koszyk</h3>");
             out.println("<table>");
         	out.println("<th>Nazwa</th> <th>Cena za sztuke</th> <th>Ilosc</th> <th>Cena ogolem</th> <th>Akcje</th>\n");
@@ -63,9 +64,10 @@ public class Shop extends HttpServlet {
         	}
         	out.println("</table>");
         	out.println("<h3>Suma do zaplaty: "+String.format("%.2f PLN", sum)+"</h3>");
-        	out.println("<form action=\"makeTran\"><input type=\"submit\" value=\"Wykonaj zakup\"></form>");
-        	out.println("<a href=\"addToBasket.jsp\">Dodaj wiecej produktow</a>");
-        	out.println("<a href=\"index.jsp\">Wstecz</a>");
+        	//out.println("<form action=\"makeTran\" style=\"margin-bottom:0.2in\"><input type=\"submit\" value=\"Wykonaj zakup\"></form>");
+        	out.println("<btl><a href=\"makeTran\">Dokonaj zakupu</a></btl>");
+        	out.println("<btl><a href=\"addToBasket.jsp\">Dodaj wiecej produktow</a></btl>");
+        	out.println("<btl><a href=\"index.jsp\">Wstecz</a></btl>");
         	out.println("</body>");
         	out.println("</html>");
         } catch (NullPointerException e) {
@@ -77,8 +79,9 @@ public class Shop extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<center><img src=\"newicon1great50.png\"><h2>Sklep z papierosami</h2></center>");
+            out.println("<hr>");
             out.println("<center><h3>Twój koszyk jest pusty!</h3></center>");
-            out.println("<a href=\"index.jsp\">Wstecz</a>");
+            out.println("<center><btc><a href=\"index.jsp\">Wstecz</a></btc></center>");
             out.println("</body>");
             out.println("</html>");
         }
