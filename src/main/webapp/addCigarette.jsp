@@ -5,22 +5,26 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Add a cigarette...</title>
+<link href="index.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
 	<jsp:setProperty name="cigarette" property="*" /> 
 	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
-	
+	<center><img src="newicon1great50.png">
+    <h2>Sklep z papierosami</h2></center>
+    
 	<% 
   	storage.addCigarette(cigarette);
 	%>
 
-	<p>Dodano towar od bazy: </p>
+	<p>Dodano towar do bazy: </p>
 	<p>Nazwa: ${cigarette.name} </p>
 	<p>Cena za sztukę: ${cigarette.price} </p>
 	<p>Ilość sztuk: <jsp:getProperty name="cigarette" property="count"></jsp:getProperty></p>
 	<p>
-  		<a href="cigList">Show all persons</a>
+  		<a href="cigList">Pokaż wszystkie towary</a>
+  		<a href="index.jsp">Wstecz</a>
 	</p>
 </body>
 </html>

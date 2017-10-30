@@ -7,7 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import com.example.servletjspdemo.domain.Cigarette;
 
@@ -48,7 +50,7 @@ public class CigaretteHandler implements CigBase {
 			deleteAllCigStmt = connection.prepareStatement("DELETE FROM Cigarette;");
 			deleteCigStmt = connection.prepareStatement("DELETE FROM Cigarette WHERE id = ?;");
 			replaceCigStmt = connection.prepareStatement("UPDATE Cigarette SET Name = ?, Price = ?, Count = ? WHERE id = ?;");
-			System.out.println("Connected!");
+			//System.out.println("Connected!");
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
@@ -114,6 +116,22 @@ public class CigaretteHandler implements CigBase {
 			replaceCigStmt.setInt(4, oldcig.getId());
 			
 			addCigStmt.executeUpdate();
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public void replaceCigarette(int oldcig_id, Cigarette newcig) {
+		try {
+			replaceCigStmt.setString(1, newcig.getName());
+			replaceCigStmt.setDouble(2, newcig.getPrice());
+			replaceCigStmt.setInt(3, newcig.getCount());
+			replaceCigStmt.setInt(4, oldcig_id);
+			
+			replaceCigStmt.executeUpdate();
+			
+			//System.out.println(replaceCigStmt);
 
 		} catch (SQLException e) {
 			e.printStackTrace();

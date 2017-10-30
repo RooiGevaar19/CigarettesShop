@@ -10,4 +10,5 @@ public interface CigBase {
 	void removeCigarette(Cigarette cig);
 	void removeAllCigarettes();
 	void replaceCigarette(Cigarette oldcig, Cigarette newcig);
+	void replaceCigarette(int oldcig_id, Cigarette newcig);
 }

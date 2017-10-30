@@ -5,8 +5,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Dodaj towar</title>
+<link href="index.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+	<center><img src="newicon1great50.png">
+    <h2>Sklep z papierosami</h2></center>
 	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
 	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
 	<form action="addCigarette.jsp">
@@ -15,5 +18,6 @@
 		Ilość :<input type="text" name="count" value="${cigarette.count}" /><br />
 		<input type="submit" value=" OK ">
 	</form>
+	<a href="index.jsp">Wróć</a>
 </body>
 </html>

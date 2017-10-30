@@ -1,3 +1,13 @@
 body {
      font-family: Comfortaa, Calibri, Sans;
 }
+
+th {
+	background: #ff8800;
+	color: #ffffff;
+	padding : 0.05in;
+}
+
+td {
+	padding : 0.05in;
+}
