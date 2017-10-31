@@ -76,5 +76,5 @@ public class Cigarette {
         int result = Name != null ? Name.hashCode() : 0;
         result = 31 * result + (int) Price;
         return result;
-}
+    }
 }
