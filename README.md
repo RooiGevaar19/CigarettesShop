@@ -1,4 +1,7 @@
 # CigarettesShop
 
 **Servlet:** CRUD & Session
-**Rest:** RESTful things 
+(aby dodać trochę przykładowych rekordów do testów, należy wykonać program MakeAmericaGreatAgain - np. wpisać w przeglądarce http://localhost:8080/servletjspdemo/MakeAmericaGreatAgain)
+
+**Rest:** RESTful 
+

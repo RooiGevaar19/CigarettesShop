@@ -58,7 +58,7 @@ public class CigaretteManager {
 	@Consumes(MediaType.APPLICATION_JSON)
 	public Response addPerson(Cigarette cig) {
 		System.out.println(cig.getName());
-		storage.put(cig.getID(), cig);
+		storage.put((long) cig.getID(), cig);
 		return Response.status(Response.Status.OK).build();
 	}
 
