@@ -90,3 +90,32 @@ btl {
 	margin-bottom:0.3in;
 	text-align: left;
 }
+
+input.button {
+	clear: both;
+	background-color: #FF8800;
+	font-family: Comfortaa, Sans, Calibri;
+	font-size: 0.2in;
+	padding: 0.1in;
+	color: #FFFFFF;
+	margin-top: 0.1in;
+	margin-left: 0.1in;
+	margin-right: 0.1in;
+	margin-bottom: 0.1in;
+	text-align: middle, center;
+}
+
+input.button:hover {
+	clear: both;
+	background-color: #FFCC44;
+	font-family: Comfortaa, Sans, Calibri;
+	padding: 0.1in;
+	font-size: 0.2in;
+	color: #FFFFFF;
+	margin-top: 0.1in;
+	margin-left: 0.1in;
+	margin-right: 0.1in;
+	margin-bottom: 0.1in;
+	text-align: middle, center;
+	text-decoration: none;
+}

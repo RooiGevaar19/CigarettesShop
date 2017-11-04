@@ -23,7 +23,7 @@ public class MakeAmericaGreatAgain extends HttpServlet{
 		storage.addCigarette(new Cigarette(3, "Lucky Strike", 16.00, 1024));
 		storage.addCigarette(new Cigarette(4, "LM", 14.70, 997));
 		storage.addCigarette(new Cigarette(5, "Route 66", 12.50, 1540));
-		storage.addCigarette(new Cigarette(6, "Skrety", 16.00, 0));
+		storage.addCigarette(new Cigarette(6, "Skrety", 5.50, 0));
 		storage.addCigarette(new Cigarette(7, "Rothmans", 11.99, 2666));
 		response.sendRedirect("index.jsp");
 	}

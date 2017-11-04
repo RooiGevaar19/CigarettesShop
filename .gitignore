@@ -3,3 +3,6 @@
 /db/*.jar
 /.settings
 *.sh
+/Rest/target
+/Servlet/target
+.project

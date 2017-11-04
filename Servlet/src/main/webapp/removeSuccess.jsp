@@ -4,21 +4,23 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Dodaj towar</title>
+<title>Add a cigarette...</title>
 <link href="index.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
+	<jsp:setProperty name="cigarette" property="*" /> 
+	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
 	<center><img src="newicon1great50.png">
     <h2>Sklep z papierosami</h2></center><hr>
-	<jsp:useBean id="cigarette" class="com.example.servletjspdemo.domain.Cigarette" scope="session" />
-	<jsp:useBean id="storage" class="com.example.servletjspdemo.service.CigaretteHandler" scope="application" />
-	<form action="addCigarette.jsp" style="margin-left:0.1in" method="post">
-		Nazwa towaru :<input type="text" name="name" value="${cigarette.name}" /><br />
-		Cena za sztukę :<input type="text" name="price" value="${cigarette.price}" /><br />
-		Ilość :<input type="text" name="count" value="${cigarette.count}" /><br />
-		<input type="submit" value=" OK ">
-	</form>
-	<br>
-	<btl><a href="index.jsp">Wróć</a></btl>
+    
+
+	<center><p><h3>Pomyślnie usunięto z bazy</h3></p><center>
+	<p>
+  		<center>
+  		<btc><a href="cigList">Pokaż wszystkie towary</a></btc>
+  		<btc><a href="index.jsp">Wstecz</a></btc>
+  		</center>
+	</p>
 </body>
 </html>

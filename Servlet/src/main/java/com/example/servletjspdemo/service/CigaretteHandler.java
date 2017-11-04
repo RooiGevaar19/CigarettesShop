@@ -26,6 +26,7 @@ public class CigaretteHandler implements CigBase {
 	private PreparedStatement deleteAllCigStmt;
 	private PreparedStatement deleteCigStmt;
 	private PreparedStatement replaceCigStmt;
+	private PreparedStatement getCigByIDStmt;
 
 	private Statement statement;
 	
@@ -50,6 +51,7 @@ public class CigaretteHandler implements CigBase {
 			deleteAllCigStmt = connection.prepareStatement("DELETE FROM Cigarette;");
 			deleteCigStmt = connection.prepareStatement("DELETE FROM Cigarette WHERE id = ?;");
 			replaceCigStmt = connection.prepareStatement("UPDATE Cigarette SET Name = ?, Price = ?, Count = ? WHERE id = ?;");
+			getCigByIDStmt = connection.prepareStatement("SELECT id, Name, Price, Count FROM Cigarette WHERE id = ?;");
 			//System.out.println("Connected!");
 		} catch (SQLException e) {
 			e.printStackTrace();
@@ -100,6 +102,16 @@ public class CigaretteHandler implements CigBase {
 			e.printStackTrace();
 		}
 	}
+	public void removeCigaretteByID(int id) {
+		try {
+			deleteCigStmt.setInt(1, id);
+
+			deleteCigStmt.executeUpdate();
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
 	public void removeAllCigarettes() {
 		try {
 			deleteAllCigStmt.executeUpdate();
@@ -136,6 +148,37 @@ public class CigaretteHandler implements CigBase {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public void editCigarette(int id, String name, double price, int count) {
+		try {
+			replaceCigStmt.setString(1, name);
+			replaceCigStmt.setDouble(2, price);
+			replaceCigStmt.setInt(3, count);
+			replaceCigStmt.setInt(4, id);
+			
+			replaceCigStmt.executeUpdate();
+			
+			//System.out.println(replaceCigStmt);
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public Cigarette getCigaretteByID(int ida) throws SQLException {
+		Cigarette p = new Cigarette();
+		getCigByIDStmt.setInt(1, ida);
+
+		ResultSet rs = getCigByIDStmt.executeQuery();
+		
+		rs.next();
+		p.setId(rs.getInt("id"));
+		p.setName(rs.getString("Name"));
+		p.setPrice(rs.getDouble("Price"));
+		p.setCount(rs.getInt("Count"));
+			
+		return p;
 	}
 
 }
