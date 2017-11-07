@@ -8,8 +8,14 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Sklep z papierosami Cigar</title>
         <link href="index.css" rel="stylesheet" type="text/css">
+        <jsp:useBean id="test" class="com.example.servletjspdemo.web.MakeAmericaGreatAgain" scope="session" />
     </head>
     <body>
+    	<!-- test -->
+    	<% 
+    		test.performGoodTest();
+    		test.performBadTest();
+    	%>
     	<center><img src="newicon1great50.png">
     	<h2>Sklep z papierosami</h2></center><hr>
         <center><h3>Zakupy</h3></center>

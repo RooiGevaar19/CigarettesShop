@@ -1,6 +1,7 @@
 package com.example.servletjspdemo.web;
 
 import java.io.IOException;
+import java.sql.SQLException;
 import java.util.Map;
 
 import javax.servlet.ServletException;
@@ -44,7 +45,12 @@ public class MakeTransaction extends HttpServlet {
 						items.get(key).getCigarette().getPrice(),
 						((items.get(key).getCigarette().getCount())-(items.get(key).getQuantity()))
         			);
-        			db.replaceCigarette(items.get(key).getCigarette().getId(), newcig);
+        			try
+        			{
+        				db.replaceCigarette(items.get(key).getCigarette().getId(), newcig);
+        			} catch (SQLException e) {
+        				response.sendRedirect("TranFail");
+        			}
         		}
         		items.clear();
         		response.sendRedirect("TranSuccess");

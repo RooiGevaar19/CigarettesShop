@@ -1,6 +1,7 @@
 package com.example.servletjspdemo.web;
 
 import java.io.IOException;
+import java.sql.SQLException;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -19,7 +20,11 @@ public class DeleteCigarette extends HttpServlet {
 			throws ServletException, IOException {
 		response.setCharacterEncoding("text/html;charset=UTF-8");   
 		CigaretteHandler storage = new CigaretteHandler();
-	    storage.removeCigaretteByID(Integer.parseInt(request.getParameter("id")));
+	    try {
+	    	storage.removeCigaretteByID(Integer.parseInt(request.getParameter("id")));
+	    } catch (SQLException e) {
+	    	response.sendRedirect("removeFail.jsp");
+	    }
 	    response.sendRedirect("removeSuccess.jsp");
 	}
 }
