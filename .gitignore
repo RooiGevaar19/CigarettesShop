@@ -5,4 +5,7 @@
 *.sh
 /Rest/target
 /Servlet/target
+/Spring/target
 .project
+*.war
+*.ear

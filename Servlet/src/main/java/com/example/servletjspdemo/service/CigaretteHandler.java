@@ -22,11 +22,11 @@ public class CigaretteHandler implements CigBase {
 
 	private String getAllCigStmt = "SELECT id, Name, Price, Count FROM Cigarette;";
 	
-	private PreparedStatement addCigStmt;
-	private PreparedStatement deleteAllCigStmt;
-	private PreparedStatement deleteCigStmt;
-	private PreparedStatement replaceCigStmt;
-	private PreparedStatement getCigByIDStmt;
+	protected PreparedStatement addCigStmt;
+	protected PreparedStatement deleteAllCigStmt;
+	protected PreparedStatement deleteCigStmt;
+	protected PreparedStatement replaceCigStmt;
+	protected PreparedStatement getCigByIDStmt;
 
 	private Statement statement;
 	

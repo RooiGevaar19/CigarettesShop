@@ -14,36 +14,36 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.example.restwsdemo.domain.Person;
-import com.example.restwsdemo.service.PersonManager;
+import com.example.restwsdemo.domain.Cigarette;
+import com.example.restwsdemo.service.CigaretteManager;
 
-@Path("person")
+@Path("cigarette")
 @Stateless
-public class PersonRESTService {
+public class CigaretteRESTService {
 
 	@Inject
-	private PersonManager pm;
+	private CigaretteManager pm;
 
 	@GET
-	@Path("/{personId}")
+	@Path("/{cigId}")
 	@Produces(MediaType.APPLICATION_JSON)
-	public Person getPerson(@PathParam("personId") Integer id) {
-		Person p = pm.getPerson(id);
+	public Cigarette getCigarette(@PathParam("cigId") Integer id) {
+		Cigarette p = pm.getCigarette(id);
 		return p;
 	}
 
-	@GET
-	@Produces(MediaType.APPLICATION_JSON)
-	public List<Person> getPersons() {
-		return pm.getAllPersons();
-	}
+	//@GET
+	//@Produces(MediaType.APPLICATION_JSON)
+	//public List<Cigarette> getCigarettes() {
+	//	return pm.getAllCigarettes();
+	//}
 
 	@POST
 	@Consumes(MediaType.APPLICATION_JSON)
-	public Response addPerson(Person person) {
-		pm.addPerson(person);
+	public Response addCigarette(Cigarette cig) {
+		pm.addCigarette(cig);
 
-		return Response.status(201).entity("Person").build();
+		return Response.status(201).entity("Cigarette").build();
 	}
 
 	@GET
@@ -54,7 +54,9 @@ public class PersonRESTService {
 	}
 
 	@DELETE
-	public Response clearPersons() {
+	@Path("/{cigId}")
+	public Response removeCigaretteByID(@PathParam("cigId") int id) {
+		pm.deleteCigarette(id);
 		return Response.status(200).build();
 	}
 
