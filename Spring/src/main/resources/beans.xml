@@ -13,5 +13,41 @@
 		<property name="firstName" value="Zosia" />
 		<property name="yob" value="1987" />
 	</bean>
+	<bean id="janusz" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Janusz" />
+		<property name="yob" value="1964" />
+	</bean>
+	<bean id="grazyna" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Grazyna" />
+		<property name="yob" value="1968" />
+	</bean>
+	<bean id="roman" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Roman" />
+		<property name="yob" value="1965" />
+	</bean>
+	<bean id="halina" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Halina" />
+		<property name="yob" value="1967" />
+	</bean>
+	<bean id="brajan" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Brajan" />
+		<property name="yob" value="1990" />
+	</bean>
+	<bean id="dzesika" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Dzesika" />
+		<property name="yob" value="1992" />
+	</bean>
+	<bean id="seba" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Seba" />
+		<property name="yob" value="2008" />
+	</bean>
+	<bean id="karyna" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Karyna" />
+		<property name="yob" value="2009" />
+	</bean>
+	<bean id="dzoana" class="com.example.springdemo.domain.Person">
+		<property name="firstName" value="Dzoana" />
+		<property name="yob" value="2010" />
+	</bean>
 
 </beans>

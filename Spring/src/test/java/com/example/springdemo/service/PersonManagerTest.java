@@ -17,7 +17,9 @@ public class PersonManagerTest {
 
 	@Test
 	public void sayHelloTest() {
-		assertEquals("I'm Zosia!", pm.sayName());
+		String control = "I'm Zosia!\nI'm Janusz!\nI'm Grazyna!\nI'm Roman!\nI'm Halina!\nI'm Brajan!\nI'm Dzesika!\nI'm Seba!\nI'm Karyna!\nI'm Dzoana!\n";
+		assertEquals(control, pm.sayName());
+		//assertEquals(10, pm.getCount());
 	}
 
 }
