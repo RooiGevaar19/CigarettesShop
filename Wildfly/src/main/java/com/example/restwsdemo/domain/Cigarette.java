@@ -1,18 +1,25 @@
 package com.example.restwsdemo.domain;
 
+import java.util.ArrayList;
+import java.util.Collection;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.ManyToMany;
+import javax.persistence.OneToOne;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 @Entity
 public class Cigarette {
-	private int id = 0;
-	private String name;
-	private double price;
-	private int count;
+	private long id = 0;
+	private String name = "";
+	private double price = 0.0;
+	private int count = 0;
+	private Stamp stamp = new Stamp();
+	private Collection<Owner> ownerList = new ArrayList<Owner>();
 	
 	public Cigarette() {
 	}
@@ -26,11 +33,11 @@ public class Cigarette {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	public int getID() {
+	public long getID() {
 		return id;
 	}
 
-	public void setID(int id) {
+	public void setID(long id) {
 		this.id = id;
 	}
 
@@ -56,6 +63,24 @@ public class Cigarette {
 
 	public void setCount(int count) {
 		this.count = count;
+	}
+
+	@OneToOne
+	public Stamp getStamp() {
+		return stamp;
+	}
+
+	public void setStamp(Stamp stamp) {
+		this.stamp = stamp;
+	}
+
+	@ManyToMany(mappedBy="cigaretteList")
+	public Collection<Owner> getOwnerList() {
+		return ownerList;
+	}
+
+	public void setOwnerList(Collection<Owner> ownerList) {
+		this.ownerList = ownerList;
 	}
 
 }

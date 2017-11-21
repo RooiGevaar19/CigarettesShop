@@ -5,15 +5,15 @@ import java.util.List;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
-public class CigarettesResponse {
+public class ExcisesResponse {
 	
-	private List<Cigarette> cig;
+	private List<Excise> cig;
 
-	public List<Cigarette> getCigarette() {
+	public List<Excise> getExcise() {
 		return cig;
 	}
 
-	public void setCigarette(List<Cigarette> cig) {
+	public void setExcise(List<Excise> cig) {
 		this.cig = cig;
 	}
 
