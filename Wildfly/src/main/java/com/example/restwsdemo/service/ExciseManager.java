@@ -22,13 +22,13 @@ public class ExciseManager {
 		em.persist(cig);
 	}
 
-	public void deleteExcise(int id){
+	public void deleteExcise(long id){
 		Excise cig = em.find(Excise.class, id);
 		 
 		em.remove(cig);
 	}
 	
-	public Excise getExcise(int id) {
+	public Excise getExcise(long id) {
 		return em.find(Excise.class, id);
 	}
 	
