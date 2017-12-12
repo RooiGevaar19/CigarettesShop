@@ -61,4 +61,9 @@ public class Stamp {
 		this.excise = excise;
 	}
 	
+	public void addExcise(Excise excise) {
+		setExcise(excise);
+		excise.getStamps().add(this);
+	}
+	
 }

@@ -32,8 +32,17 @@ public class StampManager {
 		return em.find(Stamp.class, id);
 	}
 	
-//	public List<Cigarette> getAllCigarettes(){
-//		return db;
-//	}
-
+	@SuppressWarnings("unchecked")
+	public List<Stamp> getAll(){
+		return em.createNamedQuery("stamp.all").getResultList();
+	}
+	
+	@SuppressWarnings("unchecked")
+	public List<Stamp> findByDate(int yop){
+		return em.createNamedQuery("stamp.findByDate").setParameter("date", yop).getResultList();
+	}
+	
+	public void deleteAll(){
+		em.createNamedQuery("stamp.delete.all").executeUpdate();
+	}
 }

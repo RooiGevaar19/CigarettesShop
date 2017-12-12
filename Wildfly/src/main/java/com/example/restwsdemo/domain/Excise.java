@@ -93,6 +93,4 @@ public class Excise {
 	public void setStamps(Collection<Stamp> stamps) {
 		this.stamps = stamps;
 	}
-	
-	
 }

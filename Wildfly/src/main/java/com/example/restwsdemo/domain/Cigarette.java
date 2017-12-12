@@ -91,5 +91,11 @@ public class Cigarette {
 	public void setOwnerList(Collection<Owner> ownerList) {
 		this.ownerList = ownerList;
 	}
-
+	
+	public void addOwnerList(Collection<Owner> ownerList) {
+		this.setOwnerList(ownerList);
+		for (Owner owner : ownerList) {
+			owner.getCigaretteList().add(this);
+		}
+	}
 }

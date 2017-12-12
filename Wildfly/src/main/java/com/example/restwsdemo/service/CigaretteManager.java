@@ -14,7 +14,6 @@ import com.example.restwsdemo.domain.Cigarette;
 
 @Stateless
 public class CigaretteManager {
-	
 	@PersistenceContext
 	EntityManager em;
 
@@ -32,8 +31,17 @@ public class CigaretteManager {
 		return em.find(Cigarette.class, id);
 	}
 	
-//	public List<Cigarette> getAllCigarettes(){
-//		return db;
-//	}
-
+	@SuppressWarnings("unchecked")
+	public List<Cigarette> getAll(){
+		return em.createNamedQuery("cigarette.all").getResultList();
+	}
+	
+	@SuppressWarnings("unchecked")
+	public List<Cigarette> findByName(int yop){
+		return em.createNamedQuery("cigarette.findByName").setParameter("name", yop).getResultList();
+	}
+	
+	public void deleteAll(){
+		em.createNamedQuery("cigarette.delete.all").executeUpdate();
+	}
 }

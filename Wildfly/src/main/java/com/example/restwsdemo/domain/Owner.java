@@ -74,5 +74,10 @@ public class Owner {
 		this.cigaretteList = cigaretteList;
 	}
 	
-	
+	public void addCigaretteList(Collection<Cigarette> cigaretteList) {
+		setCigaretteList(cigaretteList);
+		for (Cigarette cig : cigaretteList) {
+			cig.getOwnerList().add(this);
+		}
+	}
 }

@@ -32,11 +32,11 @@ public class CigaretteRESTService {
 		return p;
 	}
 
-	//@GET
-	//@Produces(MediaType.APPLICATION_JSON)
-	//public List<Cigarette> getCigarettes() {
-	//	return pm.getAllCigarettes();
-	//}
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Cigarette> getCigarettes() {
+		return pm.getAll();
+	}
 
 	@POST
 	@Consumes(MediaType.APPLICATION_JSON)
@@ -47,10 +47,11 @@ public class CigaretteRESTService {
 	}
 
 	@GET
-	@Path("/test")
+	@Path("/testcig")
 	@Produces(MediaType.TEXT_PLAIN)
 	public String test() {
-		return "REST API /person is running today!";
+		//pm.addCigarette(new Cigarette("Marlboro", 16.50, 2137));
+		return "REST API /person is running today! XD";
 	}
 
 	@DELETE

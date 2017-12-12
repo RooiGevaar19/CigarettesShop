@@ -10,6 +10,7 @@ import javax.persistence.Entity;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
+import com.example.restwsdemo.domain.Cigarette;
 import com.example.restwsdemo.domain.Excise;
 
 @Stateless
@@ -32,8 +33,17 @@ public class ExciseManager {
 		return em.find(Excise.class, id);
 	}
 	
-//	public List<Cigarette> getAllCigarettes(){
-//		return db;
-//	}
-
+	@SuppressWarnings("unchecked")
+	public List<Excise> getAll(){
+		return em.createNamedQuery("excise.all").getResultList();
+	}
+	
+	@SuppressWarnings("unchecked")
+	public List<Excise> findByName(int yop){
+		return em.createNamedQuery("excise.findByName").setParameter("name", yop).getResultList();
+	}
+	
+	public void deleteAll(){
+		em.createNamedQuery("excise.delete.all").executeUpdate();
+	}
 }
