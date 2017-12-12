@@ -9,11 +9,18 @@ import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @Entity
 @XmlRootElement
+@NamedQueries({
+	@NamedQuery(name = "excise.all", query = "Select c from Excise c"),
+	@NamedQuery(name = "excise.delete.all", query = "DELETE FROM Excise"),
+	@NamedQuery(name = "excise.findByName", query = "SELECT c FROM Excise c WHERE c.name = :name"),
+})
 public class Excise {
 	private long id = 0;
 	private String name = "";

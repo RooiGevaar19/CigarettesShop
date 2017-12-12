@@ -8,11 +8,20 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.persistence.OneToOne;
 import javax.xml.bind.annotation.XmlRootElement;
 
+
+// https://github.com/KubaNeumann/restejbjpa/tree/master/src/main/java/com/example/restejbjpa/service
 @XmlRootElement
 @Entity
+@NamedQueries({
+		@NamedQuery(name = "cigarette.all", query = "Select c from Cigarette c"),
+		@NamedQuery(name = "cigarette.delete.all", query = "DELETE FROM Cigarette"),
+		@NamedQuery(name = "cigarette.findByName", query = "SELECT c FROM Cigarette c WHERE c.name = :name"),
+})
 public class Cigarette {
 	private long id = 0;
 	private String name = "";

@@ -7,10 +7,17 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @Entity
 @XmlRootElement
+@NamedQueries({
+	@NamedQuery(name = "stamp.all", query = "Select c from Stamp c"),
+	@NamedQuery(name = "stamp.delete.all", query = "DELETE FROM Stamp"),
+	@NamedQuery(name = "stamp.findByDate", query = "SELECT c FROM Stamp c WHERE c.date = :date"),
+})
 public class Stamp {
 	private long id = 0;
 	private String date = "";

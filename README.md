@@ -6,3 +6,5 @@
 **Rest:** RESTful 
 
 **Spring:** Utrwalanie Java, Spring
+
+**Wildfly**: Java EE

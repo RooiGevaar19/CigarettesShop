@@ -9,10 +9,17 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToMany;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @Entity
 @XmlRootElement
+@NamedQueries({
+	@NamedQuery(name = "owner.all", query = "Select c from Owner c"),
+	@NamedQuery(name = "owner.delete.all", query = "DELETE FROM Owner"),
+	@NamedQuery(name = "owner.findBySurname", query = "SELECT c FROM Owner c WHERE c.surname = :surname"),
+})
 public class Owner {
 	private long id = 0;
 	private String name = "";
