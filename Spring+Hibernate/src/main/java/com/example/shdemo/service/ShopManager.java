@@ -16,7 +16,6 @@ public interface ShopManager {
 	List<Buyer> getAllBuyers();
 	void deleteBuyer (Buyer buyer);
 	Buyer findBuyerByID(int id);
+	Buyer findBuyerByFirstName(String firstName);
 	Buyer findBuyerByLastName(String lastName);
-	
-	List<Cigarette> getOwnedCigarettes(Buyer buyer);
 }

@@ -37,55 +37,70 @@ public class ShopManagerHibernate implements ShopManager {
 	}
 	@Override
 	public void deleteCigarette(Cigarette cigarette) {
-		person = (Person) sessionFactory.getCurrentSession().get(Person.class,
-				person.getId());
-		car = (Car) sessionFactory.getCurrentSession().get(Car.class,
-				car.getId());
-
-		Car toRemove = null;
-		// lazy loading here (person.getCars)
-		for (Car aCar : person.getCars())
-			if (aCar.getId().compareTo(car.getId()) == 0) {
-				toRemove = aCar;
-				break;
-			}
-
-		if (toRemove != null)
-			person.getCars().remove(toRemove);
-
-		car.setSold(false);
+		cigarette = (Cigarette) sessionFactory.getCurrentSession().get(Cigarette.class,
+				cigarette.getID());
+		
+		// lazy loading here
+		Buyer buyer = cigarette.getOwner();
+		buyer.getCigs().remove(cigarette);
+		sessionFactory.getCurrentSession().update(buyer);
+		
+		sessionFactory.getCurrentSession().delete(cigarette);
 	}
 	@Override
 	public Cigarette findCigaretteByID(int id) {
-		
+		return (Cigarette) sessionFactory.getCurrentSession()
+				.getNamedQuery("cigarette.byID")
+				.setString("id", String.valueOf(id))
+				.uniqueResult();
 	}
 	@Override
 	public Cigarette findCigaretteByName(String name) {
-		
+		return (Cigarette) sessionFactory.getCurrentSession()
+				.getNamedQuery("cigarette.byName")
+				.setString("name", name)
+				.uniqueResult();
 	}
 	
 	@Override
 	public void addBuyer(Buyer buyer) {
-		
+		sessionFactory.getCurrentSession().persist(buyer);
 	}
 	@Override
 	public List<Buyer> getAllBuyers() {
-		
+		return sessionFactory.getCurrentSession().getNamedQuery("buyer.all").list();
 	}
 	@Override
 	public void deleteBuyer(Buyer buyer) {
+		buyer = (Buyer) sessionFactory.getCurrentSession().get(Buyer.class,
+				buyer.getID());
 		
+		// lazy loading here
+		for (Cigarette cigarette : buyer.getCigs()) {
+			cigarette.setOwner(null);
+			sessionFactory.getCurrentSession().update(cigarette);
+		}
+		sessionFactory.getCurrentSession().delete(buyer);
 	}
 	@Override
 	public Buyer findBuyerByID(int id) {
-		
+		return (Buyer) sessionFactory.getCurrentSession()
+				.getNamedQuery("buyer.byID")
+				.setString("id", String.valueOf(id))
+				.uniqueResult();
+	}
+	@Override
+	public Buyer findBuyerByFirstName(String firstName) {
+		return (Buyer) sessionFactory.getCurrentSession()
+				.getNamedQuery("cigarette.byFirstName")
+				.setString("fname", firstName)
+				.uniqueResult();
 	}
 	@Override
 	public Buyer findBuyerByLastName(String lastName) {
-		
-	}
-	
-	public List<Cigarette> getOwnedCigarettes(Buyer buyer) {
-		
+		return (Buyer) sessionFactory.getCurrentSession()
+				.getNamedQuery("cigarette.byLastName")
+				.setString("lname", lastName)
+				.uniqueResult();
 	}
 }

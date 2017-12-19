@@ -17,8 +17,8 @@ import javax.persistence.OneToMany;
 @NamedQueries({ 
 	@NamedQuery(name = "buyer.all", query = "Select p from Buyer p"),
 	@NamedQuery(name = "buyer.byID", query = "Select p from Buyer p where p.id = :id"),
-	@NamedQuery(name = "buyer.byfirstName", query = "Select p from Buyer p where p.firstname = :fname"),
-	@NamedQuery(name = "buyer.bylastName", query = "Select p from Buyer p where p.lastname = :lname")
+	@NamedQuery(name = "buyer.byFirstName", query = "Select p from Buyer p where p.firstname = :fname"),
+	@NamedQuery(name = "buyer.byNastName", query = "Select p from Buyer p where p.lastname = :lname")
 })
 public class Buyer {
 	private int id = 0;

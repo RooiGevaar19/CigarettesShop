@@ -85,7 +85,7 @@ public class Excise {
 		this.value = value;
 	}
 
-	@OneToMany(mappedBy="excise", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
+	@OneToMany(mappedBy="excise", cascade = CascadeType.MERGE, fetch = FetchType.LAZY)
 	public Collection<Stamp> getStamps() {
 		return stamps;
 	}
