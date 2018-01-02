@@ -1,10 +1,12 @@
 # CigarettesShop
 
-**Servlet:** CRUD & Session
-(aby dodać trochę przykładowych rekordów do testów, należy wykonać program MakeAmericaGreatAgain - np. wpisać w przeglądarce http://localhost:8080/servletjspdemo/MakeAmericaGreatAgain)
+**Servlet:** (*Utrwalanie Java + Java Enterprise*) CRUD & Session + obsługa JDBC + Testy 
+(aby dodać trochę przykładowych rekordów, należy wykonać program MakeAmericaGreatAgain - np. wpisać w przeglądarce http://localhost:8080/servletjspdemo/MakeAmericaGreatAgain)
 
-**Rest:** RESTful 
+**Spring + Hibernate:** (*Utrwalanie Java*) Spring Boot
 
-**Spring:** Utrwalanie Java, Spring
+Inne:  
+**Spring:** Utrwalanie Java, początki ze Spring  
+**Rest:** RESTful  
+**Wildfly**: Java EE i prace na Wildfly  
 
-**Wildfly**: Java EE

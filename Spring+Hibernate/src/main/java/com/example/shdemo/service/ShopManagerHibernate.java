@@ -9,9 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.example.shdemo.domain.Buyer;
-import com.example.shdemo.domain.Car;
 import com.example.shdemo.domain.Cigarette;
-import com.example.shdemo.domain.Person;
 
 @Component
 @Transactional
@@ -102,5 +100,10 @@ public class ShopManagerHibernate implements ShopManager {
 				.getNamedQuery("cigarette.byLastName")
 				.setString("lname", lastName)
 				.uniqueResult();
+	}
+	
+	@Override
+	public int getCigarettesCount() {
+		return sessionFactory.getCurrentSession().getNamedQuery("cigarette.all").list().size();
 	}
 }

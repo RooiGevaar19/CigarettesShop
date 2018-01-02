@@ -18,4 +18,5 @@ public interface ShopManager {
 	Buyer findBuyerByID(int id);
 	Buyer findBuyerByFirstName(String firstName);
 	Buyer findBuyerByLastName(String lastName);
+	int getCigarettesCount();
 }

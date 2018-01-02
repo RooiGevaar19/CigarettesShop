@@ -13,8 +13,8 @@
     <body>
     	<!-- test -->
     	<% 
-    		test.performGoodTest();
-    		test.performBadTest();
+    		//test.performGoodTest();
+    		//test.performBadTest();
     	%>
     	<center><img src="newicon1great50.png">
     	<h2>Sklep z papierosami</h2></center><hr>
