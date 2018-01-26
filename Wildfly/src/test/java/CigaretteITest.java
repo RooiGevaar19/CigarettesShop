@@ -1,5 +1,5 @@
+import javax.inject.Inject;
 import javax.ws.rs.core.MediaType;
-
 
 import static com.jayway.restassured.RestAssured.*;
 import static org.hamcrest.CoreMatchers.*;
@@ -20,16 +20,17 @@ public class CigaretteITest {
 	}
 
 	
-	@Test
-	public void addCigarette(){
-		//delete("/person/").then().assertThat().statusCode(200);
-
-		Cigarette cigarette = new Cigarette("Papierzosy", 14.88, 2137);
-
-		given().
-	       contentType(MediaType.APPLICATION_JSON).
-	       body(cigarette).
-	    when().
-	    post("/cigarette/").then().assertThat().statusCode(is(201));
-	} 
+//	@Test
+//	public void addCigarette(){
+//		//delete("/person/").then().assertThat().statusCode(200);
+//		
+//		Cigarette cigarette = new Cigarette("Papierzosy", 14.88, 2137);
+//		
+//
+//		given().
+//	       contentType(MediaType.APPLICATION_JSON).
+//	       body(cigarette).
+//	    when().
+//	    post("/cigarette/").then().assertThat().statusCode(is(201));
+//	} 
 }

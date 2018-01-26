@@ -12,7 +12,10 @@ import javax.persistence.Id;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.OneToMany;
+import javax.transaction.Transactional;
 import javax.xml.bind.annotation.XmlRootElement;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
 @XmlRootElement
@@ -22,7 +25,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 	@NamedQuery(name = "excise.findByName", query = "SELECT c FROM Excise c WHERE c.name = :name"),
 })
 public class Excise {
-	private long id = 0;
+	private int id = 0;
 	private String name = "";
 	private double value = 0.0;
 	private Collection<Stamp> stamps;
@@ -31,26 +34,12 @@ public class Excise {
 		
 	}
 	
-	public Excise(long id, String name, double value) {
-		super();
-		this.id = id;
-		this.name = name;
-		this.value = value;
-	}
-	
 	public Excise(String name, double value) {
 		super();
 		this.name = name;
 		this.value = value;
 	}
 	
-	public Excise(long id, String name, double value, Collection<Stamp> stamps) {
-		super();
-		this.id = id;
-		this.name = name;
-		this.value = value;
-		this.stamps = stamps;
-	}
 	
 	public Excise(String name, double value, Collection<Stamp> stamps) {
 		super();
@@ -61,11 +50,11 @@ public class Excise {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	public long getID() {
+	public int getID() {
 		return id;
 	}
 
-	public void setID(long id) {
+	public void setID(int id) {
 		this.id = id;
 	}
 
@@ -85,7 +74,8 @@ public class Excise {
 		this.value = value;
 	}
 
-	@OneToMany(mappedBy="excise", cascade = CascadeType.MERGE, fetch = FetchType.LAZY)
+	@OneToMany(mappedBy = "excise", fetch=FetchType.EAGER)
+	@JsonIgnoreProperties("excise")
 	public Collection<Stamp> getStamps() {
 		return stamps;
 	}

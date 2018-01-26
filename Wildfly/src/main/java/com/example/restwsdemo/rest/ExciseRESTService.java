@@ -32,11 +32,11 @@ public class ExciseRESTService {
 		return p;
 	}
 
-	//@GET
-	//@Produces(MediaType.APPLICATION_JSON)
-	//public List<Cigarette> getCigarettes() {
-	//	return pm.getAllCigarettes();
-	//}
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Excise> getExcises() {
+		return pm.getAll();
+	}
 
 	@POST
 	@Consumes(MediaType.APPLICATION_JSON)

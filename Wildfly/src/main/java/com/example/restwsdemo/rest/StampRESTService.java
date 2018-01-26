@@ -32,11 +32,11 @@ public class StampRESTService {
 		return p;
 	}
 
-	//@GET
-	//@Produces(MediaType.APPLICATION_JSON)
-	//public List<Cigarette> getCigarettes() {
-	//	return pm.getAllCigarettes();
-	//}
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Stamp> getAllStamps() {
+		return pm.getAll();
+	}
 
 	@POST
 	@Consumes(MediaType.APPLICATION_JSON)

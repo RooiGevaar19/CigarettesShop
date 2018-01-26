@@ -45,6 +45,16 @@ public class CigaretteRESTService {
 
 		return Response.status(201).entity("Cigarette").build();
 	}
+	
+	@GET
+	@Path("/add")
+	public Response addCigarettes(){
+		pm.addCigarette(new Cigarette("Papierzosy", 21.37, 2137));
+		pm.addCigarette(new Cigarette("Kiepy", 14.88, 1488));
+		pm.addCigarette(new Cigarette("Skrety", 9.11, 199));
+		pm.addCigarette(new Cigarette("Marlboro", 16.50, 3456));
+		return Response.status(201).entity("Cigarette").build(); 
+	}
 
 	@GET
 	@Path("/testcig")

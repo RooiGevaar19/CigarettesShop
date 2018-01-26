@@ -3,7 +3,9 @@ package com.example.restwsdemo.domain;
 import java.util.ArrayList;
 import java.util.Collection;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -12,6 +14,8 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.OneToOne;
 import javax.xml.bind.annotation.XmlRootElement;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 
 // https://github.com/KubaNeumann/restejbjpa/tree/master/src/main/java/com/example/restejbjpa/service
@@ -74,7 +78,7 @@ public class Cigarette {
 		this.count = count;
 	}
 
-	@OneToOne
+	@OneToOne(cascade = {CascadeType.ALL}, fetch=FetchType.EAGER)
 	public Stamp getStamp() {
 		return stamp;
 	}
@@ -83,7 +87,8 @@ public class Cigarette {
 		this.stamp = stamp;
 	}
 
-	@ManyToMany(mappedBy="cigaretteList")
+	@ManyToMany(mappedBy="cigaretteList", fetch=FetchType.EAGER)
+	@JsonIgnoreProperties("cigaretteList")
 	public Collection<Owner> getOwnerList() {
 		return ownerList;
 	}

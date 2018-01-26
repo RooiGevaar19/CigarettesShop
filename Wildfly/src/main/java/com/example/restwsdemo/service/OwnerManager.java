@@ -34,7 +34,7 @@ public class OwnerManager {
 	}
 	
 	@SuppressWarnings("unchecked")
-	public List<Cigarette> getAll(){
+	public List<Owner> getAll(){
 		return em.createNamedQuery("owner.all").getResultList();
 	}
 	

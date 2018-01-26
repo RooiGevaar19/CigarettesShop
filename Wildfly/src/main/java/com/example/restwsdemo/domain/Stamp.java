@@ -9,7 +9,10 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
+import javax.transaction.Transactional;
 import javax.xml.bind.annotation.XmlRootElement;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
 @XmlRootElement
@@ -52,7 +55,8 @@ public class Stamp {
 		this.date = date;
 	}
 
-	@ManyToOne(cascade = CascadeType.MERGE, fetch = FetchType.EAGER)
+	@ManyToOne(cascade=CascadeType.ALL)
+	@JsonIgnoreProperties("stamps")
 	public Excise getExcise() {
 		return excise;
 	}
