@@ -31,6 +31,14 @@ public class CigaretteRESTService {
 		Cigarette p = pm.getCigarette(id);
 		return p;
 	}
+	
+	@GET
+	@Path("/find/{cigId}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Cigarette> findCigarette(@PathParam("cigId") Integer id) {
+		List<Cigarette> p = pm.findCigarette(id);
+		return p;
+	}
 
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)

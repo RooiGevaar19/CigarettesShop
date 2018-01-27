@@ -25,6 +25,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 		@NamedQuery(name = "cigarette.all", query = "Select c from Cigarette c"),
 		@NamedQuery(name = "cigarette.delete.all", query = "DELETE FROM Cigarette"),
 		@NamedQuery(name = "cigarette.findByName", query = "SELECT c FROM Cigarette c WHERE c.name = :name"),
+		@NamedQuery(name = "cigarette.getCount", query = "SELECT COUNT(c) FROM Cigarette c")
 })
 public class Cigarette {
 	private long id = 0;

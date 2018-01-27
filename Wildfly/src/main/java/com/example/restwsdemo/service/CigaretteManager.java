@@ -41,6 +41,15 @@ public class CigaretteManager {
 		return em.createNamedQuery("cigarette.findByName").setParameter("name", yop).getResultList();
 	}
 	
+	@SuppressWarnings("unchecked")
+	public List<Cigarette> findCigarette(int yop){
+		return em.createNamedQuery("cigarette.findByName").setParameter("name", yop).getResultList();
+	}
+	
+	public int getCount(){
+		return (int) em.createNamedQuery("cigarette.getCount").getSingleResult();
+	}
+	
 	public void deleteAll(){
 		em.createNamedQuery("cigarette.delete.all").executeUpdate();
 	}
