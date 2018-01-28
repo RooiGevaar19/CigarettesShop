@@ -50,6 +50,7 @@ public class CigaretteITest {
 	
 	@Test
 	public void test02(){
+		//CigaretteManager db = new CigaretteManager();
 		int a = db.getCount();
 		db.addCigarette(new Cigarette("Papierzosy", 21.37, 2137));
 		db.addCigarette(new Cigarette("Kiepy", 14.88, 1488));

@@ -31,29 +31,8 @@ public class Tester {
 			storage.addCigarette(new Cigarette(2, "Lucky Strike", 16.00, 1024));
 			storage.addCigarette(new Cigarette(3, "LM", 14.70, 997));
 			storage.addCigarette(new Cigarette(4, "Route 66", 12.50, 1540));
-			storage.addCigarette(new Cigarette(5, "Skrety", 5.50, 0));
-			storage.addCigarette(new Cigarette(6, "Rothmans", 11.99, 2666));
-			storage.addCigarette(new Cigarette(7, "Pall Mall", 11.80, 0));
-			storage.TranCommit();
-		} catch (SQLException | NumberFormatException e) {
-			try {
-				storage.TranRollback();
-			} catch (SQLException e1) {
-				e1.printStackTrace();
-			}
-		} finally {
-			try {
-				storage.TranEnd();
-			} catch (SQLException e) {
-				e.printStackTrace();
-			}
-		}
-		
-		
-		// DELETE
-		try {
-			storage.TranBegin();
-			storage.removeCigaretteByID(5);
+			storage.addCigarette(new Cigarette(5, "Rothmans", 11.99, 2666));
+			storage.addCigarette(new Cigarette(6, "Pall Mall", 11.80, 0));
 			storage.TranCommit();
 		} catch (SQLException | NumberFormatException e) {
 			try {
