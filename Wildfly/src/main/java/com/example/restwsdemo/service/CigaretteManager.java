@@ -9,7 +9,13 @@ import javax.ejb.Stateless;
 import javax.persistence.Entity;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.TypedQuery;
+import javax.persistence.criteria.CriteriaBuilder;
+import javax.persistence.criteria.CriteriaQuery;
+import javax.persistence.criteria.Predicate;
+import javax.persistence.criteria.Root;
 
+import com.example.restwsdemo.domain.Cigarette_;
 import com.example.restwsdemo.domain.Cigarette;
 
 @Stateless
@@ -53,4 +59,24 @@ public class CigaretteManager {
 	public void deleteAll(){
 		em.createNamedQuery("cigarette.delete.all").executeUpdate();
 	}
+	
+	public List<Cigarette> getByName(String name) {
+		// easy
+		//return em.createNamedQuery("Cigarette.findByName").setParameter("name", name).getResultList();
+		
+		// hard
+		CriteriaBuilder qb = em.getCriteriaBuilder();
+		CriteriaQuery<Cigarette> c = qb.createQuery(Cigarette.class);
+		
+		Root<Cigarette> b = c.from(Cigarette.class);
+		
+		Predicate cond1 = qb.equal(b.get(Cigarette_.name), name);
+		c.where(cond1);
+		
+		TypedQuery<Cigarette> q = em.createQuery(c);
+		
+		List<Cigarette> result = q.getResultList();
+		return result;
+	}
+	
 }

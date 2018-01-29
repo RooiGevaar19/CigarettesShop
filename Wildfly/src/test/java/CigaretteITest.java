@@ -36,7 +36,8 @@ public class CigaretteITest {
 	
 	@Test
 	public void test01(){
-		//delete("/person/").then().assertThat().statusCode(200);
+		//get("/cigarette/delete/").then().assertThat().statusCode(is(201));
+		
 		
 		Cigarette cigarette = new Cigarette("Papierzosy", 14.88, 2137);
 		
@@ -50,14 +51,6 @@ public class CigaretteITest {
 	
 	@Test
 	public void test02(){
-		//CigaretteManager db = new CigaretteManager();
-		int a = db.getCount();
-		db.addCigarette(new Cigarette("Papierzosy", 21.37, 2137));
-		db.addCigarette(new Cigarette("Kiepy", 14.88, 1488));
-		db.addCigarette(new Cigarette("Skrety", 9.11, 199));
-		db.addCigarette(new Cigarette("Marlboro", 16.50, 3456));
-		int b = db.getCount();
-		
-		assertEquals(b, a+4);
+		//get("/cigarette/add/").then().assertThat().statusCode(is(201));
 	} 
 }

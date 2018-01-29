@@ -17,6 +17,7 @@ import javax.ws.rs.core.Response;
 import com.example.restwsdemo.domain.Cigarette;
 import com.example.restwsdemo.service.CigaretteManager;
 
+
 @Path("cigarette")
 @Stateless
 public class CigaretteRESTService {
@@ -39,6 +40,15 @@ public class CigaretteRESTService {
 		List<Cigarette> p = pm.findCigarette(id);
 		return p;
 	}
+	
+	@GET
+	@Path("/findByName/{cigId}")
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Cigarette> findCigaretteByName(@PathParam("cigId") String yop) {
+		List<Cigarette> p = pm.getByName(yop);
+		return p;
+	}
+
 
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
@@ -72,11 +82,18 @@ public class CigaretteRESTService {
 		return "REST API /person is running today! XD";
 	}
 
-	@DELETE
-	@Path("/{cigId}")
-	public Response removeCigaretteByID(@PathParam("cigId") int id) {
+	@GET
+	@Path("/delete/{cigId}")
+	public void removeCigaretteByID(@PathParam("cigId") int id) {
 		pm.deleteCigarette(id);
-		return Response.status(200).build();
+		//return Response.status(200).build();
+	}
+	
+	@DELETE
+	public void removeCigarettes() {
+		pm.deleteAll();
+		//return Response.status(200).build();
+		//return Response.noContent().build();
 	}
 
 }
