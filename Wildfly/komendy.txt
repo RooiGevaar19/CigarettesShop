@@ -1,0 +1,3571 @@
+    1  12/19/2017 03:58:26 NM sudo apt-get install cmus
+    2  12/19/2017 03:58:26 NM cmus
+    3  12/19/2017 03:58:26 NM exit
+    4  12/19/2017 03:58:26 NM sudo dpkg -i vivaldi-stable_1.12.955.36-1_amd64.deb 
+    5  12/19/2017 03:58:26 NM cmus
+    6  12/19/2017 03:58:26 NM sudo apt-get install -f
+    7  12/19/2017 03:58:26 NM sudo dpkg -i atom-amd64.deb 
+    8  12/19/2017 03:58:26 NM cmus
+    9  12/19/2017 03:58:26 NM exit
+   10  12/19/2017 03:58:26 NM apt-get install -f
+   11  12/19/2017 03:58:26 NM sudo apt-get install -f
+   12  12/19/2017 03:58:26 NM sudo apt-get upgrade 
+   13  12/19/2017 03:58:26 NM sudo apt-get install ttf-mscorefonts-installer
+   14  12/19/2017 03:58:26 NM sudo apt-get upate ttf-mscorefonts-installer
+   15  12/19/2017 03:58:26 NM ssh rooi@10.0.0.13
+   16  12/19/2017 03:58:26 NM exit
+   17  12/19/2017 03:58:26 NM cmus
+   18  12/19/2017 03:58:26 NM exit
+   19  12/19/2017 03:58:26 NM sudo apt-get install g++
+   20  12/19/2017 03:58:26 NM exit
+   21  09/25/2017 09:06:20 NM cd Desktop/
+   22  09/25/2017 09:14:52 NM history
+   23  09/25/2017 09:16:46 NM cd Desktop/
+   24  09/25/2017 09:25:04 NM g++ hyhyhy10.cpp -o hyhyhy10 -lm
+   25  09/25/2017 09:25:10 NM ./hyhyhy10
+   26  09/25/2017 09:25:41 NM g++ hyhyhy5.cpp -o hyhyhy5 -lm
+   27  09/25/2017 09:25:44 NM ./hyhyhy5
+   28  09/25/2017 09:25:57 NM exit
+   29  09/25/2017 09:26:29 NM ./hyhyhy
+   30  09/25/2017 09:27:46 NM cd ..
+   31  09/25/2017 09:27:50 NM cd shiftingsort/
+   32  09/25/2017 09:27:52 NM ./hyhyhy
+   33  09/25/2017 09:28:32 NM exit
+   34  09/25/2017 09:29:51 NM man ln
+   35  09/25/2017 09:30:39 NM ln -s /media/rooigevaar19/Media/to_linux/programme programme_linux
+   36  09/25/2017 09:30:58 NM cd programme_linux/
+   37  09/25/2017 09:30:59 NM ls
+   38  09/25/2017 09:31:02 NM cd ..
+   39  09/25/2017 09:29:02 NM sudo apt-get install virtualbox
+   40  09/26/2017 10:41:57 VM xmllint import.xml --schema svejsetrad_schema.xsd 
+   41  09/26/2017 10:42:09 VM sudo apt-get install libxml2-utils
+   42  09/26/2017 10:42:40 VM xmllint import.xml --schema svejsetrad_schema.xsd 
+   43  09/26/2017 11:47:38 VM exit
+   44  09/26/2017 12:27:05 NM xmllint import.xml --schema svejsetrad_schema.xsd 
+   45  09/26/2017 09:18:04 VM cmus
+   46  09/26/2017 12:55:37 NM exit
+   47  09/26/2017 02:45:50 NM sudo apt-get install fpc
+   48  09/26/2017 03:02:47 NM exit
+   49  09/26/2017 02:54:55 NM ./hyhyhy10
+   50  09/26/2017 02:59:18 NM g++ hyhyhy10.cpp -o hyhyhy10 --save-temps -masm=intel
+   51  09/26/2017 03:02:50 NM exit
+   52  09/26/2017 02:40:14 NM cmus
+   53  09/26/2017 03:03:06 NM sudo shutdown -h now
+   54  09/26/2017 06:27:38 NM sudo apt-get install lazarus
+   55  09/26/2017 07:07:59 NM exit
+   56  09/26/2017 06:29:17 NM cmus
+   57  09/27/2017 07:36:35 VM sudo shutdown -h now
+   58  09/27/2017 10:47:57 VM top
+   59  09/27/2017 10:48:10 VM exit
+   60  09/27/2017 09:37:47 VM cmus
+   61  09/27/2017 10:59:33 VM sudo reboot
+   62  09/27/2017 11:26:52 VM grep -Po '.*(?=\s+[^\s]+$)' spawacze — do xml.txt
+   63  09/27/2017 11:26:59 VM grep -Po '.*(?=\s+[^\s]+$)' "spawacze — do xml.txt"
+   64  09/27/2017 11:28:12 VM awk 'NF{NF-=1};1' <"spawacze  — do xml.txt" >"spawacze_xml.txt"
+   65  09/27/2017 11:28:19 VM awk 'NF{NF-=1};1' <"spawacze — do xml.txt" >"spawacze_xml.txt"
+   66  09/27/2017 11:57:04 VM xmllint import.xml --schema svejsetrad_schema.xsd 
+   67  09/27/2017 11:38:21 VM cd /media/rooigevaar19/Media/Music/
+   68  09/27/2017 11:38:23 VM cmus
+   69  09/27/2017 06:16:30 NM sudo apt-get install ktorrent
+   70  09/27/2017 06:29:22 NM sudo apt-get install gimp
+   71  09/28/2017 01:41:01 NM sudo apt-get install sqlite
+   72  09/28/2017 01:41:48 NM sudo apt-get install libsqlite3-dev
+   73  09/28/2017 01:51:22 NM xmllint import.xml --schema svejsetrad_schema.xsd 
+   74  09/28/2017 09:19:56 VM cmus
+   75  09/28/2017 02:54:42 NM exit
+   76  10/03/2017 02:49:17 NM cd /media/rooigevaar19/Media/Music/
+   77  10/03/2017 02:49:18 NM cmus
+   78  10/03/2017 03:23:01 NM sudo shutdown -h now
+   79  10/03/2017 02:27:21 NM echo "http://wifi.inf.ug.edu.pl:81/login" > link.txt
+   80  10/03/2017 02:27:30 NM nano link.txt 
+   81  10/03/2017 02:27:35 NM exit
+   82  10/03/2017 03:56:19 NM ssh plipkowski@sigma.ug.edu.pl
+   83  10/03/2017 04:04:35 NM ls
+   84  10/03/2017 04:07:52 NM java 0v
+   85  10/03/2017 04:07:55 NM java -v
+   86  10/03/2017 04:09:01 NM sudo apt-get install default-jre
+   87  10/03/2017 04:10:08 NM java --version
+   88  10/03/2017 04:10:13 NM java -version
+   89  10/03/2017 04:10:22 NM mvn -version
+   90  10/03/2017 04:10:27 NM javac -version
+   91  10/03/2017 04:10:55 NM sudo apt-get install openjdk-9-jdk-headless 
+   92  10/03/2017 04:12:48 NM java -version
+   93  10/03/2017 04:12:51 NM javac -version
+   94  10/03/2017 04:13:07 NM sudo apt-get install maven
+   95  10/03/2017 04:15:44 NM mvn -version
+   96  10/03/2017 04:16:00 NM java -version
+   97  10/03/2017 04:16:12 NM javac -version
+   98  10/03/2017 04:16:17 NM mvn -version
+   99  10/03/2017 04:16:51 NM git -version
+  100  10/03/2017 04:16:57 NM git --version
+  101  10/03/2017 04:17:15 NM sudo apt-get update git
+  102  10/03/2017 04:17:21 NM sudo apt-get upgrade git
+  103  10/03/2017 04:18:07 NM git --version
+  104  10/03/2017 04:18:10 NM mvn -version
+  105  10/03/2017 04:20:03 NM mkdir -p JavaEEProjects
+  106  10/03/2017 04:20:05 NM cd JavaEEProjects/
+  107  10/03/2017 04:20:21 NM git clone https://github.com/KubaNeumann/servletjspdemo.git
+  108  10/03/2017 04:20:41 NM ls
+  109  10/03/2017 04:20:46 NM cd servletjspdemo/
+  110  10/03/2017 04:20:46 NM ls
+  111  10/03/2017 04:20:59 NM ls -la
+  112  10/03/2017 04:21:13 NM mvn jetty:run
+  113  10/03/2017 04:24:51 NM ls ~/.m2/repository/
+  114  10/03/2017 04:26:48 NM cd ~/.m2/repository/
+  115  10/03/2017 04:26:54 NM cd asm
+  116  10/03/2017 04:26:55 NM ls
+  117  10/03/2017 04:27:15 NM cd org
+  118  10/03/2017 04:27:19 NM cd ../org
+  119  10/03/2017 04:27:23 NM ls
+  120  10/03/2017 04:27:26 NM cd glassfish/
+  121  10/03/2017 04:27:28 NM ls
+  122  10/03/2017 04:27:34 NM cd web/
+  123  10/03/2017 04:27:35 NM ls
+  124  10/03/2017 04:27:45 NM cd w
+  125  10/03/2017 04:27:51 NM cd jstl
+  126  10/03/2017 04:27:52 NM ls
+  127  10/03/2017 04:27:57 NM cd 1.2
+  128  10/03/2017 04:27:59 NM ls
+  129  10/03/2017 04:28:07 NM ls -la
+  130  10/03/2017 04:28:54 NM cd ../../jstl-impl/
+  131  10/03/2017 04:28:57 NM cd 1.2/
+  132  10/03/2017 04:29:00 NM ls -la
+  133  10/03/2017 04:33:39 NM cd ~/JavaEEProjects/servletjspdemo/
+  134  10/03/2017 04:33:40 NM ls
+  135  10/03/2017 04:34:01 NM mvn jetty:run
+  136  10/03/2017 04:37:25 NM javac -version
+  137  10/03/2017 04:38:02 NM sudo apt-get install openjdk-8-jdk
+  138  10/03/2017 04:38:25 NM sudo apt-get install openjdk-8-jre
+  139  10/03/2017 04:38:30 NM mvn jetty:run
+  140  10/03/2017 04:39:32 NM sudo apt-get install eclipse
+  141  10/03/2017 04:43:09 NM sudo apt-get install oracle-java8-installer
+  142  10/03/2017 04:43:48 NM sudo update-alternatives --config java
+  143  10/03/2017 04:44:03 NM mvn jetty:run
+  144  10/03/2017 04:44:30 NM javac -version
+  145  10/03/2017 04:45:20 NM sudo update-alternatives --config javac
+  146  10/03/2017 04:45:54 NM mvn jetty:run
+  147  10/03/2017 05:45:42 NM cmus
+  148  10/03/2017 05:46:45 NM exitt
+  149  10/03/2017 05:46:48 NM exit
+  150  10/03/2017 05:48:52 NM ./hyhyhy10
+  151  10/03/2017 05:51:12 NM exit
+  152  10/03/2017 07:25:09 NM bc
+  153  10/03/2017 07:50:25 NM cd /media/rooigevaar19/Media/Music/
+  154  10/03/2017 07:50:26 NM cmus
+  155  10/04/2017 07:46:46 VM cd /media/rooigevaar19/Media/Music/
+  156  10/04/2017 07:46:49 VM cmus
+  157  10/04/2017 07:59:29 VM sudo shutdown -h no
+  158  10/04/2017 08:00:03 VM passwd
+  159  10/04/2017 08:01:00 VM sudo shutdown -h now
+  160  10/04/2017 08:40:03 VM cd ./woordenboek ./Lazarus/Woordenboek_FL
+  161  10/04/2017 08:40:12 VM cd ..
+  162  10/04/2017 08:40:19 VM cp -R ./woordenboek ./Lazarus/Woordenboek_FL
+  163  10/04/2017 08:40:40 VM cd Lazarus/
+  164  10/04/2017 08:40:41 VM ls
+  165  10/04/2017 08:40:59 VM cp Woordenboek_FL/ Woordenboek_EN/
+  166  10/04/2017 08:41:05 VM cp Woordenboek_FL Woordenboek_EN
+  167  10/04/2017 08:41:17 VM cp ./Woordenboek_FL ./Woordenboek_EN
+  168  10/04/2017 08:41:18 VM ls
+  169  10/04/2017 08:41:31 VM sudo cp ./Woordenboek_FL ./Woordenboek_EN
+  170  10/04/2017 08:41:46 VM cp -R ./Woordenboek_FL ./Woordenboek_EN
+  171  10/04/2017 08:41:47 VM ls
+  172  10/04/2017 08:42:20 VM exit
+  173  10/04/2017 08:38:32 VM cmus
+  174  10/04/2017 08:56:03 VM sudo apt-get install virtualbox-dkms 
+  175  10/04/2017 08:56:30 VM sudo modprobe vboxdrv
+  176  10/04/2017 08:56:54 VM modprobe vboxdrv
+  177  10/04/2017 08:57:00 VM sudo modprobe vboxdrv
+  178  10/04/2017 09:00:48 VM exif
+  179  10/04/2017 09:00:53 VM exit
+  180  10/04/2017 09:25:52 VM sudo shutdown -h now
+  181  10/04/2017 12:24:20 NM ./project1
+  182  10/04/2017 06:17:17 NM cd Music/
+  183  10/04/2017 06:17:19 NM cmus
+  184  10/04/2017 06:18:07 NM cd /media/rooigevaar19/Media/Music/
+  185  10/04/2017 06:18:09 NM cmus
+  186  10/04/2017 06:48:23 NM exit
+  187  10/05/2017 10:43:25 VM cd /media/rooigevaar19/Media/Music/
+  188  10/05/2017 10:43:27 VM cmus
+  189  10/05/2017 11:06:36 VM sudo apt-get install linux-headers-generic build-essential dkms
+  190  10/05/2017 11:08:41 VM sudo apt-get remove --purge virtualbox-dkms
+  191  10/05/2017 11:09:36 VM sudo apt-get install virtualbox-dkms
+  192  10/05/2017 11:11:47 VM sudo reboot
+  193  10/05/2017 11:13:34 VM modprobe vboxdrv
+  194  10/05/2017 11:14:44 VM sudo modprobe vboxdrv
+  195  10/05/2017 11:17:47 VM sudo /sbin/vboxconfig
+  196  10/05/2017 11:35:25 VM sudo dpkg -i virtualbox-5.1_5.1.28-117968~Ubuntu~zesty_amd64.deb 
+  197  10/05/2017 11:37:11 VM man dpkg
+  198  10/05/2017 11:37:49 VM sudo dpkg -r virtualbox-5.1 
+  199  10/05/2017 11:39:10 VM sudo dpkg -r virtualbox-5.1 --purge
+  200  10/05/2017 11:39:23 VM sudo dpkg -r --purge virtualbox-5.1
+  201  10/05/2017 11:39:48 VM sudo dpkg -i virtualbox-5.1_5.1.28-117968~Ubuntu~yakkety_amd64.deb 
+  202  10/05/2017 11:41:26 VM sudo apt-get install dkms
+  203  10/05/2017 11:42:12 VM virtualbox 
+  204  10/05/2017 11:42:28 VM sudo /sbin/vboxconfig
+  205  10/05/2017 11:43:07 VM sudo dpkg -r --purge virtualbox
+  206  10/05/2017 11:43:12 VM sudo dpkg -r virtualbox
+  207  10/05/2017 11:43:18 VM sudo dpkg -r virtualbox-*
+  208  10/05/2017 11:43:37 VM sudo dpkg -r virtualbox-5.1
+  209  10/05/2017 11:32:24 VM sudo /etc/init.d/vboxdrv setup
+  210  10/05/2017 11:32:36 VM sudo /etc/vboxdrv setup
+  211  10/05/2017 11:32:41 VM sudo /sbin/vboxdrv setup
+  212  10/05/2017 11:33:33 VM sudo apt-get remove --purge virtualbox
+  213  10/05/2017 03:05:15 NM cd /media/rooigevaar19/Media/Music/
+  214  10/05/2017 03:05:17 NM cmus
+  215  10/05/2017 03:23:20 NM sudo shutdown -h now
+  216  10/06/2017 10:19:58 VM sudo rm -rf ./racket
+  217  10/06/2017 10:16:39 VM chmod +x racket-6.10.1-x86_64-linux.sh 
+  218  10/06/2017 10:16:43 VM sudo ./racket-6.10.1-x86_64-linux.sh 
+  219  10/06/2017 10:18:06 VM racket
+  220  10/06/2017 10:18:49 VM sudo apt-get install racket
+  221  10/07/2017 12:23:15 NM sudo apt-get upgrade
+  222  10/09/2017 08:31:23 VM g++ Unit1.cpp -o unit1 -lm
+  223  10/09/2017 08:31:52 VM cp Unit1.cpp unit1_linux.cpp
+  224  10/09/2017 08:38:16 VM g++ unit1_linux.cpp -o unit1 -lm
+  225  10/09/2017 08:42:03 VM exit
+  226  10/09/2017 08:26:28 VM cd /media/rooigevaar19/Media/Music/
+  227  10/09/2017 08:26:29 VM cmus
+  228  10/09/2017 09:21:36 VM sudo shutdown -h noww
+  229  10/09/2017 09:21:39 VM sudo shutdown -h now
+  230  10/09/2017 10:35:27 VM javac -version
+  231  10/09/2017 10:35:37 VM java -version
+  232  10/09/2017 10:35:45 VM mvn -version
+  233  10/09/2017 10:38:05 VM cd .m2/
+  234  10/09/2017 10:38:06 VM ls
+  235  10/09/2017 10:38:09 VM cd repository/
+  236  10/09/2017 10:38:09 VM ls
+  237  10/09/2017 11:14:50 VM mvn -version
+  238  10/09/2017 11:06:32 VM cd UtrwalanieProjects/
+  239  10/09/2017 11:06:41 VM ls
+  240  10/09/2017 11:06:49 VM cd jdbcdemo/
+  241  10/09/2017 11:06:49 VM ls
+  242  10/09/2017 11:06:53 VM cd scripts/
+  243  10/09/2017 11:06:54 VM ls
+  244  10/09/2017 11:07:01 VM ./runHSQLDBClient.sh 
+  245  10/09/2017 11:17:06 VM cd ..
+  246  10/09/2017 11:17:40 VM history
+  247  10/09/2017 11:17:57 VM mvn test
+  248  10/09/2017 11:18:56 VM cd scripts/
+  249  10/09/2017 11:19:00 VM ./runHSQLDBServer.sh 
+  250  10/09/2017 11:19:15 VM ./runHSQLDBClient.sh 
+  251  10/09/2017 11:20:58 VM cd ..\
+  252  10/09/2017 11:21:04 VM mvn test
+  253  10/09/2017 11:22:13 VM nano .gitignore 
+  254  10/09/2017 11:24:15 VM git stat.metadata
+  255  10/09/2017 11:24:15 VM bin/
+  256  10/09/2017 11:24:15 VM tmp/
+  257  10/09/2017 11:24:15 VM *.tmp
+  258  10/09/2017 11:24:16 VM *.bak
+  259  10/09/2017 11:24:16 VM *.swp
+  260  10/09/2017 11:24:16 VM *~.nib
+  261  10/09/2017 11:24:16 VM local.properties
+  262  10/09/2017 11:24:16 VM .settings/
+  263  10/09/2017 11:24:16 VM .loadpath
+  264  10/09/2017 11:24:16 VM .recommenders
+  265  10/09/2017 11:24:17 VM # External tool builders
+  266  10/09/2017 11:24:17 VM .externalToolBuilders/
+  267  10/09/2017 11:24:17 VM # Locally stored "Eclipse launch configurations"
+  268  10/09/2017 11:24:17 VM *.launch
+  269  10/09/2017 11:24:17 VM # PyDev specific (Python IDE for Eclipse)
+  270  10/09/2017 11:24:17 VM *.pydevproject
+  271  10/09/2017 11:24:17 VM # CDT-specific (C/C++ Development Tooling)
+  272  10/09/2017 11:24:17 VM .cproject
+  273  10/09/2017 11:24:17 VM # Java annotation processor (APT)
+  274  10/09/2017 11:24:17 VM .factorypath
+  275  10/09/2017 11:24:17 VM # PDT-specific (PHP Development Tools)
+  276  10/09/2017 11:24:17 VM .buildpath
+  277  10/09/2017 11:24:17 VM # sbteclipse plugin
+  278  10/09/2017 11:24:17 VM .target
+  279  10/09/2017 11:24:17 VM # Tern plugin
+  280  10/09/2017 11:24:17 VM .tern-project
+  281  10/09/2017 11:24:17 VM # TeXlipse plugin
+  282  10/09/2017 11:24:17 VM .texlipse
+  283  10/09/2017 11:24:17 VM # STS (Spring Tool Suite)
+  284  10/09/2017 11:24:17 VM .springBeans
+  285  10/09/2017 11:24:17 VM # Code Recommenders
+  286  10/09/2017 11:24:17 VM .recommenders/
+  287  10/09/2017 11:24:17 VM # Scala IDE specific (Scala & Java development for Eclipse)
+  288  10/09/2017 11:24:17 VM .cache-main
+  289  10/09/2017 11:24:17 VM .scala_dependencies
+  290  10/09/2017 11:24:36 VM git status
+  291  10/09/2017 11:25:37 VM nano .gitignore 
+  292  10/09/2017 11:26:12 VM git status
+  293  10/09/2017 11:26:42 VM nano .gitignore 
+  294  10/09/2017 11:26:57 VM git status
+  295  10/09/2017 11:27:17 VM git rm .classpath
+  296  10/09/2017 11:27:41 VM git rm .classpath --cached
+  297  10/09/2017 11:27:48 VM git status
+  298  10/09/2017 11:27:58 VM git add -A
+  299  10/09/2017 11:28:42 VM ls -la
+  300  10/09/2017 11:28:59 VM git mv scripts db
+  301  10/09/2017 11:29:00 VM ls
+  302  10/09/2017 11:29:03 VM ls -la
+  303  10/09/2017 11:29:07 VM git status
+  304  10/09/2017 11:32:30 VM cd ..
+  305  10/09/2017 11:32:38 VM mkdir hsqldb1
+  306  10/09/2017 11:32:46 VM cd hsqldb1/
+  307  10/09/2017 11:33:02 VM cd ..
+  308  10/09/2017 11:33:05 VM cd jdbcdemo/
+  309  10/09/2017 11:33:12 VM cd .git
+  310  10/09/2017 11:33:14 VM ls -la
+  311  10/09/2017 11:33:16 VM cd ..
+  312  10/09/2017 11:33:27 VM cd hsqldb1/
+  313  10/09/2017 11:35:27 VM git remote add origin https://github.com/RooiGevaar19/hsqldb-test1.git
+  314  10/09/2017 11:35:52 VM echo "# hsqldb-test1" >> README.md
+  315  10/09/2017 11:35:52 VM git init
+  316  10/09/2017 11:35:52 VM git add README.md
+  317  10/09/2017 11:35:52 VM git commit -m "first commit"
+  318  10/09/2017 11:35:52 VM git remote add origin https://github.com/RooiGevaar19/hsqldb-test1.git
+  319  10/09/2017 11:35:52 VM git push -u origin master
+  320  10/09/2017 11:36:30 VM git config --global user.email "redthreat19@gmail.com"
+  321  10/09/2017 11:36:57 VM git config --global user.email "RooiGevaar19"
+  322  10/09/2017 11:36:59 VM echo "# hsqldb-test1" >> README.md
+  323  10/09/2017 11:36:59 VM git init
+  324  10/09/2017 11:36:59 VM git add README.md
+  325  10/09/2017 11:36:59 VM git commit -m "first commit"
+  326  10/09/2017 11:36:59 VM git remote add origin https://github.com/RooiGevaar19/hsqldb-test1.git
+  327  10/09/2017 11:36:59 VM git push -u origin master
+  328  10/09/2017 11:39:22 VM git remote add origin git@github.com:KubaNeumann/jdbcdemo.git
+  329  10/09/2017 11:39:35 VM git remote rm
+  330  10/09/2017 11:39:38 VM git remote rm orig
+  331  10/09/2017 11:39:40 VM git remote rm origin
+  332  10/09/2017 11:39:43 VM git remote -v
+  333  10/09/2017 11:39:46 VM git remote add origin git@github.com:KubaNeumann/jdbcdemo.git
+  334  10/09/2017 11:39:55 VM git push -u origin master
+  335  10/09/2017 11:41:02 VM ls -la
+  336  10/09/2017 11:41:45 VM git push -u origin master
+  337  10/09/2017 11:41:53 VM exit
+  338  10/09/2017 10:43:00 VM git clone https://github.com/KubaNeumann/jdbcdemo.git
+  339  10/09/2017 10:45:40 VM cd jdbcdemo/
+  340  10/09/2017 10:45:48 VM ls -la
+  341  10/09/2017 10:45:57 VM cd scripts/
+  342  10/09/2017 10:45:57 VM ls
+  343  10/09/2017 10:53:25 VM chmod 755 *.sh
+  344  10/09/2017 10:53:31 VM ./runHSQLDBServer.sh 
+  345  10/09/2017 10:55:43 VM nano runHSQLDBServer.sh 
+  346  10/09/2017 10:56:18 VM ./runHSQLDBServer.sh 
+  347  10/09/2017 10:56:25 VM ls -la
+  348  10/09/2017 10:56:48 VM nano runHSQLDBServer.sh 
+  349  10/09/2017 10:57:29 VM mv hsqldb-2.4.0.jar hsql-2.4.0.jar 
+  350  10/09/2017 10:57:40 VM ./runHSQLDBServer.sh 
+  351  10/09/2017 10:58:07 VM nano runHSQLDBServer.sh 
+  352  10/09/2017 10:58:15 VM ./runHSQLDBServer.sh 
+  353  10/09/2017 11:05:49 VM ./runHSQLDBClient.sh 
+  354  10/09/2017 11:05:59 VM nano runHSQLDBClient.sh 
+  355  10/09/2017 11:06:15 VM ./runHSQLDBClient.sh 
+  356  10/09/2017 11:06:26 VM ./runHSQLDBServer.sh 
+  357  10/09/2017 11:42:09 VM exit
+  358  10/09/2017 10:27:46 VM cd /media/rooigevaar19/Media/Music/
+  359  10/09/2017 10:27:48 VM cmus
+  360  10/09/2017 07:51:10 NM exit
+  361  10/09/2017 07:51:06 NM xterm 
+  362  10/09/2017 07:51:25 NM echo "echo xd" | xterm
+  363  10/09/2017 07:51:32 NM man xterm
+  364  10/09/2017 07:51:44 NM xterm echo xd
+  365  10/09/2017 07:51:49 NM xterm "echo xd"
+  366  10/09/2017 07:52:09 NM xterm -e echo xd
+  367  10/09/2017 07:52:18 NM xterm -e sleep 1
+  368  10/09/2017 07:52:22 NM exi
+  369  10/09/2017 07:52:25 NM exit
+  370  10/09/2017 08:04:50 NM sudo shutdown -h now
+  371  10/09/2017 08:27:07 NM cmus
+  372  10/10/2017 03:22:29 NM exit
+  373  10/10/2017 03:51:23 NM cd JavaEEProjects/
+  374  10/10/2017 03:51:24 NM ls
+  375  10/10/2017 03:51:27 NM cd servletjspdemo/
+  376  10/10/2017 03:51:36 NM mvn jetty:run
+  377  10/10/2017 03:49:48 NM psql -l
+  378  10/10/2017 03:50:34 NM sudo apt-get install postgresql
+  379  10/10/2017 05:01:39 NM sudo shutdown -h now
+  380  10/10/2017 05:56:32 NM cd /media/rooigevaar19/Media/Music/
+  381  10/10/2017 05:56:34 NM cmus
+  382  10/10/2017 06:06:24 NM exit
+  383  10/11/2017 11:16:20 VM cd /media/rooigevaar19/Media/Music/
+  384  10/11/2017 11:16:21 VM ls
+  385  10/11/2017 11:16:25 VM cmus
+  386  10/11/2017 11:25:58 VM sudo shutdown -h now
+  387  10/11/2017 05:51:14 NM sudo pat-get install alacarte
+  388  10/11/2017 05:51:20 NM sudo apt-get install alacarte
+  389  10/11/2017 05:51:57 NM alacarte
+  390  10/11/2017 05:35:02 NM vlist
+  391  10/11/2017 05:35:21 NM cd /media/rooigevaar19/Media/Music/
+  392  10/11/2017 05:35:23 NM cmus
+  393  10/11/2017 05:55:27 NM sudo shutdown -h now
+  394  10/12/2017 12:58:53 NM ls
+  395  10/12/2017 12:58:59 NM dir hp.db 
+  396  10/12/2017 12:59:03 NM pwd hp.db 
+  397  10/12/2017 12:59:42 NM pwd
+  398  10/12/2017 12:52:39 NM cd /media/rooigevaar19/Media/Music/
+  399  10/12/2017 12:52:41 NM cmus
+  400  10/12/2017 04:38:19 NM nano cosinus.pas
+  401  10/12/2017 05:09:56 NM fpc cosinus.pas 
+  402  10/12/2017 05:18:18 NM ./cosinus
+  403  10/12/2017 05:18:49 NM fpc cosinus.pas 
+  404  10/12/2017 05:18:50 NM ./cosinus
+  405  10/12/2017 05:23:45 NM fpc cosinus.pas 
+  406  10/12/2017 05:24:21 NM ./cosinus
+  407  10/12/2017 05:24:29 NM fpc cosinus.pas 
+  408  10/12/2017 05:24:35 NM ./cosinus
+  409  10/12/2017 05:24:51 NM fpc cosinus.pas 
+  410  10/12/2017 05:24:53 NM ./cosinus
+  411  10/12/2017 05:27:09 NM fpc cosinus.pas 
+  412  10/12/2017 05:27:10 NM ./cosinus
+  413  10/12/2017 05:27:12 NM fpc cosinus.pas 
+  414  10/12/2017 05:27:13 NM ./cosinus
+  415  10/12/2017 05:27:25 NM fpc cosinus.pas 
+  416  10/12/2017 05:27:28 NM ./cosinus
+  417  10/12/2017 05:28:31 NM fpc cosinus.pas 
+  418  10/12/2017 05:28:33 NM ./cosinus
+  419  10/12/2017 05:29:30 NM fpc cosinus.pas 
+  420  10/12/2017 05:29:31 NM ./cosinus
+  421  10/12/2017 05:30:13 NM fpc cosinus.pas 
+  422  10/12/2017 05:30:14 NM ./cosinus
+  423  10/12/2017 05:31:04 NM fpc cosinus.pas 
+  424  10/12/2017 05:31:05 NM ./cosinus
+  425  10/12/2017 05:31:18 NM fpc cosinus.pas 
+  426  10/12/2017 05:31:19 NM ./cosinus
+  427  10/12/2017 05:31:46 NM fpc cosinus.pas 
+  428  10/12/2017 05:31:47 NM ./cosinus
+  429  10/12/2017 05:33:18 NM fpc cosinus.pas 
+  430  10/12/2017 05:33:20 NM ./cosinus
+  431  10/12/2017 05:33:57 NM fpc cosinus.pas 
+  432  10/12/2017 05:33:58 NM ./cosinus
+  433  10/12/2017 05:34:36 NM fpc cosinus.pas 
+  434  10/12/2017 05:34:37 NM ./cosinus
+  435  10/12/2017 05:35:39 NM fpc cosinus.pas 
+  436  10/12/2017 05:35:40 NM ./cosinus
+  437  10/12/2017 05:36:48 NM fpc cosinus.pas 
+  438  10/12/2017 05:36:49 NM ./cosinus
+  439  10/12/2017 05:37:52 NM fpc cosinus.pas 
+  440  10/12/2017 05:38:00 NM ./cosinus
+  441  10/12/2017 05:38:39 NM fpc cosinus.pas 
+  442  10/12/2017 05:38:40 NM ./cosinus
+  443  10/12/2017 04:40:06 NM ./cigarrun /media/rooigevaar19/Media/Documents/numeryczne/1/cosinus.pas
+  444  10/16/2017 11:54:21 VM cd /media/rooigevaar19/Media/Music/
+  445  10/16/2017 11:54:23 VM cmus
+  446  10/16/2017 12:32:35 NM mvn jetty:run
+  447  10/16/2017 06:02:40 NM psql
+  448  10/16/2017 06:02:44 NM psql -l
+  449  10/16/2017 06:02:51 NM sudo su postgres
+  450  10/16/2017 06:08:32 NM psql -l
+  451  10/16/2017 06:02:06 NM cmus
+  452  10/16/2017 04:31:50 NM sudo shutdown -h now
+  453  10/16/2017 06:05:08 NM sudo apt-get install xmoto
+  454  10/16/2017 06:06:24 NM exit
+  455  10/16/2017 07:28:46 NM createdb cigarbase
+  456  10/16/2017 07:28:54 NM psql cigarbase 
+  457  10/16/2017 07:36:02 NM exit
+  458  10/16/2017 07:05:44 NM cmus
+  459  10/16/2017 07:38:11 NM sudo shutdown -h now
+  460  10/17/2017 02:53:47 NM sudo su postgres
+  461  10/17/2017 02:54:19 NM sudo su
+  462  10/17/2017 03:04:47 NM su postgres
+  463  10/17/2017 03:09:23 NM sudo service postgresql restart
+  464  10/17/2017 03:09:34 NM psql -l
+  465  10/17/2017 03:10:00 NM psql postgres 
+  466  10/17/2017 03:11:42 NM psql cigarbase 
+  467  10/17/2017 02:48:44 NM cmus
+  468  10/17/2017 03:23:08 NM sudo shutdown -h now
+  469  10/17/2017 02:10:14 NM psql cigarbase 
+  470  10/17/2017 04:03:17 NM mvn jetty:run
+  471  10/17/2017 04:10:54 NM git remote add origin https://github.com/RooiGevaar19/CigarettesShop.git
+  472  10/17/2017 04:11:38 NM nano init.sh
+  473  10/17/2017 04:11:49 NM chmod +x init.sh 
+  474  10/17/2017 04:11:51 NM ./init.sh 
+  475  10/17/2017 03:51:08 NM mvn jetty:run
+  476  10/17/2017 04:23:46 NM git status
+  477  10/17/2017 04:23:59 NM git add src
+  478  10/17/2017 04:24:01 NM ls
+  479  10/17/2017 04:24:17 NM git status
+  480  10/17/2017 04:24:34 NM git add pom.xml 
+  481  10/17/2017 04:24:39 NM git status
+  482  10/17/2017 04:27:11 NM git remote add origin https://github.com/RooiGevaar19/CigarettesShop
+  483  10/17/2017 04:27:29 NM git push origin master
+  484  10/17/2017 04:31:21 NM echo "# CigarettesShop" >> README.md
+  485  10/17/2017 04:31:21 NM git init
+  486  10/17/2017 04:31:25 NM git add README.md
+  487  10/17/2017 04:31:30 NM git add src
+  488  10/17/2017 04:31:33 NM git add pom.xml 
+  489  10/17/2017 04:31:38 NM git status
+  490  10/17/2017 04:31:58 NM git commit -m "first commit"
+  491  10/17/2017 04:32:14 NM git remote add origin https://github.com/RooiGevaar19/CigarettesShop.git
+  492  10/17/2017 04:32:21 NM git push -u origin master
+  493  10/17/2017 04:53:35 NM git commit -m "second commit"
+  494  10/17/2017 04:53:51 NM git add src/*
+  495  10/17/2017 04:53:58 NM git commit -m "second commit"
+  496  10/17/2017 04:54:23 NM git push -u origin master
+  497  10/17/2017 05:02:26 NM git add src/*
+  498  10/17/2017 05:02:36 NM git commit -m "third commit"
+  499  10/17/2017 05:02:43 NM git push -u origin master
+  500  10/17/2017 05:04:26 NM exit
+  501  10/17/2017 04:48:15 NM mvn jetty:run
+  502  10/17/2017 05:04:39 NM exit
+  503  10/17/2017 05:52:56 NM ls
+  504  10/17/2017 05:52:59 NM ls -l
+  505  10/17/2017 05:53:04 NM exit
+  506  10/17/2017 05:54:13 NM psql
+  507  10/17/2017 05:54:18 NM psql cigarbase 
+  508  10/17/2017 05:55:09 NM sudo shutdown -h now
+  509  10/18/2017 08:48:10 VM cmus
+  510  10/18/2017 09:13:19 VM psql -l
+  511  10/18/2017 09:13:23 VM psql cigarbase 
+  512  10/18/2017 09:14:59 VM history 
+  513  10/18/2017 09:27:06 VM sudo shutdown -h now
+  514  10/18/2017 12:15:15 NM psql cigarbase 
+  515  10/18/2017 12:37:14 NM mvn -version
+  516  10/18/2017 06:16:37 NM cmus
+  517  10/18/2017 06:41:21 NM exit
+  518  10/18/2017 06:41:08 NM cmus
+  519  10/18/2017 06:25:15 NM psql cigarbase 
+  520  10/18/2017 06:55:05 NM sudo shutdown -h now
+  521  10/19/2017 11:18:13 VM psql cigarbase 
+  522  10/19/2017 11:24:42 VM exit
+  523  10/19/2017 10:51:27 VM cmus
+  524  10/19/2017 11:27:43 VM sudo shutdown -h now
+  525  10/19/2017 04:13:48 NM g
+  526  10/19/2017 04:14:02 NM g++ cosinusek.cpp -o cosinusek
+  527  10/19/2017 04:15:33 NM xterm ./cosinusek
+  528  10/19/2017 04:15:42 NM xterm 
+  529  10/19/2017 04:15:53 NM xterm cosinusek
+  530  10/19/2017 04:16:01 NM xterm .
+  531  10/19/2017 04:16:09 NM xterm pwd
+  532  10/19/2017 04:16:16 NM xterm pwd/cosinusek
+  533  10/19/2017 04:16:32 NM xterm pwd; sleep 1
+  534  10/19/2017 04:16:38 NM xterm; sleep 1
+  535  10/19/2017 04:16:50 NM xterm | ./cosinusek 
+  536  10/19/2017 04:16:59 NM xterm --help
+  537  10/19/2017 04:17:18 NM xterm -e cosinusek
+  538  10/19/2017 04:17:22 NM xterm -e ./cosinusek
+  539  10/19/2017 04:17:29 NM ./cosinusek
+  540  10/19/2017 04:17:50 NM xterm -e ./cosinusek
+  541  10/19/2017 04:18:00 NM g++ cosinusek.cpp -o cosinusek
+  542  10/19/2017 04:18:02 NM xterm -e ./cosinusek
+  543  10/19/2017 04:27:05 NM g++ cosinusek.cpp -o cosinusek
+  544  10/19/2017 04:27:13 NM xterm -e ./cosinusek
+  545  10/19/2017 04:44:54 NM g++ cosinusek.cpp -o cosinusek
+  546  10/19/2017 04:46:51 NM xterm -e ./cosinusek
+  547  10/19/2017 04:47:06 NM ./cosinusek 
+  548  10/19/2017 04:47:18 NM xterm -e ./cosinusek
+  549  10/19/2017 04:47:21 NM g++ cosinusek.cpp -o cosinusek
+  550  10/19/2017 04:47:23 NM ./cosinusek 
+  551  10/19/2017 04:50:23 NM g++ cosinusek.cpp -o cosinusek
+  552  10/19/2017 04:50:24 NM ./cosinusek 
+  553  10/19/2017 04:50:43 NM fg %!
+  554  10/19/2017 04:50:45 NM fg %1
+  555  10/19/2017 04:50:58 NM g++ cosinusek.cpp -o cosinusek
+  556  10/19/2017 04:51:01 NM ./cosinusek 
+  557  10/19/2017 04:51:19 NM g++ cosinusek.cpp -o cosinusek
+  558  10/19/2017 04:51:20 NM ./cosinusek 
+  559  10/19/2017 04:51:30 NM g++ cosinusek.cpp -o cosinusek
+  560  10/19/2017 04:51:31 NM ./cosinusek 
+  561  10/19/2017 04:51:52 NM g++ cosinusek.cpp -o cosinusek
+  562  10/19/2017 04:51:53 NM ./cosinusek 
+  563  10/19/2017 04:52:14 NM g++ cosinusek.cpp -o cosinusek
+  564  10/19/2017 04:52:15 NM ./cosinusek 
+  565  10/19/2017 04:53:14 NM g++ cosinusek.cpp -o cosinusek
+  566  10/19/2017 04:53:15 NM ./cosinusek 
+  567  10/19/2017 04:53:49 NM g++ cosinusek.cpp -o cosinusek
+  568  10/19/2017 04:53:50 NM ./cosinusek 
+  569  10/19/2017 04:54:17 NM g++ cosinusek.cpp -o cosinusek
+  570  10/19/2017 04:54:18 NM ./cosinusek 
+  571  10/19/2017 04:55:26 NM g++ cosinusek.cpp -o cosinusek
+  572  10/19/2017 04:55:27 NM ./cosinusek 
+  573  10/19/2017 04:56:07 NM g++ cosinusek.cpp -o cosinusek
+  574  10/19/2017 04:56:08 NM ./cosinusek 
+  575  10/19/2017 04:57:46 NM g++ cosinusek.cpp -o cosinusek
+  576  10/19/2017 04:57:49 NM g++ cosinusek.cpp -o cosinusek -lm
+  577  10/19/2017 04:58:06 NM ./cosinusek 
+  578  10/19/2017 04:58:22 NM g++ cosinusek.cpp -o cosinusek -lm
+  579  10/19/2017 04:58:24 NM ./cosinusek 
+  580  10/19/2017 04:58:39 NM g++ cosinusek.cpp -o cosinusek -lm
+  581  10/19/2017 04:58:40 NM ./cosinusek 
+  582  10/19/2017 05:00:17 NM g++ cosinusek.cpp -o cosinusek -lm
+  583  10/19/2017 05:00:18 NM ./cosinusek 
+  584  10/19/2017 05:10:06 NM gnuplot
+  585  10/19/2017 05:10:23 NM sudo apt-get install gnuplot
+  586  10/19/2017 05:12:26 NM gnuplot
+  587  10/19/2017 04:12:13 NM cmus
+  588  10/19/2017 05:21:10 NM sudo shutdown -h now
+  589  10/19/2017 06:23:24 NM g++ cosinusek_lib.cpp -o cos_lib -lm
+  590  10/19/2017 06:23:31 NM ./cos_lib
+  591  10/19/2017 06:23:49 NM ./cos_lib > cos_lib.csv
+  592  10/19/2017 06:23:52 NM gnuplot
+  593  10/19/2017 06:18:44 NM cmus
+  594  10/19/2017 06:54:14 NM sudo shutdown -h now
+  595  10/19/2017 09:30:17 NM g++ hyhyhy1.cpp -o hyhyhy
+  596  10/19/2017 09:31:14 NM ./hyhyhy
+  597  10/19/2017 09:37:53 NM g++ hyhyhy1.cpp -o hyhyhy
+  598  10/19/2017 09:38:17 NM ./hyhyhy
+  599  10/19/2017 09:56:25 NM ls;
+  600  10/19/2017 09:56:26 NM ls ;
+  601  10/19/2017 09:56:30 NM ls . ;
+  602  10/19/2017 07:48:04 NM cd /media/rooigevaar19/Media/Music/
+  603  10/19/2017 07:48:06 NM cd..
+  604  10/19/2017 07:48:09 NM cd ..
+  605  10/19/2017 07:48:12 NM cd Radio/
+  606  10/19/2017 07:48:13 NM ls
+  607  10/19/2017 07:48:22 NM cd Norge/Oslo
+  608  10/19/2017 07:48:25 NM cmus
+  609  10/20/2017 10:52:21 VM g++ cosinusek.cpp -o cos
+  610  10/20/2017 10:52:26 VM g++ cosinusek.cpp -o cos -lm
+  611  10/20/2017 10:52:33 VM ./cos
+  612  10/20/2017 10:53:02 VM ./cos > cos.csv
+  613  10/20/2017 08:57:56 VM g++ cosinusek.cpp -o cos -lm
+  614  10/20/2017 08:57:58 VM ./cos > cos.csv
+  615  10/20/2017 09:00:30 VM g++ cosinusek.cpp -o cos -lm
+  616  10/20/2017 09:00:43 VM ./cos > cos.csv
+  617  10/20/2017 09:01:46 VM g++ cosinusek.cpp -o cos -lm
+  618  10/20/2017 09:01:49 VM ./cos > cos2.csv
+  619  10/20/2017 09:24:11 VM sudo shutdown -h now
+  620  10/20/2017 10:19:15 VM cmus
+  621  10/20/2017 11:27:54 VM sudo shutdown -h now
+  622  10/20/2017 02:06:34 NM cmus
+  623  10/20/2017 02:07:04 NM top
+  624  10/20/2017 02:07:24 NM cmus
+  625  10/20/2017 02:07:29 NM cmus --help
+  626  10/20/2017 02:07:50 NM man cmus
+  627  10/20/2017 02:07:57 NM cmus
+  628  10/20/2017 07:56:05 NM g++ cosinusek.cpp -o cos -lm
+  629  10/20/2017 07:57:04 NM ./cos > cos2.csv
+  630  10/20/2017 07:58:53 NM g++ cosinusek.cpp -o cos -lm
+  631  10/20/2017 07:58:53 NM ./cos > cos2.csv
+  632  10/20/2017 07:59:36 NM g++ cosinusek.cpp -o cos -lm
+  633  10/20/2017 07:59:42 NM ./cos > cos2.csv
+  634  10/20/2017 08:00:35 NM g++ cosinusek.cpp -o cos -lm
+  635  10/20/2017 08:00:36 NM ./cos > cos2.csv
+  636  10/20/2017 08:22:15 NM sudo reboot
+  637  10/21/2017 04:18:40 NM touch .gitignore
+  638  10/21/2017 04:16:26 NM echo "# Cigar" >> README.md
+  639  10/21/2017 04:16:34 NM git init
+  640  10/21/2017 04:16:51 NM git add README.md
+  641  10/21/2017 04:17:25 NM git commit -m "first commit"
+  642  10/21/2017 04:17:41 NM git remote add origin https://github.com/RooiGevaar19/Cigar.git
+  643  10/21/2017 04:17:54 NM git push -u origin master
+  644  10/21/2017 04:30:01 NM git checkout -b "v020"
+  645  10/21/2017 04:30:08 NM git status
+  646  10/21/2017 04:30:40 NM git add cigar-0.1.0-linux-amd64/
+  647  10/21/2017 04:30:44 NM git add cigar-0.2.0-linux-amd64/
+  648  10/21/2017 04:31:03 NM git add cigar-kernafval/
+  649  10/21/2017 04:31:05 NM ls
+  650  10/21/2017 04:31:10 NM git status
+  651  10/21/2017 04:32:17 NM git add cigar-kernafval/
+  652  10/21/2017 04:32:18 NM git status
+  653  10/21/2017 04:32:40 NM git rm cigar-kernafval/lib/x86_64-linux/*.o*
+  654  10/21/2017 04:32:56 NM git rm --cached cigar-kernafval/lib/x86_64-linux/*.o*
+  655  10/21/2017 04:33:02 NM git rm --cached cigar-kernafval/lib/x86_64-linux/*.p*
+  656  10/21/2017 04:33:04 NM git rm --cached cigar-kernafval/lib/x86_64-linux/*.c*
+  657  10/21/2017 04:33:28 NM git status
+  658  10/21/2017 04:34:05 NM git push -u origin v020 
+  659  10/21/2017 04:34:59 NM git status
+  660  10/21/2017 04:35:05 NM git commit
+  661  10/21/2017 04:35:36 NM git commit -m "New version 0.2.0 - added C/C++ support"
+  662  10/21/2017 04:35:40 NM git push -u origin v020 
+  663  10/21/2017 04:37:51 NM git status
+  664  10/21/2017 04:38:00 NM git push -u origin v020 
+  665  10/21/2017 04:38:54 NM git commit -m "v020"
+  666  10/21/2017 04:39:18 NM git add README.md 
+  667  10/21/2017 04:39:20 NM git commit -m "v020"
+  668  10/21/2017 04:39:24 NM git push -u origin v020 
+  669  10/21/2017 04:45:17 NM git commit -m "v020"
+  670  10/21/2017 04:45:25 NM git add README.md 
+  671  10/21/2017 04:45:26 NM git commit -m "v020"
+  672  10/21/2017 04:45:29 NM git push -u origin v020 
+  673  10/21/2017 04:45:47 NM git status 
+  674  10/21/2017 05:11:30 NM fpc 001-helloworld.pas 
+  675  10/21/2017 05:11:38 NM ./001-helloworld
+  676  10/21/2017 05:00:39 NM git init
+  677  10/21/2017 05:04:21 NM echo "# Teaching" >> README.md
+  678  10/21/2017 05:04:36 NM git add README.md
+  679  10/21/2017 05:04:53 NM git commit -m "first commit"
+  680  10/21/2017 05:05:00 NM git remote add origin https://github.com/RooiGevaar19/Teaching.git
+  681  10/21/2017 05:05:06 NM git push -u origin master
+  682  10/21/2017 05:47:19 NM git add Cpp/
+  683  10/21/2017 05:47:22 NM git add FreePascal/
+  684  10/21/2017 05:47:25 NM git push -u origin master
+  685  10/21/2017 05:47:42 NM git status
+  686  10/21/2017 05:48:04 NM git commit -m "commit nr 1"
+  687  10/21/2017 05:48:06 NM git push -u origin master
+  688  10/21/2017 05:17:03 NM git add README.md 
+  689  10/21/2017 05:17:13 NM cd ..
+  690  10/21/2017 05:17:16 NM git add README.md 
+  691  10/21/2017 05:17:24 NM git commit -m "v020 - nothing happened"
+  692  10/21/2017 05:17:37 NM git add cigar-kernafval/
+  693  10/21/2017 05:17:39 NM git commit -m "v020 - nothing happened"
+  694  10/21/2017 05:18:03 NM git push -u origin v020 
+  695  10/21/2017 05:19:35 NM git commit -m "v020 - nothing happened"
+  696  10/21/2017 05:19:42 NM git add R
+  697  10/21/2017 05:19:43 NM git add README.md 
+  698  10/21/2017 05:19:46 NM git commit -m "v020 - nothing happened"
+  699  10/21/2017 05:19:48 NM git push -u origin v020 
+  700  10/21/2017 06:19:01 NM git clone https://github.com/KubaNeumann/jdbcdemo.git
+  701  10/21/2017 06:00:01 NM git ocnfig
+  702  10/21/2017 06:00:07 NM git config 
+  703  10/21/2017 06:00:22 NM git config --global user.name 
+  704  10/21/2017 06:00:34 NM git config --global user.name "RooiGevaar19"
+  705  10/21/2017 06:00:35 NM git config --global user.name 
+  706  10/21/2017 06:01:22 NM nano ~/.config/git/config 
+  707  10/21/2017 06:01:39 NM nano ~/.gitconfig 
+  708  10/21/2017 06:47:44 NM cd ..
+  709  10/21/2017 06:47:47 NM echo "# Woordenboek" >> README.md
+  710  10/21/2017 06:47:53 NM git init
+  711  10/21/2017 06:48:14 NM git add README.md
+  712  10/21/2017 06:48:19 NM git add woordenboek-kernafval/
+  713  10/21/2017 06:49:26 NM git rm --cached woordenboek-kernafval/
+  714  10/21/2017 06:49:28 NM git rm --cached woordenboek-kernafval/ -r
+  715  10/21/2017 06:50:16 NM git checkout -b "v010"
+  716  10/21/2017 06:50:28 NM git add README.md 
+  717  10/21/2017 06:54:53 NM git commit
+  718  10/21/2017 06:55:05 NM git commit -m "version 0.1.0"
+  719  10/21/2017 06:55:11 NM git status
+  720  10/21/2017 06:55:18 NM git add README.md 
+  721  10/21/2017 06:55:24 NM git add woordenboek-kernafval/
+  722  10/21/2017 06:55:27 NM git commit -m "version 0.1.0"
+  723  10/21/2017 06:58:12 NM git status
+  724  10/21/2017 06:58:24 NM git add HebrewNouns.txt 
+  725  10/21/2017 07:01:46 NM git add README.md 
+  726  10/21/2017 07:01:49 NM git add woordenboek-kernafval/
+  727  10/21/2017 07:01:51 NM git status
+  728  10/21/2017 07:02:07 NM git commit -m "version 0.1.0"
+  729  10/21/2017 07:02:32 NM git remote add origin https://github.com/RooiGevaar19/Woordenboek.git
+  730  10/21/2017 07:02:47 NM git push -u origin "v010"
+  731  10/21/2017 07:24:00 NM cd ..
+  732  10/21/2017 07:24:01 NM ls
+  733  10/21/2017 07:24:04 NM cd Cigar
+  734  10/21/2017 07:24:06 NM cd edit/
+  735  10/21/2017 07:24:07 NM ls
+  736  10/21/2017 07:24:11 NM git status
+  737  10/21/2017 07:24:32 NM git commit -m "v020 - nothing happened"
+  738  10/21/2017 07:24:44 NM git push -u origin v020
+  739  10/21/2017 07:56:45 NM fpc 003-kalkulator.pas 
+  740  10/21/2017 07:56:49 NM ./003
+  741  10/21/2017 07:56:51 NM ./003-kalkulator
+  742  10/21/2017 08:01:06 NM fpc 003-kalkulator.pas 
+  743  10/21/2017 08:01:07 NM ./003-kalkulator
+  744  10/21/2017 08:02:29 NM git status
+  745  10/21/2017 08:02:38 NM git add FreePascal/003-kalkulator.pas 
+  746  10/21/2017 08:02:43 NM git status
+  747  10/21/2017 08:02:58 NM git commit -m "commit 10/21/2017"
+  748  10/21/2017 08:03:08 NM git push -u origin master
+  749  10/21/2017 07:32:46 NM git commit -m "v020 - updated"
+  750  10/21/2017 07:32:55 NM git add README.md 
+  751  10/21/2017 07:32:57 NM git commit -m "v020 - updated"
+  752  10/21/2017 07:33:04 NM git push -u origin v020
+  753  10/21/2017 07:37:31 NM git add README.md 
+  754  10/21/2017 07:37:33 NM git commit -m "v020 - updated"
+  755  10/21/2017 07:37:38 NM git push -u origin v020
+  756  10/21/2017 03:53:55 NM cmus
+  757  10/21/2017 08:05:12 NM sudo reboot
+  758  10/21/2017 10:03:59 NM ./generate
+  759  10/22/2017 03:13:23 NM g++ Continue.cpp 
+  760  10/22/2017 03:13:58 NM ./a.out
+  761  10/22/2017 03:30:46 NM ./generate
+  762  10/22/2017 04:01:10 NM ./hyhyhy
+  763  10/22/2017 03:29:59 NM fpc generate.pas 
+  764  10/22/2017 03:14:20 NM git status 
+  765  10/22/2017 03:14:26 NM git add Cpp/Continue.cpp 
+  766  10/22/2017 03:14:32 NM git status 
+  767  10/22/2017 03:14:53 NM git commit -m "Dodanie pliku Continue.cpp"
+  768  10/22/2017 03:15:01 NM git push -u origin master
+  769  10/22/2017 04:08:44 NM g++ QuickSort.cpp 
+  770  10/22/2017 04:09:42 NM ./a.out 
+  771  10/22/2017 04:10:33 NM g++ QuickSort.cpp 
+  772  10/22/2017 04:10:35 NM ./a.out 
+  773  10/22/2017 04:11:16 NM g++ QuickSort.cpp 
+  774  10/22/2017 04:11:17 NM ./a.out 
+  775  10/22/2017 04:12:11 NM g++ QuickSort.cpp 
+  776  10/22/2017 04:12:12 NM ./a.out 
+  777  10/22/2017 04:12:51 NM g++ QuickSort.cpp 
+  778  10/22/2017 04:12:52 NM ./a.out 
+  779  10/22/2017 04:13:06 NM g++ QuickSort.cpp 
+  780  10/22/2017 04:13:07 NM ./a.out 
+  781  10/22/2017 03:17:07 NM cmus
+  782  10/22/2017 04:19:52 NM exit
+  783  10/22/2017 03:37:16 NM git tat
+  784  10/22/2017 03:37:20 NM git status 
+  785  10/22/2017 03:37:27 NM gi add GeneratorWiezniow/
+  786  10/22/2017 03:37:34 NM git status 
+  787  10/22/2017 03:38:04 NM git add GeneratorWiezniow/
+  788  10/22/2017 03:38:07 NM git status
+  789  10/22/2017 03:38:44 NM git commit -m "Dodanie generatora losowego więźniów"
+  790  10/22/2017 03:38:52 NM git push origin master
+  791  10/22/2017 03:39:54 NM history
+  792  10/22/2017 03:40:25 NM git add origin "https://github.com/RooiGevaar19/Duperele.git"
+  793  10/22/2017 03:41:53 NM git remote add origin https://github.com/RooiGevaar19/Duperele.git
+  794  10/22/2017 03:42:07 NM git remote remove origin
+  795  10/22/2017 03:42:09 NM git remote add origin https://github.com/RooiGevaar19/Duperele.git
+  796  10/22/2017 03:42:25 NM git push -u origin master
+  797  10/22/2017 03:44:04 NM cd ..
+  798  10/22/2017 03:44:10 NM git add README.md 
+  799  10/22/2017 03:44:28 NM git commit -m "Zmiana opisu"
+  800  10/22/2017 03:44:31 NM git push -u origin master
+  801  10/22/2017 04:14:42 NM git commit -m "Dodanie paru sortów"
+  802  10/22/2017 04:14:50 NM git add Cpp/sorty/
+  803  10/22/2017 04:14:51 NM git commit -m "Dodanie paru sortów"
+  804  10/22/2017 04:14:55 NM git push -u origin master
+  805  10/22/2017 04:31:30 NM git add Cpp/sorty/BogoSort12.cpp 
+  806  10/22/2017 04:31:32 NM git commit -m "Dodanie paru sortów"
+  807  10/22/2017 04:31:36 NM git push -u origin master
+  808  10/22/2017 05:08:22 NM g++ test1.cpp
+  809  10/22/2017 05:08:25 NM ./a.out 
+  810  10/22/2017 05:10:15 NM g++ test1.cpp
+  811  10/22/2017 05:10:16 NM ./a.out 
+  812  10/22/2017 05:10:37 NM g++ test1.cpp
+  813  10/22/2017 05:10:38 NM ./a.out 
+  814  10/22/2017 05:11:03 NM g++ test1.cpp
+  815  10/22/2017 05:11:10 NM ./a.out 
+  816  10/22/2017 05:11:11 NM g++ test1.cpp
+  817  10/22/2017 05:11:12 NM ./a.out 
+  818  10/22/2017 05:14:08 NM g++ test1.cpp
+  819  10/22/2017 05:14:18 NM ./a.out 
+  820  10/22/2017 05:14:51 NM g++ test1.cpp
+  821  10/22/2017 05:14:52 NM ./a.out 
+  822  10/22/2017 05:14:58 NM g++ test1.cpp
+  823  10/22/2017 05:14:59 NM ./a.out 
+  824  10/22/2017 05:15:18 NM g++ test1.cpp
+  825  10/22/2017 05:15:19 NM ./a.out 
+  826  10/22/2017 06:12:32 NM xmllint 00_XML.xml 
+  827  10/22/2017 06:12:51 NM xmllint 01_XML.xml 
+  828  10/22/2017 06:22:10 NM xmllint 02_XML.xml --schema 02_XML.xsd 
+  829  10/22/2017 07:24:35 NM cmus
+  830  10/22/2017 08:12:54 NM sudo lshw -class network
+  831  10/22/2017 08:13:39 NM sudo nano /etc/pm/config.d/config
+  832  10/22/2017 08:14:10 NM sudo vi /etc/pm/config.d/config
+  833  10/22/2017 08:14:39 NM sudo nano /etc/pm/config.d/config
+  834  10/22/2017 08:15:58 NM sudo service network-manager restart
+  835  10/22/2017 07:44:14 NM g++ cosinusek.cpp -o cos
+  836  10/22/2017 07:44:19 NM ./cos
+  837  10/22/2017 07:46:14 NM g++ cosinusek.cpp -o cos
+  838  10/22/2017 07:46:15 NM ./cos
+  839  10/22/2017 07:48:34 NM g++ cosinusek.cpp -o cos
+  840  10/22/2017 07:48:35 NM ./cos
+  841  10/22/2017 07:48:50 NM ./cos | head 10
+  842  10/22/2017 07:48:54 NM ./cos | head -10
+  843  10/22/2017 07:49:17 NM g++ cosinusek.cpp -o cos
+  844  10/22/2017 07:49:19 NM ./cos | head -10
+  845  10/22/2017 07:54:48 NM g++ cosinusek.cpp -o cos
+  846  10/22/2017 07:54:49 NM ./cos | head -10
+  847  10/22/2017 07:55:07 NM g++ cosinusek.cpp -o cos
+  848  10/22/2017 07:55:08 NM ./cos | head -10
+  849  10/22/2017 07:55:44 NM g++ cosinusek.cpp -o cos
+  850  10/22/2017 07:55:45 NM ./cos | head -10
+  851  10/22/2017 07:57:03 NM g++ cosinusek.cpp -o cos
+  852  10/22/2017 07:57:41 NM ./cos | head -10
+  853  10/22/2017 07:57:55 NM ./cos
+  854  10/22/2017 07:58:49 NM g++ cosinusek.cpp -o cos
+  855  10/22/2017 07:58:50 NM ./cos
+  856  10/22/2017 07:59:18 NM g++ cosinusek.cpp -o cos
+  857  10/22/2017 07:59:19 NM ./cos
+  858  10/23/2017 06:38:29 VM g++ cosinusek.cpp 
+  859  10/23/2017 06:38:53 VM ./a.out 
+  860  10/23/2017 06:43:10 VM g++ cosinusek.cpp 
+  861  10/23/2017 06:43:45 VM ./a.out 
+  862  10/23/2017 06:45:07 VM g++ cosinusek.cpp 
+  863  10/23/2017 06:45:08 VM ./a.out 
+  864  10/23/2017 06:45:36 VM g++ cosinusek.cpp 
+  865  10/23/2017 06:45:37 VM ./a.out 
+  866  10/23/2017 06:45:54 VM g++ cosinusek.cpp 
+  867  10/23/2017 06:45:55 VM ./a.out 
+  868  10/23/2017 06:46:20 VM g++ cosinusek.cpp 
+  869  10/23/2017 06:46:21 VM ./a.out 
+  870  10/23/2017 06:47:07 VM g++ cosinusek.cpp 
+  871  10/23/2017 06:47:08 VM ./a.out 
+  872  10/23/2017 07:05:57 VM g++ Nwd.cpp 
+  873  10/23/2017 07:06:17 VM ./a.out 
+  874  10/23/2017 07:06:23 VM rm a.out 
+  875  10/23/2017 07:06:26 VM exit
+  876  10/23/2017 07:21:19 VM javac Ulamek.java
+  877  10/23/2017 06:28:11 VM cmus
+  878  10/23/2017 07:22:36 VM sudo shutdown -h now
+  879  10/23/2017 10:21:11 VM mvn jetty:run
+  880  10/23/2017 10:22:18 VM mvn -version
+  881  10/23/2017 10:23:01 VM mvn jetty:run
+  882  10/23/2017 10:24:39 VM ./runHSQLDBServer.sh 
+  883  10/23/2017 10:23:24 VM chmod +x *.sh
+  884  10/23/2017 10:23:29 VM ./runHSQLDBServer.sh 
+  885  10/23/2017 10:35:35 VM javac Ulamek.java 
+  886  10/23/2017 10:36:26 VM javac UlamekTest.java 
+  887  10/23/2017 10:37:36 VM java Ulamek
+  888  10/23/2017 10:37:39 VM java UlamekTest 
+  889  10/23/2017 10:38:22 VM javac Ulamek.java 
+  890  10/23/2017 10:38:24 VM java UlamekTest 
+  891  10/23/2017 10:39:38 VM javac Ulamek.java 
+  892  10/23/2017 10:39:40 VM java UlamekTest 
+  893  10/23/2017 10:45:19 VM echo ".class" > .gitignore
+  894  10/23/2017 10:49:19 VM ./runHSQLDBClient.sh 
+  895  10/23/2017 11:39:26 VM git status
+  896  10/23/2017 11:39:34 VM git add pom.xml 
+  897  10/23/2017 11:40:03 VM git add src/main/java/com/example/servletjspdemo/web/CigaretteList.java 
+  898  10/23/2017 11:40:14 VM git add src/main/webapp/addCigarette.jsp 
+  899  10/23/2017 11:40:37 VM git add db/
+  900  10/23/2017 11:40:48 VM git add src/main/java/com/example/servletjspdemo/service/CigBase.java 
+  901  10/23/2017 11:40:51 VM git add src/main/java/com/example/servletjspdemo/service/CigaretteHandler.java 
+  902  10/23/2017 11:41:00 VM git status
+  903  10/23/2017 11:41:24 VM git commit -m "Pierwsze podejście od połączenia z bazą danych HSQL"
+  904  10/23/2017 11:41:32 VM git origin
+  905  10/23/2017 11:41:44 VM git push origin master
+  906  10/23/2017 11:42:29 VM exit
+  907  10/23/2017 10:45:49 VM mvn jetty:run
+  908  10/23/2017 11:42:33 VM exit
+  909  10/23/2017 10:30:51 VM git status 
+  910  10/23/2017 10:30:59 VM git add Cpp/Nwd.cpp 
+  911  10/23/2017 10:31:13 VM git add Java/
+  912  10/23/2017 10:31:20 VM git status
+  913  10/23/2017 10:31:54 VM git commit -m "Dodanie czegoś tam z Javy"
+  914  10/23/2017 10:32:03 VM git push -u origin master 
+  915  10/23/2017 10:43:09 VM git status
+  916  10/23/2017 10:43:28 VM git add Java/Ulamek.java 
+  917  10/23/2017 10:43:36 VM git add Java/UlamekTest.java 
+  918  10/23/2017 10:43:40 VM git status
+  919  10/23/2017 10:43:54 VM git commit -m "Zabawy z Java"
+  920  10/23/2017 10:44:01 VM git push origin master
+  921  10/23/2017 10:46:10 VM cd /media/rooigevaar19/Media/Music/
+  922  10/23/2017 10:46:12 VM cmus
+  923  10/23/2017 11:42:37 VM exit
+  924  10/23/2017 10:47:20 VM chmod +x *.sh
+  925  10/23/2017 10:47:26 VM ./runHSQLDBServer.sh 
+  926  10/23/2017 11:42:42 VM exit
+  927  10/23/2017 12:32:18 NM javac Ulamek.java 
+  928  10/23/2017 12:32:28 NM java UlamekTest 
+  929  10/23/2017 12:33:07 NM javac Ulamek.java 
+  930  10/23/2017 12:33:09 NM java UlamekTest 
+  931  10/23/2017 12:33:22 NM javac Ulamek.java 
+  932  10/23/2017 12:33:23 NM java UlamekTest 
+  933  10/23/2017 12:34:55 NM javac UlamekTest.java 
+  934  10/23/2017 12:34:57 NM java UlamekTest 
+  935  10/23/2017 12:36:44 NM javac UlamekTest.java 
+  936  10/23/2017 12:36:45 NM java UlamekTest 
+  937  10/23/2017 12:37:55 NM javac Ulamek.java 
+  938  10/23/2017 12:37:57 NM javac UlamekTest.java 
+  939  10/23/2017 12:37:59 NM java UlamekTest 
+  940  10/23/2017 12:38:36 NM javac Ulamek.java 
+  941  10/23/2017 12:38:40 NM javac UlamekTest.java 
+  942  10/23/2017 12:38:43 NM java UlamekTest 
+  943  10/23/2017 12:38:57 NM javac UlamekTest.java 
+  944  10/23/2017 12:38:58 NM java UlamekTest 
+  945  10/23/2017 12:39:33 NM javac UlamekTest.java 
+  946  10/23/2017 12:39:34 NM java UlamekTest 
+  947  10/23/2017 12:39:44 NM javac UlamekTest.java 
+  948  10/23/2017 12:39:46 NM java UlamekTest 
+  949  10/23/2017 12:48:31 NM gnuplot -h
+  950  10/23/2017 12:48:46 NM gnuplot --help
+  951  10/23/2017 12:49:01 NM man gnuplot
+  952  10/23/2017 12:49:33 NM gnuplot
+  953  10/23/2017 12:50:34 NM gnuplot -e cos.csv 
+  954  10/23/2017 12:50:42 NM gnuplot -e "reset" cos.csv 
+  955  10/23/2017 01:06:09 NM touch ets2
+  956  10/23/2017 01:06:17 NM rm -rf ets2
+  957  10/23/2017 01:06:23 NM exit
+  958  10/23/2017 02:34:34 NM git status
+  959  10/23/2017 02:35:14 NM git add -u
+  960  10/23/2017 02:35:15 NM git status
+  961  10/23/2017 02:35:30 NM git add Java/
+  962  10/23/2017 02:35:32 NM git status
+  963  10/23/2017 02:35:51 NM git commit -m "Zabawa Java - Ułamki"
+  964  10/23/2017 02:36:05 NM git push -u origin master
+  965  10/23/2017 04:41:16 NM git status
+  966  10/23/2017 04:41:28 NM git add FreePascal/00*.pas
+  967  10/23/2017 04:41:30 NM git status
+  968  10/23/2017 04:41:48 NM git commit -m "Zabawy z FPC"
+  969  10/23/2017 04:41:57 NM git push -u origin master
+  970  10/23/2017 04:42:12 NM history
+  971  10/23/2017 02:52:16 NM fpc 004-kontynuuj.pas 
+  972  10/23/2017 02:53:25 NM ./004-kontynuuj
+  973  10/23/2017 02:54:31 NM fpc 004-kontynuuj.pas 
+  974  10/23/2017 02:54:33 NM ./004-kontynuuj
+  975  10/23/2017 02:59:36 NM fpc 004-kontynuuj.pas 
+  976  10/23/2017 02:59:38 NM ./004-kontynuuj
+  977  10/23/2017 03:47:53 NM fpc 004-silnia.pas 
+  978  10/23/2017 03:49:02 NM ./004-silnia
+  979  10/23/2017 04:09:08 NM fpc 004-silnia.pas 
+  980  10/23/2017 04:09:09 NM ./004-silnia
+  981  10/23/2017 04:09:40 NM fpc 004-silnia.pas 
+  982  10/23/2017 04:09:41 NM ./004-silnia
+  983  10/23/2017 04:10:03 NM fpc 004-silnia.pas 
+  984  10/23/2017 04:10:05 NM ./004-silnia
+  985  10/23/2017 04:10:53 NM fpc 004-silnia.pas 
+  986  10/23/2017 04:10:55 NM ./004-silnia
+  987  10/23/2017 04:11:32 NM fpc 004-silnia.pas 
+  988  10/23/2017 04:14:55 NM ./004-silnia
+  989  10/23/2017 04:17:49 NM fpc 004-silnia.pas 
+  990  10/23/2017 04:17:50 NM ./004-silnia
+  991  10/23/2017 04:37:33 NM fpc 005-bank.pas 
+  992  10/23/2017 04:37:49 NM ./005
+  993  10/23/2017 04:37:51 NM ./005-bank
+  994  10/23/2017 08:06:08 NM g++ cosinusek.cpp 
+  995  10/23/2017 08:06:40 NM ./a.out 
+  996  10/23/2017 08:09:36 NM g++ cosinusek.cpp 
+  997  10/23/2017 08:09:37 NM ./a.out 
+  998  10/23/2017 08:38:27 NM g++ cosinusek.cpp 
+  999  10/23/2017 08:38:28 NM ./a.out 
+ 1000  10/23/2017 08:38:40 NM g++ cosinusek.cpp 
+ 1001  10/23/2017 08:38:40 NM ./a.out 
+ 1002  10/23/2017 08:51:24 NM g++ cosinusek.cpp 
+ 1003  10/23/2017 08:52:02 NM ./a.out 
+ 1004  10/23/2017 08:55:09 NM g++ cosinusek.cpp 
+ 1005  10/23/2017 08:55:11 NM ./a.out 
+ 1006  10/23/2017 08:55:49 NM g++ cosinusek.cpp 
+ 1007  10/23/2017 08:55:50 NM ./a.out 
+ 1008  10/23/2017 09:02:09 NM g++ cosinusek.cpp 
+ 1009  10/23/2017 09:02:10 NM ./a.out 
+ 1010  10/23/2017 09:03:41 NM g++ cosinusek.cpp 
+ 1011  10/23/2017 09:03:42 NM ./a.out 
+ 1012  10/23/2017 09:04:07 NM g++ cosinusek.cpp 
+ 1013  10/23/2017 09:04:08 NM ./a.out 
+ 1014  10/23/2017 09:04:35 NM ./a.out > cos_double.csv
+ 1015  10/23/2017 09:04:55 NM g++ cosinusek.cpp 
+ 1016  10/23/2017 09:05:01 NM ./a.out > cos_float.csv
+ 1017  10/23/2017 09:05:04 NM ./a.out
+ 1018  10/23/2017 09:08:42 NM g++ cosinusek.cpp 
+ 1019  10/23/2017 09:08:43 NM ./a.out
+ 1020  10/23/2017 09:09:20 NM g++ cosinusek.cpp 
+ 1021  10/23/2017 09:09:21 NM ./a.out
+ 1022  10/23/2017 09:12:00 NM g++ cosinusek.cpp 
+ 1023  10/23/2017 09:12:01 NM ./a.out
+ 1024  10/23/2017 09:13:42 NM g++ cosinusek.cpp 
+ 1025  10/23/2017 09:13:51 NM ./a.out > cos_ldouble.csv
+ 1026  10/23/2017 09:13:55 NM ./a.out
+ 1027  10/23/2017 09:17:27 NM g++ cosinusek.cpp 
+ 1028  10/23/2017 09:17:29 NM ./a.out > cos_ldouble.csv
+ 1029  10/23/2017 09:19:25 NM g++ cosinusek.cpp 
+ 1030  10/23/2017 09:19:27 NM ./a.out > cos_ldouble.csv
+ 1031  10/24/2017 12:50:43 NM ./runHSQLDBServer.sh 
+ 1032  10/24/2017 12:51:00 NM mvn jetty:run
+ 1033  10/24/2017 12:49:48 NM cmus
+ 1034  10/24/2017 01:01:02 NM sudo shutdown -h now
+ 1035  10/24/2017 02:10:13 NM g++ cosinusek.cpp 
+ 1036  10/24/2017 02:10:57 NM ./a.out 
+ 1037  10/24/2017 02:11:37 NM g++ cosinusek.cpp 
+ 1038  10/24/2017 02:11:38 NM ./a.out 
+ 1039  10/24/2017 02:12:18 NM g++ cosinusek.cpp 
+ 1040  10/24/2017 02:12:19 NM ./a.out 
+ 1041  10/24/2017 02:12:58 NM g++ cosinusek.cpp 
+ 1042  10/24/2017 02:12:59 NM ./a.out 
+ 1043  10/24/2017 02:21:51 NM ./runHSQLDBClient.sh 
+ 1044  10/24/2017 02:55:18 NM exit
+ 1045  10/24/2017 02:59:49 NM git status 
+ 1046  10/24/2017 03:00:33 NM git add src/main/webapp/obtainCigaretteData.jsp 
+ 1047  10/24/2017 03:00:38 NM git status
+ 1048  10/24/2017 03:00:59 NM git commit -m "Formularz dodawania produktu"
+ 1049  10/24/2017 03:01:08 NM git push -u origin master
+ 1050  10/24/2017 03:01:20 NM git push -u origin v010 
+ 1051  10/24/2017 02:13:54 NM ./runHSQLDBServer.sh 
+ 1052  10/24/2017 02:14:03 NM mvn jetty:run
+ 1053  10/24/2017 02:32:15 NM git status 
+ 1054  10/24/2017 02:32:28 NM git add
+ 1055  10/24/2017 02:32:32 NM git add .
+ 1056  10/24/2017 02:32:36 NM git stat
+ 1057  10/24/2017 02:32:38 NM git status 
+ 1058  10/24/2017 02:33:54 NM history
+ 1059  10/24/2017 02:34:35 NM git checkout  -b v010
+ 1060  10/24/2017 02:34:42 NM git checkout -b v010
+ 1061  10/24/2017 02:34:47 NM git status
+ 1062  10/24/2017 02:35:12 NM git rm --cached .classpath 
+ 1063  10/24/2017 02:35:17 NM git rm --cached .gitignore 
+ 1064  10/24/2017 02:35:28 NM git rm --cached .project 
+ 1065  10/24/2017 02:35:38 NM git rm --cached .setings
+ 1066  10/24/2017 02:35:40 NM git rm --cached .setings/
+ 1067  10/24/2017 02:35:50 NM git rm --cached ./.setings
+ 1068  10/24/2017 02:35:56 NM git rm -r --cached ./.setings
+ 1069  10/24/2017 02:35:57 NM git rm -r --cached ./.setings/
+ 1070  10/24/2017 02:36:15 NM git rmdir -r --cached .setings
+ 1071  10/24/2017 02:36:26 NM git rmdir -r --cached .settings/
+ 1072  10/24/2017 02:36:32 NM git rm -r --cached .settings/
+ 1073  10/24/2017 02:36:47 NM git rm -r --cached init.sh 
+ 1074  10/24/2017 02:36:52 NM git status 
+ 1075  10/24/2017 02:37:20 NM git commit -m "SQL dziala"
+ 1076  10/24/2017 02:37:27 NM git ls
+ 1077  10/24/2017 02:37:30 NM git log
+ 1078  10/24/2017 02:37:46 NM git push -u origin v010 
+ 1079  10/24/2017 03:04:14 NM git rm --cached db/hsql-2.4.0.jar 
+ 1080  10/24/2017 03:04:26 NM git commit -m "konserwacja"
+ 1081  10/24/2017 03:04:29 NM git push -u origin v010 
+ 1082  10/24/2017 03:13:14 NM git status 
+ 1083  10/24/2017 03:13:26 NM git add -u
+ 1084  10/24/2017 03:13:30 NM git status 
+ 1085  10/24/2017 03:13:49 NM git commit -m "walka z jsp vol1"
+ 1086  10/24/2017 03:13:56 NM git push -u origin v010
+ 1087  10/24/2017 03:56:19 NM ./runHSQLDBClient.sh 
+ 1088  10/24/2017 04:02:53 NM git status 
+ 1089  10/24/2017 04:02:58 NM git add -u
+ 1090  10/24/2017 04:03:15 NM git commit -m "Naprawienie formularza dodającego"
+ 1091  10/24/2017 04:03:28 NM git push -u origin v010 
+ 1092  10/24/2017 04:04:28 NM git status 
+ 1093  10/24/2017 04:04:43 NM git rm --cached .gitignore 
+ 1094  10/24/2017 04:04:57 NM git commit -m "konserwacja 2"
+ 1095  10/24/2017 04:05:03 NM git push -u origin v010
+ 1096  10/24/2017 04:05:18 NM git status 
+ 1097  10/24/2017 04:05:28 NM git push -u origin v010
+ 1098  10/24/2017 04:34:20 NM git status 
+ 1099  10/24/2017 04:34:34 NM git add src/main/webapp/index.css 
+ 1100  10/24/2017 04:34:38 NM git add -u
+ 1101  10/24/2017 04:34:55 NM git commit -m "Dodanie CSS do index.jsp"
+ 1102  10/24/2017 04:35:05 NM git push origin v010 
+ 1103  10/24/2017 03:53:31 NM mvn jetty:run
+ 1104  10/24/2017 03:53:20 NM ./runHSQLDBServer.sh 
+ 1105  10/24/2017 04:21:39 NM git status 
+ 1106  10/24/2017 04:21:56 NM git add src/main/webapp/newicon1great50.png 
+ 1107  10/24/2017 04:21:59 NM git add -u
+ 1108  10/24/2017 04:22:14 NM git status 
+ 1109  10/24/2017 04:22:31 NM git commit -m "Prace przy index.jsp"
+ 1110  10/24/2017 04:22:35 NM git push -u origin v010 
+ 1111  10/24/2017 04:36:32 NM git status 
+ 1112  10/24/2017 04:36:35 NM git commit -m "Prace przy index.jsp"
+ 1113  10/24/2017 04:36:37 NM git push -u origin v010 
+ 1114  10/24/2017 03:49:03 NM cd /media/rooigevaar19/Media/Music/
+ 1115  10/24/2017 03:49:04 NM cmus
+ 1116  10/24/2017 05:56:24 NM mvn jetty:run
+ 1117  10/24/2017 06:02:54 NM exit
+ 1118  10/24/2017 05:48:54 NM git clone https://github.com/mmazepa/ProjektZespolowy.git
+ 1119  10/24/2017 05:51:02 NM git origin
+ 1120  10/24/2017 05:51:46 NM git remote -v
+ 1121  10/24/2017 05:52:23 NM gti fetch https://github.com/mmazepa/ProjektZespolowy.git
+ 1122  10/24/2017 05:52:33 NM git fetch https://github.com/mmazepa/ProjektZespolowy.git
+ 1123  10/24/2017 05:52:44 NM git init
+ 1124  10/24/2017 05:52:49 NM git clone https://github.com/mmazepa/ProjektZespolowy.git
+ 1125  10/24/2017 05:53:11 NM cd ProjektZespolowy/
+ 1126  10/24/2017 05:53:18 NM git remote -v
+ 1127  10/24/2017 05:53:25 NM git status
+ 1128  10/24/2017 05:53:36 NM git add src/main/sql/
+ 1129  10/24/2017 05:53:39 NM git status 
+ 1130  10/24/2017 05:53:56 NM git commit -m "Dodanie testowych skryptów SQL"
+ 1131  10/24/2017 05:54:03 NM git push -u origin master
+ 1132  10/24/2017 05:56:08 NM git log
+ 1133  10/24/2017 06:03:10 NM exit
+ 1134  10/24/2017 06:07:54 NM sudo shutdown -h now
+ 1135  10/24/2017 07:00:15 NM cd /media/rooigevaar19/Media/Music/
+ 1136  10/24/2017 07:00:17 NM cmus
+ 1137  10/24/2017 07:57:12 NM exit
+ 1138  10/25/2017 11:09:56 VM git init
+ 1139  10/25/2017 11:10:23 VM echo "# Hexadecimal Calculator"
+ 1140  10/25/2017 11:10:32 VM echo "# Hexadecimal Calculator" > README.md
+ 1141  10/25/2017 11:11:22 VM echo "*.bak" >> .gitignore
+ 1142  10/25/2017 11:11:30 VM cat .gitignore 
+ 1143  10/25/2017 11:11:50 VM git status 
+ 1144  10/25/2017 11:11:57 VM git add HexCalculator-kernafval/
+ 1145  10/25/2017 11:12:01 VM git status
+ 1146  10/25/2017 11:12:35 VM git commit -m "first commit"
+ 1147  10/25/2017 11:12:39 VM exit
+ 1148  10/25/2017 11:18:38 VM mvn jetty:run
+ 1149  10/25/2017 11:23:16 VM find --name "*.mp3"
+ 1150  10/25/2017 11:23:21 VM find -name "*.mp3"
+ 1151  10/25/2017 11:23:29 VM find -name "*.mp3" | grep Volbeat
+ 1152  10/25/2017 11:03:42 VM cmus
+ 1153  10/25/2017 11:17:28 VM clear
+ 1154  10/25/2017 11:17:31 VM cmus
+ 1155  10/25/2017 11:23:55 VM exit
+ 1156  10/25/2017 12:17:41 NM mvn jetty:run
+ 1157  10/25/2017 12:21:41 NM exit
+ 1158  10/25/2017 02:58:04 NM ssh plipkowski@sigma.ug.edu.pl
+ 1159  10/25/2017 03:12:01 NM cd /media/rooigevaar19/Media/Music/
+ 1160  10/25/2017 03:12:02 NM cmus
+ 1161  10/25/2017 05:58:42 NM git status
+ 1162  10/25/2017 05:58:45 NM exit
+ 1163  10/25/2017 05:58:58 NM git status
+ 1164  10/25/2017 05:59:18 NM git add -u
+ 1165  10/25/2017 05:59:41 NM git commit -m "some jobs on unit3"
+ 1166  10/25/2017 06:00:15 NM git push -u origin v010
+ 1167  10/25/2017 06:02:34 NM git remote add origin https://github.com/RooiGevaar19/HexCalculator.git
+ 1168  10/25/2017 06:02:43 NM git push -u origin master
+ 1169  10/25/2017 05:50:20 NM cd /media/rooigevaar19/Media/Music/
+ 1170  10/25/2017 05:50:21 NM cmus
+ 1171  10/25/2017 06:08:15 NM sudo shutdown -h now
+ 1172  10/25/2017 07:44:09 NM history
+ 1173  10/25/2017 07:44:16 NM g++ cosinusek.cpp 
+ 1174  10/25/2017 07:44:21 NM ./a.out 
+ 1175  10/25/2017 07:47:25 NM g++ cosinusek.cpp 
+ 1176  10/25/2017 07:47:41 NM ./a.out 
+ 1177  10/25/2017 07:47:55 NM ./a.out > test.csv
+ 1178  10/25/2017 08:06:25 NM g++ cosinusek.cpp 
+ 1179  10/25/2017 08:06:27 NM ./a.out 
+ 1180  10/25/2017 08:06:37 NM g++ cosinusek.cpp 
+ 1181  10/25/2017 08:06:40 NM ./a.out > test.csv
+ 1182  10/25/2017 08:08:16 NM g++ cosinusek.cpp 
+ 1183  10/25/2017 08:08:20 NM ./a.out 
+ 1184  10/25/2017 08:08:24 NM ./a.out > test.csv
+ 1185  10/25/2017 08:13:59 NM cd /media/rooigevaar19/Media/Music/
+ 1186  10/25/2017 08:14:00 NM cmus
+ 1187  10/25/2017 11:10:14 NM exit
+ 1188  10/26/2017 01:01:37 NM cd /media/rooigevaar19/Media/Music/
+ 1189  10/26/2017 01:01:39 NM ls
+ 1190  10/26/2017 01:01:41 NM cmus
+ 1191  10/26/2017 01:23:33 NM sudo shutdown -h now
+ 1192  10/26/2017 06:20:43 NM cmus
+ 1193  10/26/2017 07:07:49 NM sudo shutdown -h now
+ 1194  10/27/2017 10:18:40 VM cd /media/rooigevaar19/Media/Music/
+ 1195  10/27/2017 10:18:40 VM ls
+ 1196  10/27/2017 10:18:45 VM cmus
+ 1197  10/27/2017 11:45:17 VM exit
+ 1198  10/29/2017 04:45:02 NM g++ GravitySort.cpp -o GravitySort.exec
+ 1199  10/29/2017 04:45:48 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1200  10/29/2017 06:04:47 NM ./GravitySort.exec 
+ 1201  10/29/2017 06:07:11 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1202  10/29/2017 06:07:13 NM ./GravitySort.exec 
+ 1203  10/29/2017 06:08:06 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1204  10/29/2017 06:08:07 NM ./GravitySort.exec 
+ 1205  10/29/2017 06:10:11 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1206  10/29/2017 06:10:12 NM ./GravitySort.exec 
+ 1207  10/29/2017 06:13:52 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1208  10/29/2017 06:13:54 NM ./GravitySort.exec 
+ 1209  10/29/2017 06:16:10 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1210  10/29/2017 06:16:11 NM ./GravitySort.exec 
+ 1211  10/29/2017 06:16:26 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1212  10/29/2017 06:16:27 NM ./GravitySort.exec 
+ 1213  10/29/2017 06:20:54 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1214  10/29/2017 06:20:55 NM ./GravitySort.exec 
+ 1215  10/29/2017 06:21:12 NM g++ GravitySort.cpp -o GravitySort.exec -lm
+ 1216  10/29/2017 06:21:13 NM ./GravitySort.exec 
+ 1217  10/29/2017 06:14:44 NM cpp QuickSort.cpp -o QuickSort.exec -lm
+ 1218  10/29/2017 06:14:49 NM ./QuickSort.exec 
+ 1219  10/29/2017 06:15:32 NM g++ QuickSort.cpp -o QuickSort.exec -lm
+ 1220  10/29/2017 06:15:35 NM ./QuickSort.exec 
+ 1221  10/29/2017 06:16:24 NM g++ QuickSort.cpp -o QuickSort.exec -lm
+ 1222  10/29/2017 04:12:40 NM cmus
+ 1223  10/29/2017 06:28:10 NM git status 
+ 1224  10/29/2017 06:28:15 NM git add -u
+ 1225  10/29/2017 06:28:17 NM git status 
+ 1226  10/29/2017 06:28:33 NM git push origin master
+ 1227  10/29/2017 06:28:53 NM git commit -m "poprawki w kodzie FPC"
+ 1228  10/29/2017 06:29:00 NM git push origin master
+ 1229  10/29/2017 06:22:46 NM git status 
+ 1230  10/29/2017 06:23:01 NM git add Cpp/sorty/GravitySort.cpp 
+ 1231  10/29/2017 06:23:32 NM git commit -m "Sortowanie grawitacyjne vol1"
+ 1232  10/29/2017 06:23:42 NM git push origin master
+ 1233  10/30/2017 02:34:54 NM ./runHSQLDBClient.sh 
+ 1234  10/30/2017 10:38:47 VM ./runHSQLDBServer.sh 
+ 1235  10/30/2017 10:39:57 VM cd /media/rooigevaar19/Media/Music/
+ 1236  10/30/2017 10:39:58 VM cmus
+ 1237  10/30/2017 09:34:50 NM exit
+ 1238  10/30/2017 10:38:56 VM mvn jetty:run
+ 1239  10/30/2017 06:53:06 NM git push origin master
+ 1240  10/30/2017 06:53:11 NM mvn jetty:run
+ 1241  10/30/2017 07:08:22 NM git status 
+ 1242  10/30/2017 07:08:38 NM git add -a
+ 1243  10/30/2017 07:08:46 NM git add -A
+ 1244  10/30/2017 07:08:48 NM git status 
+ 1245  10/30/2017 07:09:18 NM git commit -m "harówka przy module zakupowym"
+ 1246  10/30/2017 07:09:25 NM git push -u origin master
+ 1247  10/30/2017 07:09:47 NM git push -u origin v010
+ 1248  10/30/2017 07:13:46 NM mvn jetty:run
+ 1249  10/30/2017 08:13:35 NM git commit -m "prace upiększające i wykończeniowe"
+ 1250  10/30/2017 08:13:42 NM git add -u
+ 1251  10/30/2017 08:13:43 NM git commit -m "prace upiększające i wykończeniowe"
+ 1252  10/30/2017 08:13:51 NM git push -u origin v010
+ 1253  10/30/2017 09:35:03 NM exit
+ 1254  10/31/2017 02:10:42 NM cmus
+ 1255  10/31/2017 02:15:01 NM exit
+ 1256  10/31/2017 03:53:25 NM git clone https://github.com/KubaNeumann/restdemo.git
+ 1257  10/31/2017 03:53:56 NM https://github.com/KubaNeumann/restdemo.git
+ 1258  10/31/2017 03:54:09 NM git clone https://github.com/KubaNeumann/restdemo.git
+ 1259  10/31/2017 03:57:56 NM exit
+ 1260  10/31/2017 03:57:40 NM mvn jetty:run
+ 1261  10/31/2017 03:57:32 NM ./runHSQLDBServer.sh 
+ 1262  10/31/2017 03:49:05 NM cmus
+ 1263  10/31/2017 04:12:27 NM cd /media/rooigevaar19/Windows/Users/redth/Music/
+ 1264  10/31/2017 04:12:29 NM cmus
+ 1265  10/31/2017 04:24:30 NM mvn jetty;run
+ 1266  10/31/2017 04:24:34 NM mvn jetty:run
+ 1267  10/31/2017 04:46:51 NM curl
+ 1268  10/31/2017 04:46:58 NM sudo apt-get install curl
+ 1269  10/31/2017 04:49:14 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restservicedemo/api/cigarettes/
+ 1270  10/31/2017 05:07:52 NM curl -d '{"id":"1", "name":"Papierzosy", "price":"21.37", "count":"2137"}' -H "Content-Type: application/json" -X POST http://localhost:8080/restservicedemo/api/cigarettes/
+ 1271  10/31/2017 05:13:11 NM exit
+ 1272  10/31/2017 05:52:38 NM git status 
+ 1273  10/31/2017 05:52:42 NM git add -u
+ 1274  10/31/2017 05:52:47 NM git stat
+ 1275  10/31/2017 05:52:49 NM git status 
+ 1276  10/31/2017 05:53:04 NM git commit -m "odanie paru slowek"
+ 1277  10/31/2017 05:53:20 NM git push -u origin v010
+ 1278  10/31/2017 05:53:43 NM exit
+ 1279  10/31/2017 05:54:03 NM git status
+ 1280  10/31/2017 05:54:07 NM git ad -u
+ 1281  10/31/2017 05:54:10 NM git ada -u
+ 1282  10/31/2017 05:54:13 NM git add -u
+ 1283  10/31/2017 05:54:29 NM git commit -m "popraweczki"
+ 1284  10/31/2017 05:54:54 NM git push -u origin v010
+ 1285  10/31/2017 05:55:25 NM exit
+ 1286  10/31/2017 05:55:36 NM cd /media/rooigevaar19/Media/Mus
+ 1287  10/31/2017 05:55:38 NM cd /media/rooigevaar19/Media/Music/
+ 1288  10/31/2017 05:55:39 NM cmus
+ 1289  10/31/2017 06:05:02 NM sudo shutdown -h now
+ 1290  11/02/2017 09:53:09 VM g++ SimulationalGravitySort.cpp -o SimulationalGravitySort.exec -lm
+ 1291  11/02/2017 09:53:14 VM ./SimulationalGravitySort.exec 
+ 1292  11/02/2017 09:54:42 VM g++ SimulationalGravitySortR.cpp -o SimulationalGravitySortR.exec -lm
+ 1293  11/02/2017 09:54:46 VM ./SimulationalGravitySortR.exec 
+ 1294  11/02/2017 09:55:35 VM g++ NaiveGravitySort.cpp -o NaiveGravitySort.exec
+ 1295  11/02/2017 09:55:40 VM ./NaiveGravitySort.exec 
+ 1296  11/02/2017 09:55:55 VM ./SimulationalGravitySortR.exec 
+ 1297  11/02/2017 09:55:58 VM ./NaiveGravitySort.exec 
+ 1298  11/02/2017 10:01:21 VM g++ SimulationalGravitySort.cpp -o SimulationalGravitySort.exec -lm
+ 1299  11/02/2017 10:01:25 VM ./SimulationalGravitySort.exec 
+ 1300  11/02/2017 10:02:08 VM ./NaiveGravitySort.exec 
+ 1301  11/02/2017 10:02:20 VM ./QuickSort.exec 
+ 1302  11/02/2017 10:04:20 VM g++ QuickSort.cpp -o QuickSort.exec -lm
+ 1303  11/02/2017 10:04:26 VM ./QuickSort.exec 
+ 1304  11/02/2017 10:13:03 VM g++ ShiftingSort.cpp -o ShiftingSort.exec -lm
+ 1305  11/02/2017 10:13:06 VM ./ShiftingSort.exec 
+ 1306  11/02/2017 10:13:44 VM g++ SimulationalGravitySortV2.cpp -o SimulationalGravitySortV2.exec -lm
+ 1307  11/02/2017 10:13:51 VM ./SimulationalGravitySortV2.exec 
+ 1308  11/02/2017 10:14:15 VM ./SimulationalGravitySort.exec 
+ 1309  11/02/2017 10:15:57 VM ./QuickSort.exec 
+ 1310  11/02/2017 10:16:31 VM ./SimulationalGravitySort.exec 
+ 1311  11/02/2017 10:16:33 VM ./QuickSort.exec 
+ 1312  11/02/2017 10:18:20 VM cd ../..
+ 1313  11/02/2017 10:18:22 VM ls
+ 1314  11/02/2017 10:18:28 VM git status 
+ 1315  11/02/2017 10:18:38 VM git add -u
+ 1316  11/02/2017 10:18:39 VM git status 
+ 1317  11/02/2017 10:19:13 VM git add Cpp/sorty/*.cpp
+ 1318  11/02/2017 10:19:17 VM git status 
+ 1319  11/02/2017 10:19:46 VM git commit -m "zabawy przy sortowaniu grawitacyjnym"
+ 1320  11/02/2017 10:19:48 VM sl
+ 1321  11/02/2017 10:19:51 VM ls
+ 1322  11/02/2017 10:20:22 VM exit
+ 1323  11/02/2017 09:29:07 VM cmus
+ 1324  11/02/2017 10:23:56 VM sudo shutdown -h now
+ 1325  11/02/2017 07:00:22 NM ls *.cpp
+ 1326  11/02/2017 07:00:26 NM ls -l *.cpp
+ 1327  11/02/2017 07:09:34 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exe -lm
+ 1328  11/02/2017 07:09:48 NM ./BogoSortComparison10.exe
+ 1329  11/02/2017 07:10:38 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exec -lm
+ 1330  11/02/2017 07:10:41 NM ./BogoSortComparison10.exec
+ 1331  11/02/2017 07:11:22 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exec -lm
+ 1332  11/02/2017 07:11:23 NM ./BogoSortComparison10.exec
+ 1333  11/02/2017 07:12:58 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exec -lm
+ 1334  11/02/2017 07:12:59 NM ./BogoSortComparison10.exec
+ 1335  11/02/2017 07:13:58 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exec -lm
+ 1336  11/02/2017 07:14:15 NM ./BogoSortComparison10.exec
+ 1337  11/02/2017 07:15:05 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exec -lm
+ 1338  11/02/2017 07:15:06 NM ./BogoSortComparison10.exec
+ 1339  11/02/2017 07:15:27 NM g++ BogoSortComparison10.cpp -o BogoSortComparison10.exec -lm
+ 1340  11/02/2017 07:15:28 NM ./BogoSortComparison10.exec
+ 1341  11/02/2017 08:01:56 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1342  11/02/2017 08:02:04 NM ./BogoSortComparison15.exec
+ 1343  11/02/2017 07:45:33 NM ./BogoSortComparison15.exec
+ 1344  11/02/2017 08:06:44 NM top
+ 1345  11/02/2017 08:06:56 NM kill -9 3688
+ 1346  11/02/2017 08:06:58 NM top
+ 1347  11/02/2017 08:08:23 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1348  11/02/2017 08:08:26 NM ./BogoSortComparison15.exec
+ 1349  11/02/2017 08:09:26 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1350  11/02/2017 08:09:27 NM ./BogoSortComparison15.exec
+ 1351  11/02/2017 08:11:34 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1352  11/02/2017 08:11:35 NM ./BogoSortComparison15.exec
+ 1353  11/02/2017 08:10:00 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1354  11/02/2017 08:10:01 NM ./BogoSortComparison15.exec
+ 1355  11/02/2017 08:06:01 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1356  11/02/2017 08:06:02 NM ./BogoSortComparison15.exec
+ 1357  11/02/2017 08:13:01 NM git status 
+ 1358  11/02/2017 08:13:16 NM git add Cpp/sorty/*.cpp
+ 1359  11/02/2017 08:13:20 NM git status
+ 1360  11/02/2017 08:13:44 NM git commit -m "Dodanie porównania Bogosort"
+ 1361  11/02/2017 08:13:51 NM git push -u origin master
+ 1362  11/03/2017 09:03:33 VM cmus
+ 1363  11/03/2017 09:03:41 VM exit
+ 1364  11/03/2017 09:04:36 VM ./BogoSortComparison15.exec 
+ 1365  11/03/2017 10:18:07 VM cmus
+ 1366  11/03/2017 11:42:12 VM exit
+ 1367  11/03/2017 12:33:36 NM g++ FastBogoSortComparison150.cpp -o FastBogoSortComparison150.exec
+ 1368  11/03/2017 12:33:45 NM ./FastBogoSortComparison150.exec 
+ 1369  11/03/2017 12:35:28 NM g++ FastBogoSortComparison150.cpp -o FastBogoSortComparison150.exec
+ 1370  11/03/2017 12:35:45 NM ./FastBogoSortComparison150.exec 
+ 1371  11/03/2017 12:37:12 NM g++ FastBogoSortComparison250.cpp -o FastBogoSortComparison250.exec
+ 1372  11/03/2017 12:37:17 NM ./FastBogoSortComparison250.exec 
+ 1373  11/03/2017 12:40:43 NM ./FastBogoSortComparison250.exec > wyniki.csv
+ 1374  11/03/2017 12:43:33 NM g++ FastBogoSortComparison250B.cpp -o FastBogoSortComparison250B.exec
+ 1375  11/03/2017 12:43:38 NM ./FastBogoSortComparison250B.exec 
+ 1376  11/03/2017 12:43:54 NM ./FastBogoSortComparison250B.exec > wyniki.csv
+ 1377  11/03/2017 12:55:52 NM g++ FastBogoSortComparison250B.cpp -o FastBogoSortComparison250B.exec
+ 1378  11/03/2017 12:55:53 NM ./FastBogoSortComparison250B.exec > wyniki.csv
+ 1379  11/03/2017 12:59:21 NM g++ FastBogoSortComparison250B.cpp -o FastBogoSortComparison250B.exec
+ 1380  11/03/2017 12:59:23 NM ./FastBogoSortComparison250B.exec > wyniki.csv
+ 1381  11/03/2017 01:07:32 NM git status 
+ 1382  11/03/2017 01:07:39 NM git add -u
+ 1383  11/03/2017 01:07:54 NM git add Cpp/sorty/*.cpp
+ 1384  11/03/2017 01:07:59 NM git status
+ 1385  11/03/2017 12:28:02 NM cmus
+ 1386  11/03/2017 01:13:27 NM exit
+ 1387  11/04/2017 02:34:48 NM git log
+ 1388  11/04/2017 02:35:05 NM git stat
+ 1389  11/04/2017 02:35:11 NM git status 
+ 1390  11/04/2017 02:35:17 NM git add .gitignore 
+ 1391  11/04/2017 02:36:19 NM git commit -m "Fast BogoSort - porównania"
+ 1392  11/04/2017 02:36:28 NM git push -u origin master
+ 1393  11/04/2017 03:07:02 NM mvn jetty:run
+ 1394  11/04/2017 03:06:17 NM ./runHSQLDBServer.sh 
+ 1395  11/04/2017 02:50:46 NM git status 
+ 1396  11/04/2017 02:51:06 NM git add *
+ 1397  11/04/2017 02:51:12 NM git status 
+ 1398  11/04/2017 02:52:02 NM git checkout -b "v020"
+ 1399  11/04/2017 02:52:08 NM git status 
+ 1400  11/04/2017 02:52:33 NM git checkout v010
+ 1401  11/04/2017 02:52:42 NM git status 
+ 1402  11/04/2017 02:52:58 NM git reset HEAD *
+ 1403  11/04/2017 02:53:17 NM git checkout -- *
+ 1404  11/04/2017 02:53:32 NM git status
+ 1405  11/04/2017 02:53:55 NM git checkout -- db/*
+ 1406  11/04/2017 02:54:04 NM git checkout -- pom.xml
+ 1407  11/04/2017 02:54:24 NM git checkout -- src/*
+ 1408  11/04/2017 02:54:31 NM git status
+ 1409  11/04/2017 02:54:49 NM git commit -m "wersja v010 - zakończenie servletów"
+ 1410  11/04/2017 02:54:57 NM git checkout v020
+ 1411  11/04/2017 02:55:01 NM git status
+ 1412  11/04/2017 02:55:08 NM ls
+ 1413  11/04/2017 02:55:41 NM git add Rest/
+ 1414  11/04/2017 02:55:45 NM git add Servlet/
+ 1415  11/04/2017 02:55:49 NM git status
+ 1416  11/04/2017 02:56:01 NM git rm db
+ 1417  11/04/2017 02:56:04 NM git rm db -r
+ 1418  11/04/2017 02:56:11 NM git rm src/
+ 1419  11/04/2017 02:56:14 NM git rm src/ -r
+ 1420  11/04/2017 02:56:20 NM git rm pom.xml 
+ 1421  11/04/2017 02:56:27 NM git status
+ 1422  11/04/2017 02:56:49 NM git add .gitignore 
+ 1423  11/04/2017 02:57:34 NM git add .gitignore  -f
+ 1424  11/04/2017 02:57:44 NM git status
+ 1425  11/04/2017 02:57:59 NM git commit -m "nowy ład"
+ 1426  11/04/2017 02:58:09 NM git push origin v020
+ 1427  11/04/2017 02:59:39 NM git add Rest/db/runHSQLDBClient.sh 
+ 1428  11/04/2017 02:59:58 NM git add Rest/db/runHSQLDBClient.sh -f
+ 1429  11/04/2017 03:00:05 NM git add Servlet/db/runHSQLDBClient.sh -f
+ 1430  11/04/2017 03:00:18 NM git add Rest/db/runHSQLDBServer.sh -f
+ 1431  11/04/2017 03:00:37 NM git add Servlet/db/runHSQLDBServer.sh -f
+ 1432  11/04/2017 03:02:39 NM git add README.md 
+ 1433  11/04/2017 03:02:41 NM git sat
+ 1434  11/04/2017 03:02:45 NM git status 
+ 1435  11/04/2017 03:02:49 NM git add -u
+ 1436  11/04/2017 03:02:51 NM git status 
+ 1437  11/04/2017 03:03:27 NM git commit -m "nowy ład"
+ 1438  11/04/2017 03:03:31 NM git push origin v020
+ 1439  11/04/2017 03:10:30 NM git status 
+ 1440  11/04/2017 03:10:38 NM git add -u
+ 1441  11/04/2017 03:10:41 NM git push origin v020
+ 1442  11/04/2017 03:10:46 NM git commit -m "nowy ład"
+ 1443  11/04/2017 03:10:50 NM git push origin v020
+ 1444  11/04/2017 05:03:40 NM git status 
+ 1445  11/04/2017 05:04:10 NM git add Servlet/src/*
+ 1446  11/04/2017 05:04:15 NM git add -u
+ 1447  11/04/2017 05:04:18 NM git stat
+ 1448  11/04/2017 05:04:19 NM git status
+ 1449  11/04/2017 05:05:17 NM git status 
+ 1450  11/04/2017 05:06:41 NM git add -u
+ 1451  11/04/2017 05:06:46 NM git status 
+ 1452  11/04/2017 05:06:58 NM git add *
+ 1453  11/04/2017 05:07:35 NM git status
+ 1454  11/04/2017 05:07:47 NM git rm --cached Servlet/.project 
+ 1455  11/04/2017 05:07:52 NM git rm --cached Rest/.project 
+ 1456  11/04/2017 05:08:03 NM git status
+ 1457  11/04/2017 05:08:12 NM git add -u
+ 1458  11/04/2017 05:08:13 NM git status
+ 1459  11/04/2017 05:08:25 NM git commit -m "Servlet CRUD"
+ 1460  11/04/2017 05:08:34 NM git push -u origin v020
+ 1461  11/04/2017 05:10:33 NM sudo apt-get install kazam
+ 1462  11/04/2017 05:32:38 NM git status 
+ 1463  11/04/2017 05:32:47 NM git add -u
+ 1464  11/04/2017 05:32:59 NM git commit -m "poprawki w typach danych"
+ 1465  11/04/2017 05:33:06 NM git push -u origin master 
+ 1466  11/04/2017 05:51:44 NM git add -u
+ 1467  11/04/2017 05:51:47 NM git commit -m "poprawki w typach danych"
+ 1468  11/04/2017 05:51:53 NM git push -u origin master 
+ 1469  11/04/2017 05:54:15 NM git add -u
+ 1470  11/04/2017 05:54:17 NM git commit -m "poprawki w typach danych"
+ 1471  11/04/2017 05:54:21 NM git push -u origin master 
+ 1472  11/04/2017 05:55:55 NM git add -u
+ 1473  11/04/2017 05:55:57 NM git commit -m "poprawki w typach danych"
+ 1474  11/04/2017 05:55:59 NM git push -u origin master 
+ 1475  11/04/2017 05:13:30 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1476  11/04/2017 05:13:39 NM ./BogoSortComparison15.exec 
+ 1477  11/04/2017 05:33:28 NM clear
+ 1478  11/04/2017 05:33:47 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1479  11/04/2017 05:33:55 NM ./BogoSortComparison15.exec 
+ 1480  11/04/2017 05:52:17 NM clear
+ 1481  11/04/2017 05:52:20 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1482  11/04/2017 05:52:25 NM clear
+ 1483  11/04/2017 05:55:07 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1484  11/04/2017 05:56:20 NM clear
+ 1485  11/04/2017 05:56:57 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1486  11/04/2017 05:57:04 NM ./BogoSortComparison15.exec 
+ 1487  11/04/2017 07:33:28 NM clear
+ 1488  11/04/2017 07:33:43 NM g++ BogoSortComparison15.cpp -o BogoSortComparison15.exec -lm
+ 1489  11/04/2017 07:33:52 NM ./BogoSortComparison15.exec
+ 1490  11/05/2017 07:30:07 NM sudo shutdown =h now
+ 1491  11/05/2017 07:30:31 NM sudo shutdown -h now
+ 1492  11/06/2017 07:48:59 VM javac SorterInt.java 
+ 1493  11/06/2017 07:53:06 VM java SorterInt 
+ 1494  11/06/2017 08:00:00 VM javac SorterInt.java 
+ 1495  11/06/2017 08:00:24 VM java SorterInt 
+ 1496  11/06/2017 07:08:01 VM javac SorterInt.java 
+ 1497  11/06/2017 07:08:27 VM java SorterInt 
+ 1498  11/06/2017 07:09:26 VM exit
+ 1499  11/06/2017 07:09:36 VM git status 
+ 1500  11/06/2017 07:29:59 VM cmus
+ 1501  11/06/2017 07:15:22 VM sudo shutdpwn -h now
+ 1502  11/06/2017 07:15:29 VM sudo shutdown -h now
+ 1503  11/06/2017 10:46:28 VM ./runHSQLDBClient.sh 
+ 1504  11/06/2017 11:09:11 VM cmus
+ 1505  11/06/2017 11:44:05 VM exit
+ 1506  11/06/2017 10:43:42 VM mvn jetty:run
+ 1507  11/06/2017 10:43:36 VM ./runHSQLDBServer.sh 
+ 1508  11/06/2017 12:38:00 NM javac SorterInt.java
+ 1509  11/06/2017 12:38:07 NM java SorterInt 
+ 1510  11/06/2017 12:38:51 NM javac SorterInt.java
+ 1511  11/06/2017 12:38:52 NM java SorterInt 
+ 1512  11/06/2017 12:39:00 NM javac SorterInt.java
+ 1513  11/06/2017 12:39:01 NM java SorterInt 
+ 1514  11/06/2017 12:53:21 NM javac SorterInt.java
+ 1515  11/06/2017 12:53:23 NM java SorterInt 
+ 1516  11/06/2017 12:53:46 NM javac SorterInt.java
+ 1517  11/06/2017 12:54:08 NM exit
+ 1518  11/06/2017 12:26:46 NM cmus
+ 1519  11/06/2017 12:59:03 NM sudo shutdown -h now
+ 1520  11/07/2017 11:12:21 VM wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+ 1521  11/07/2017 11:12:39 VM sudo apt-get install apt-transport-https
+ 1522  11/07/2017 11:12:58 VM echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+ 1523  11/07/2017 11:13:12 VM sudo apt-get update
+ 1524  11/07/2017 11:13:23 VM sudo apt-get install sublime-text
+ 1525  11/07/2017 11:36:00 VM mvn jetty:run
+ 1526  11/07/2017 12:19:20 NM git status 
+ 1527  11/07/2017 12:19:29 NM git add src/*
+ 1528  11/07/2017 12:19:32 NM git status 
+ 1529  11/07/2017 12:20:39 NM git commit -m "Prace nad połączeniem do bazy danych i rozpoczęcie prac nad modelem opartym na owej bazie danych."
+ 1530  11/07/2017 12:20:45 NM git push -u origin master
+ 1531  11/07/2017 11:09:35 VM git pull origin master 
+ 1532  11/07/2017 12:48:29 NM cmus
+ 1533  11/07/2017 01:23:34 NM exit
+ 1534  11/07/2017 02:15:40 NM git status 
+ 1535  11/07/2017 02:15:58 NM git add -u
+ 1536  11/07/2017 02:17:35 NM git add *.java
+ 1537  11/07/2017 02:17:37 NM git status 
+ 1538  11/07/2017 02:18:02 NM git commit -m "Prace wykończeniowe nad modelem klas"
+ 1539  11/07/2017 02:18:11 NM git push origin master
+ 1540  11/07/2017 02:19:14 NM exit
+ 1541  11/07/2017 02:24:18 NM ping 8.8.8.8
+ 1542  11/07/2017 02:43:07 NM ./add-user.sh 
+ 1543  11/07/2017 02:43:56 NM ./standalone.sh 
+ 1544  11/07/2017 03:00:11 NM exit
+ 1545  11/07/2017 04:02:41 NM history
+ 1546  11/07/2017 04:02:58 NM history | grep cmus | wc -l
+ 1547  11/07/2017 04:35:17 NM git clone https://github.com/KubaNeumann/restwsejbdemo.git
+ 1548  11/07/2017 03:54:40 NM ./standalone.sh 
+ 1549  11/07/2017 03:53:19 NM cmus
+ 1550  11/07/2017 05:10:30 NM exit
+ 1551  11/07/2017 04:57:34 NM mvn clean target
+ 1552  11/07/2017 05:02:37 NM mvn clean install
+ 1553  11/07/2017 05:02:50 NM mvn clean target
+ 1554  11/07/2017 05:03:03 NM mvn wildfly:deploy
+ 1555  11/07/2017 05:06:19 NM mvn clean target
+ 1556  11/07/2017 05:06:43 NM mvn clean
+ 1557  11/07/2017 05:06:54 NM mvn clean install
+ 1558  11/07/2017 05:07:17 NM mvn wildfly:deploy
+ 1559  11/07/2017 05:08:50 NM history | grep curl
+ 1560  11/07/2017 05:09:35 NM mvn clean build
+ 1561  11/07/2017 04:39:46 NM git status 
+ 1562  11/07/2017 04:39:54 NM git add -u
+ 1563  11/07/2017 04:40:01 NM git add Wildfly/
+ 1564  11/07/2017 04:40:25 NM git commit -m "Dodanie Wildfly"
+ 1565  11/08/2017 07:37:07 VM mvn clean target
+ 1566  11/08/2017 07:37:18 VM mvn clean build
+ 1567  11/08/2017 07:37:29 VM mvn clean
+ 1568  11/08/2017 07:37:41 VM mvn clean install
+ 1569  11/08/2017 07:37:58 VM mvn wildfly:deploy
+ 1570  11/08/2017 07:41:35 VM mvn wildfly:undeploy
+ 1571  11/08/2017 07:36:41 VM ./standalone.sh 
+ 1572  11/08/2017 07:31:58 VM cmus
+ 1573  11/08/2017 07:06:34 VM sudo shutdown 0h now
+ 1574  11/08/2017 07:06:38 VM sudo shutdown -h now
+ 1575  11/08/2017 08:39:31 VM fpc cgi1.lpr 
+ 1576  11/08/2017 08:40:22 VM fpc brookex.lpk 
+ 1577  11/08/2017 08:54:09 VM exit
+ 1578  11/08/2017 08:15:40 VM cd /media/rooigevaar19/Media/
+ 1579  11/08/2017 08:15:42 VM cmus
+ 1580  11/08/2017 08:15:54 VM cd Music/
+ 1581  11/08/2017 08:15:54 VM ls
+ 1582  11/08/2017 08:15:57 VM cmus
+ 1583  11/08/2017 08:54:13 VM exit
+ 1584  11/08/2017 12:09:32 NM git pull origin master
+ 1585  11/08/2017 12:12:46 NM git status 
+ 1586  11/08/2017 12:24:14 NM exit
+ 1587  11/08/2017 05:49:07 NM mvn clean build
+ 1588  11/08/2017 05:49:15 NM mvn clean install
+ 1589  11/08/2017 05:49:40 NM exir
+ 1590  11/08/2017 05:49:42 NM exit
+ 1591  11/08/2017 05:48:38 NM ./standalone.sh 
+ 1592  11/08/2017 06:09:25 NM echo "xd"
+ 1593  11/08/2017 06:09:34 NM echo "Spierdalaj"
+ 1594  11/08/2017 06:09:44 NM history
+ 1595  11/08/2017 05:46:39 NM cmus
+ 1596  11/08/2017 06:15:06 NM sudo shutdown -h now
+ 1597  11/09/2017 10:33:20 VM cmus
+ 1598  11/09/2017 11:25:29 VM sudo shutdown -h now
+ 1599  11/09/2017 04:23:03 NM g++ qpa.cpp
+ 1600  11/09/2017 04:23:25 NM ./a.out 
+ 1601  11/09/2017 04:25:24 NM g++ qpa.cpp
+ 1602  11/09/2017 04:25:25 NM ./a.out 
+ 1603  11/09/2017 04:26:02 NM g++ qpa.cpp
+ 1604  11/09/2017 04:26:03 NM ./a.out 
+ 1605  11/09/2017 04:26:28 NM g++ qpa.cpp
+ 1606  11/09/2017 04:26:29 NM ./a.out 
+ 1607  11/09/2017 04:29:22 NM g++ qpa.cpp
+ 1608  11/09/2017 04:29:25 NM ./a.out 
+ 1609  11/09/2017 04:35:15 NM g++ qpa.cpp
+ 1610  11/09/2017 04:35:24 NM ./a.out 
+ 1611  11/09/2017 04:35:33 NM g++ qpa.cpp
+ 1612  11/09/2017 04:35:34 NM ./a.out 
+ 1613  11/09/2017 04:46:51 NM exit
+ 1614  11/10/2017 08:58:24 VM cmus
+ 1615  11/10/2017 09:14:46 VM psql cigarbase 
+ 1616  11/10/2017 10:20:29 VM cmus
+ 1617  11/10/2017 11:42:57 VM exit
+ 1618  11/10/2017 12:49:36 NM mvn jetty:run
+ 1619  11/10/2017 12:52:20 NM exit
+ 1620  11/10/2017 12:36:53 NM cmus
+ 1621  11/10/2017 01:14:05 NM sudo shutdown -h now
+ 1622  11/11/2017 06:33:37 NM mvn jetty:run
+ 1623  11/11/2017 06:38:47 NM mvn clean
+ 1624  11/11/2017 06:38:53 NM mvn build
+ 1625  11/11/2017 06:39:00 NM mvn install
+ 1626  11/11/2017 06:39:09 NM mvn jetty:run
+ 1627  11/11/2017 06:44:34 NM mvn clean install
+ 1628  11/11/2017 06:45:26 NM mvn jetty:run
+ 1629  11/11/2017 08:39:58 NM git stat
+ 1630  11/11/2017 08:40:00 NM git status 
+ 1631  11/11/2017 08:40:22 NM git add *.java
+ 1632  11/11/2017 08:40:35 NM git add -u
+ 1633  11/11/2017 08:40:36 NM git status 
+ 1634  11/11/2017 08:41:38 NM git commit -m "Utworzenie menadżerów dla każdej z tabel bazodanowych"
+ 1635  11/11/2017 08:41:50 NM git push -u origin master
+ 1636  11/11/2017 08:58:48 NM exit
+ 1637  11/11/2017 06:33:19 NM cmus
+ 1638  11/13/2017 06:28:22 NM sudo apt-gt install libeigen3-dev
+ 1639  11/13/2017 06:28:26 NM sudo apt-get install libeigen3-dev
+ 1640  11/13/2017 08:21:37 NM exit
+ 1641  11/13/2017 06:30:58 NM g++ MyMatrix.cpp 
+ 1642  11/13/2017 06:31:37 NM ./a.out 
+ 1643  11/13/2017 06:21:26 NM g++ Ulamek.cpp -o b.out
+ 1644  11/13/2017 06:26:05 NM ./b.out 
+ 1645  11/14/2017 10:28:37 VM git pull origin master
+ 1646  11/14/2017 10:44:24 VM psql cigarbase 
+ 1647  11/14/2017 11:20:57 VM psql -v
+ 1648  11/14/2017 11:21:02 VM psql --version
+ 1649  11/14/2017 11:29:28 VM psql cigarbase 
+ 1650  11/14/2017 10:27:08 VM mvn jetty:run
+ 1651  11/14/2017 11:26:25 VM mvn clean
+ 1652  11/14/2017 11:26:31 VM mvn clean install
+ 1653  11/14/2017 11:26:39 VM mvn jetty:run
+ 1654  11/14/2017 11:27:23 VM mvn clean install
+ 1655  11/14/2017 11:27:30 VM mvn jetty:run
+ 1656  11/14/2017 12:38:58 NM git status 
+ 1657  11/14/2017 12:39:21 NM git add src/main/webapp/static/backend/
+ 1658  11/14/2017 12:39:26 NM git add -u
+ 1659  11/14/2017 12:39:31 NM git status
+ 1660  11/14/2017 12:40:47 NM git commit -m "Lipkowski/Zakrzewski: testowy CRUD dla tabeli bazodanowej Account"
+ 1661  11/14/2017 12:40:56 NM git push -u origin master
+ 1662  11/14/2017 12:41:55 NM exit
+ 1663  11/14/2017 12:52:48 NM g++ MyMatrix.cpp 
+ 1664  11/14/2017 12:59:18 NM g++ MyMatrix.cpp -std=c11
+ 1665  11/14/2017 12:59:24 NM g++ MyMatrix.cpp --std=c11
+ 1666  11/14/2017 12:59:33 NM g++ MyMatrix.cpp --std=c++11
+ 1667  11/14/2017 01:09:22 NM g++ MyMatrix.cpp 
+ 1668  11/14/2017 01:10:06 NM g++ MyMatrix.cpp -std=c++11
+ 1669  11/14/2017 01:10:33 NM ./a.out 
+ 1670  11/14/2017 01:10:56 NM g++ MyMatrix.cpp -std=c++11
+ 1671  11/14/2017 01:10:58 NM ./a.out 
+ 1672  11/14/2017 01:11:48 NM g++ MyMatrix.cpp -std=c++11
+ 1673  11/14/2017 01:12:00 NM ./a.out 
+ 1674  11/14/2017 01:22:49 NM g++ MyMatrix.cpp -std=c++11
+ 1675  11/14/2017 01:23:10 NM ./a.out 
+ 1676  11/14/2017 01:24:03 NM g++ MyMatrix.cpp -std=c++11
+ 1677  11/14/2017 01:24:05 NM ./a.out 
+ 1678  11/14/2017 01:28:14 NM exit
+ 1679  11/14/2017 04:01:36 NM ./runHSQLDBServer.sh 
+ 1680  11/14/2017 03:56:01 NM ./standalone.sh 
+ 1681  11/14/2017 04:17:25 NM cd ../..
+ 1682  11/14/2017 04:17:29 NM cd servletjspdemo/Wildfly/
+ 1683  11/14/2017 04:21:34 NM mvn wildfly:deploy
+ 1684  11/14/2017 04:36:19 NM history
+ 1685  11/14/2017 04:36:52 NM curl -d '{"id":"1", "name":"Papierzosy", "price":"21.37", "count":"2137"}' -H "Content-Type: application/json" -X POST http://localhost:8080/restservicedemo/api/cigarettes/
+ 1686  11/14/2017 04:37:18 NM clear
+ 1687  11/14/2017 04:38:44 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restservicedemo/api/cigarettes/
+ 1688  11/14/2017 04:38:55 NM mvn wildfly:redeploy
+ 1689  11/14/2017 04:39:01 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restservicedemo/api/cigarettes/
+ 1690  11/14/2017 04:39:10 NM clear
+ 1691  11/14/2017 04:39:26 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restservicedemo/api/cigarette/
+ 1692  11/14/2017 04:39:32 NM clear
+ 1693  11/14/2017 04:40:12 NM curl -d '{"id":"1", "name":"Papierzosy", "price":"21.37", "count":"2137"}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/
+ 1694  11/14/2017 04:40:58 NM curl -d '{"id":"1", "name":"Papierzosy", "price":"21.37", "count":"2137"}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1695  11/14/2017 04:45:38 NM curl -d '{"id":1, name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1696  11/14/2017 04:46:51 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1697  11/14/2017 04:48:24 NM mvn wildfly:redeploy
+ 1698  11/14/2017 04:48:30 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1699  11/14/2017 04:51:08 NM mvn wildfly:redeploy
+ 1700  11/14/2017 04:51:14 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1701  11/14/2017 04:52:40 NM mvn clean install
+ 1702  11/14/2017 04:52:45 NM mvn wildfly:redeploy
+ 1703  11/14/2017 04:52:52 NM mvn wildfly:deploy
+ 1704  11/14/2017 04:54:38 NM mvn clean install
+ 1705  11/14/2017 04:54:43 NM mvn wildfly:deploy
+ 1706  11/14/2017 04:55:01 NM curl -d '{"id":1, "name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1707  11/14/2017 04:55:55 NM curl -d '{"name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1708  11/14/2017 05:05:42 NM mvn wildfly:redeploy
+ 1709  11/14/2017 05:06:11 NM curl -d '{"name":"Papierzosy", "price":21.37, "count":2137}' -H "Content-Type: application/json" -X POST http://localhost:8080/restwsejbdemo/api/cigarette/ > h.html
+ 1710  11/14/2017 05:07:24 NM mvn wildfly:undeploy
+ 1711  11/14/2017 04:01:44 NM ./runHSQLDBClient.sh 
+ 1712  11/14/2017 04:02:43 NM ./runHSQLDBServer.sh 
+ 1713  11/14/2017 03:54:11 NM cmus
+ 1714  11/14/2017 05:08:17 NM exit
+ 1715  11/14/2017 05:44:58 NM cmus
+ 1716  11/14/2017 05:48:09 NM g++ MyMatrix.cpp -std=c++11
+ 1717  11/14/2017 05:48:58 NM ./a.out 
+ 1718  11/14/2017 05:49:46 NM g++ MyMatrix.cpp -std=c++11
+ 1719  11/14/2017 05:49:48 NM ./a.out 
+ 1720  11/14/2017 05:55:29 NM g++ MyMatrix.cpp -std=c++11
+ 1721  11/14/2017 05:55:52 NM ./a.out 
+ 1722  11/14/2017 05:57:27 NM top
+ 1723  11/14/2017 05:57:59 NM cmus
+ 1724  11/14/2017 06:05:25 NM quit
+ 1725  11/14/2017 06:05:28 NM exit
+ 1726  11/14/2017 05:58:13 NM cd /media/rooigevaar19/Media/Music/
+ 1727  11/14/2017 05:58:15 NM mus
+ 1728  11/14/2017 05:58:18 NM cmus
+ 1729  11/14/2017 05:58:27 NM cd ..
+ 1730  11/14/2017 05:58:36 NM cd /media/rooigevaar19/Media/Music/
+ 1731  11/14/2017 05:58:38 NM cmus
+ 1732  11/14/2017 06:05:30 NM exit
+ 1733  11/14/2017 08:19:38 NM g++ MyMatrix.cpp -std=c++11
+ 1734  11/14/2017 08:20:03 NM ./a.out 
+ 1735  11/14/2017 08:20:28 NM g++ MyMatrix.cpp -std=c++11
+ 1736  11/14/2017 08:20:30 NM ./a.out 
+ 1737  11/14/2017 08:21:02 NM g++ MyMatrix.cpp -std=c++11
+ 1738  11/14/2017 08:21:22 NM ./a.out 
+ 1739  11/14/2017 08:21:38 NM g++ MyMatrix.cpp -std=c++11
+ 1740  11/14/2017 08:21:40 NM ./a.out 
+ 1741  11/14/2017 08:22:18 NM g++ MyMatrix.cpp -std=c++11
+ 1742  11/14/2017 08:22:20 NM ./a.out 
+ 1743  11/14/2017 08:24:09 NM g++ MyMatrix.cpp -std=c++11
+ 1744  11/14/2017 08:24:48 NM ./a.out 
+ 1745  11/14/2017 08:25:25 NM g++ MyMatrix.cpp -std=c++11
+ 1746  11/14/2017 08:25:27 NM ./a.out 
+ 1747  11/14/2017 08:26:11 NM g++ MyMatrix.cpp -std=c++11
+ 1748  11/14/2017 08:26:28 NM ./a.out 
+ 1749  11/14/2017 08:26:34 NM g++ MyMatrix.cpp -std=c++11
+ 1750  11/14/2017 08:26:37 NM ./a.out 
+ 1751  11/14/2017 08:26:55 NM g++ MyMatrix.cpp -std=c++11
+ 1752  11/14/2017 08:26:57 NM ./a.out 
+ 1753  11/14/2017 08:28:43 NM g++ MyMatrix.cpp -std=c++11
+ 1754  11/14/2017 08:28:45 NM ./a.out 
+ 1755  11/14/2017 08:28:47 NM g++ MyMatrix.cpp -std=c++11
+ 1756  11/14/2017 08:28:50 NM ./a.out 
+ 1757  11/14/2017 08:33:22 NM g++ MyMatrix.cpp -std=c++11
+ 1758  11/14/2017 08:33:24 NM ./a.out 
+ 1759  11/14/2017 08:33:33 NM g++ MyMatrix.cpp -std=c++11
+ 1760  11/14/2017 08:33:35 NM ./a.out 
+ 1761  11/14/2017 08:35:31 NM g++ MyMatrix.cpp -std=c++11
+ 1762  11/14/2017 08:35:33 NM ./a.out 
+ 1763  11/14/2017 08:36:12 NM g++ MyMatrix.cpp -std=c++11
+ 1764  11/14/2017 08:36:14 NM ./a.out 
+ 1765  11/14/2017 08:36:52 NM g++ MyMatrix.cpp -std=c++11
+ 1766  11/14/2017 08:36:54 NM ./a.out 
+ 1767  11/14/2017 08:43:12 NM g++ MyMatrix.cpp -std=c++11
+ 1768  11/14/2017 08:43:39 NM ./a.out 
+ 1769  11/14/2017 08:44:20 NM g++ MyMatrix.cpp -std=c++11
+ 1770  11/14/2017 08:44:30 NM ./a.out 
+ 1771  11/14/2017 09:06:57 NM sudo su postgres
+ 1772  11/14/2017 09:20:57 NM psql cigarbase 
+ 1773  11/14/2017 08:50:37 NM mvn jetty:run
+ 1774  11/14/2017 10:10:34 NM exit
+ 1775  11/14/2017 08:18:02 NM cmus
+ 1776  11/14/2017 10:10:39 NM exit
+ 1777  11/14/2017 08:50:17 NM git pull origin master 
+ 1778  11/14/2017 08:59:00 NM psql cigarbase
+ 1779  11/14/2017 09:04:21 NM git status 
+ 1780  11/14/2017 09:04:24 NM git add -u
+ 1781  11/14/2017 09:04:54 NM git commit -m "Refactoring i małe poprawki w menadżerach tabel."
+ 1782  11/14/2017 09:05:03 NM git push -u origin master
+ 1783  11/14/2017 09:22:14 NM git status 
+ 1784  11/14/2017 09:22:21 NM git add -u
+ 1785  11/14/2017 09:22:27 NM git add src/main/sql/TutorialDoBazy.sql 
+ 1786  11/14/2017 09:22:39 NM git status 
+ 1787  11/14/2017 09:28:41 NM git add -u
+ 1788  11/14/2017 09:28:42 NM git status 
+ 1789  11/14/2017 09:29:31 NM git commit -m "Dodanie paru informacji nt. łączenia się z bazą i przykładowych danych do skryptów SQL"
+ 1790  11/14/2017 09:29:41 NM git push -u origin master
+ 1791  11/14/2017 10:10:42 NM exit
+ 1792  11/15/2017 08:56:51 VM cmus
+ 1793  11/15/2017 09:33:01 VM exit
+ 1794  11/15/2017 09:33:10 VM top
+ 1795  11/15/2017 09:33:20 VM sudo shutdown -h now
+ 1796  11/15/2017 10:21:02 VM git pull origin master
+ 1797  11/15/2017 10:21:31 VM exit
+ 1798  11/15/2017 10:21:42 VM git status 
+ 1799  11/15/2017 10:21:50 VM git add HebrewCountries.txt 
+ 1800  11/15/2017 10:21:54 VM git add 0u
+ 1801  11/15/2017 10:21:56 VM git add -u
+ 1802  11/15/2017 10:22:00 VM git status 
+ 1803  11/15/2017 10:23:40 VM git commit -m "Add more sample text files"
+ 1804  11/15/2017 10:23:49 VM git push origin v010 
+ 1805  11/15/2017 10:25:31 VM exit
+ 1806  11/15/2017 10:32:18 VM javac MyMatrix.java 
+ 1807  11/15/2017 12:12:17 NM psql cigarbase 
+ 1808  11/15/2017 12:45:01 NM exit
+ 1809  11/15/2017 12:17:22 NM git status
+ 1810  11/15/2017 12:18:02 NM git checkout -- *.java
+ 1811  11/15/2017 12:18:04 NM git status
+ 1812  11/15/2017 12:46:15 NM exit
+ 1813  11/15/2017 12:11:58 NM git pull origin master
+ 1814  11/15/2017 12:12:10 NM mvn jetty:run
+ 1815  11/15/2017 06:26:56 NM cmus
+ 1816  11/15/2017 06:57:04 NM sudo shutdown -h now
+ 1817  11/15/2017 09:37:56 NM javac MyMatrix.java 
+ 1818  11/15/2017 08:30:16 NM git status 
+ 1819  11/15/2017 08:30:48 NM git add .gitignore 
+ 1820  11/15/2017 08:30:50 NM git status 
+ 1821  11/15/2017 08:30:59 NM git add *.java
+ 1822  11/15/2017 08:31:10 NM git Java/sorty/
+ 1823  11/15/2017 08:31:14 NM git add Java/sorty/
+ 1824  11/15/2017 08:31:19 NM git status 
+ 1825  11/15/2017 08:31:37 NM git commit -m "coś przy MyMatrix"
+ 1826  11/15/2017 08:31:43 NM git push origin master
+ 1827  11/16/2017 09:23:25 VM mvn jetty:run
+ 1828  11/16/2017 10:51:40 VM cmus
+ 1829  11/16/2017 11:19:54 VM exit
+ 1830  11/16/2017 12:14:39 NM javac MyMatrix.java 
+ 1831  11/16/2017 12:40:25 NM exir
+ 1832  11/16/2017 12:40:27 NM exit
+ 1833  11/16/2017 02:06:17 NM javac MyMatrix.java 
+ 1834  11/16/2017 02:11:46 NM exit
+ 1835  11/16/2017 05:37:57 NM cmus
+ 1836  11/16/2017 05:48:02 NM exit
+ 1837  11/16/2017 05:41:08 NM g++ MyMatrix.cpp -std=c++11
+ 1838  11/16/2017 05:41:15 NM ./a.out 
+ 1839  11/16/2017 05:44:21 NM g++ MyMatrix.cpp -std=c++11
+ 1840  11/16/2017 05:44:23 NM ./a.out 
+ 1841  11/16/2017 05:44:50 NM g++ MyMatrix.cpp -std=c++11
+ 1842  11/16/2017 05:44:52 NM ./a.out 
+ 1843  11/16/2017 05:45:25 NM g++ MyMatrix.cpp -std=c++11
+ 1844  11/16/2017 05:45:27 NM ./a.out 
+ 1845  11/16/2017 05:46:11 NM g++ MyMatrix.cpp -std=c++11
+ 1846  11/16/2017 05:46:13 NM ./a.out 
+ 1847  11/16/2017 05:48:06 NM exit
+ 1848  11/16/2017 08:32:25 NM cmus
+ 1849  11/16/2017 09:51:31 NM exit
+ 1850  11/16/2017 09:17:09 NM g++ m1.cpp 
+ 1851  11/16/2017 09:18:30 NM ./a.out 
+ 1852  11/16/2017 09:20:28 NM g++ m1.cpp 
+ 1853  11/16/2017 09:21:09 NM ./a.out 
+ 1854  11/16/2017 09:21:20 NM g++ m1.cpp 
+ 1855  11/16/2017 09:21:21 NM ./a.out 
+ 1856  11/16/2017 09:23:34 NM g++ m1.cpp 
+ 1857  11/16/2017 09:24:45 NM ./a.out 
+ 1858  11/16/2017 09:26:54 NM git status 
+ 1859  11/16/2017 09:27:04 NM git add -u
+ 1860  11/16/2017 09:27:17 NM git add Cpp/MyMatrixNew.cpp 
+ 1861  11/16/2017 09:27:20 NM git status 
+ 1862  11/16/2017 09:27:36 NM git commit -m "dodanie nowej MyMatrix w C++"
+ 1863  11/16/2017 09:27:42 NM git push -u origin master
+ 1864  11/16/2017 09:43:23 NM sudo apt-get upgrade
+ 1865  11/17/2017 08:30:08 VM cmus
+ 1866  11/17/2017 09:26:37 VM exit
+ 1867  11/17/2017 09:19:46 VM git status 
+ 1868  11/17/2017 09:19:58 VM git add Cpp/GaussJordan.cpp 
+ 1869  11/17/2017 09:20:02 VM git status 
+ 1870  11/17/2017 09:20:22 VM git commit -m "początek prac nad metodą Gauss-Jordan"
+ 1871  11/17/2017 09:20:28 VM git push origin master
+ 1872  11/17/2017 09:26:45 VM :q
+ 1873  11/17/2017 09:26:49 VM exit
+ 1874  11/17/2017 09:08:57 VM g++ GaussJordan.cpp 
+ 1875  11/17/2017 09:09:34 VM ./a.out 
+ 1876  11/17/2017 10:17:13 VM cmus
+ 1877  11/17/2017 11:42:11 VM exit
+ 1878  11/17/2017 12:32:57 NM cmus
+ 1879  11/17/2017 01:14:42 NM exit
+ 1880  11/17/2017 12:48:49 NM g++ GaussJordan.cpp 
+ 1881  11/17/2017 12:53:51 NM git status 
+ 1882  11/17/2017 12:53:53 NM g++ GaussJordan.cpp 
+ 1883  11/17/2017 12:56:03 NM ./a.out 
+ 1884  11/17/2017 12:57:06 NM g++ GaussJordan.cpp 
+ 1885  11/17/2017 12:57:07 NM ./a.out 
+ 1886  11/17/2017 12:57:47 NM g++ GaussJordan.cpp 
+ 1887  11/17/2017 12:57:48 NM ./a.out 
+ 1888  11/17/2017 07:43:29 NM git status 
+ 1889  11/17/2017 07:43:34 NM git add -u
+ 1890  11/17/2017 07:43:49 NM git commit -m "zabawy gauss-jordan"
+ 1891  11/17/2017 07:43:55 NM git push -u origin master
+ 1892  11/18/2017 12:44:07 NM git pull origin master
+ 1893  11/18/2017 12:49:57 NM git status 
+ 1894  11/18/2017 12:50:11 NM git add -u
+ 1895  11/18/2017 12:50:14 NM git add
+ 1896  11/18/2017 12:50:22 NM git status
+ 1897  11/18/2017 12:51:03 NM git commit -m "Dodanie uproszczonych INSERTów do każdej z tabel."
+ 1898  11/18/2017 12:51:25 NM git push -u origin master
+ 1899  11/18/2017 12:45:11 NM mvn jetty:run
+ 1900  11/18/2017 12:46:15 NM mvn clean install
+ 1901  11/18/2017 12:46:22 NM cd ..
+ 1902  11/18/2017 12:46:23 NM mvn clean install
+ 1903  11/18/2017 12:46:32 NM mvn jetty:run
+ 1904  11/18/2017 01:37:38 NM g++ UlamekExtended.cpp 
+ 1905  11/18/2017 02:57:41 NM g++ UlamekExtended.cpp -std=c++11
+ 1906  11/18/2017 02:59:09 NM ./a.out 
+ 1907  11/18/2017 02:59:41 NM g++ UlamekExtended.cpp -std=c++11
+ 1908  11/18/2017 02:59:42 NM ./a.out 
+ 1909  11/18/2017 03:01:23 NM g++ UlamekExtended.cpp -std=c++11
+ 1910  11/18/2017 03:01:24 NM ./a.out 
+ 1911  11/18/2017 03:03:03 NM git status 
+ 1912  11/18/2017 03:03:09 NM git add *.cpp
+ 1913  11/18/2017 03:03:30 NM git status 
+ 1914  11/18/2017 03:03:49 NM git add Cpp/FractionExtended.cpp 
+ 1915  11/18/2017 03:03:52 NM git status ""
+ 1916  11/18/2017 03:04:22 NM git commit -m "FractionExtended.cpp"
+ 1917  11/18/2017 03:04:31 NM git push origin master
+ 1918  11/18/2017 03:05:45 NM git pull origin master
+ 1919  11/18/2017 03:25:49 NM chmod +x compile.sh 
+ 1920  11/18/2017 03:25:51 NM ./compile.sh 
+ 1921  11/18/2017 03:32:01 NM chmod +x compile.sh 
+ 1922  11/18/2017 03:32:02 NM ./compile.sh 
+ 1923  11/18/2017 03:44:29 NM ./a.out 
+ 1924  11/18/2017 06:41:53 NM ./compile.sh 
+ 1925  11/18/2017 07:16:00 NM ./a.out 
+ 1926  11/18/2017 07:19:55 NM ./compile.sh 
+ 1927  11/18/2017 07:21:05 NM ./a.out 
+ 1928  11/18/2017 07:22:44 NM ./compile.sh 
+ 1929  11/18/2017 07:22:46 NM ./a.out 
+ 1930  11/18/2017 07:23:06 NM ./compile.sh 
+ 1931  11/18/2017 07:23:08 NM ./a.out 
+ 1932  11/18/2017 07:23:34 NM ./compile.sh 
+ 1933  11/18/2017 07:23:37 NM ./a.out 
+ 1934  11/18/2017 07:24:19 NM ./compile.sh 
+ 1935  11/18/2017 07:24:21 NM ./a.out 
+ 1936  11/18/2017 07:24:57 NM ./compile.sh 
+ 1937  11/18/2017 07:24:59 NM ./a.out 
+ 1938  11/18/2017 07:26:08 NM ./compile.sh 
+ 1939  11/18/2017 07:26:11 NM ./a.out 
+ 1940  11/18/2017 07:27:09 NM ./compile.sh 
+ 1941  11/18/2017 07:27:11 NM ./a.out 
+ 1942  11/18/2017 07:28:23 NM ./compile.sh 
+ 1943  11/18/2017 07:28:25 NM ./a.out 
+ 1944  11/18/2017 07:28:45 NM ./compile.sh 
+ 1945  11/18/2017 07:29:28 NM ./a.out 
+ 1946  11/19/2017 02:26:50 NM git status 
+ 1947  11/19/2017 02:26:55 NM git add -u
+ 1948  11/19/2017 02:27:01 NM git add HebrewWords/
+ 1949  11/19/2017 02:27:05 NM git stat
+ 1950  11/19/2017 02:27:07 NM git status 
+ 1951  11/19/2017 02:27:34 NM git commit -m "more sample Hebrew words"
+ 1952  11/19/2017 02:27:42 NM git push -u origin master
+ 1953  11/19/2017 02:27:52 NM git push -u origin v010
+ 1954  11/19/2017 02:28:12 NM exit
+ 1955  11/19/2017 11:38:45 VM cd /media/rooigevaar19/Media/Music/
+ 1956  11/19/2017 11:38:46 VM cmus
+ 1957  11/19/2017 02:28:31 NM exit
+ 1958  11/19/2017 12:03:38 NM ./compile.sh 
+ 1959  11/19/2017 12:19:10 NM ./a.out 
+ 1960  11/19/2017 12:20:00 NM ./a.out > results.csv
+ 1961  11/19/2017 04:58:41 NM exit
+ 1962  11/20/2017 11:36:06 VM cd Music/
+ 1963  11/20/2017 11:36:07 VM mus
+ 1964  11/20/2017 11:36:12 VM cmus
+ 1965  11/20/2017 11:45:50 VM exit
+ 1966  11/20/2017 10:39:29 VM git clone https://github.com/KubaNeumann/springdemo.git
+ 1967  11/20/2017 10:45:33 VM sudo apt-get upgrade
+ 1968  11/20/2017 10:46:16 VM sudo apt-get autoremove 
+ 1969  11/20/2017 10:48:36 VM sudo apt-get upgrade
+ 1970  11/20/2017 10:52:42 VM mvn clean install
+ 1971  11/20/2017 10:52:56 VM ping 8.8.8.8
+ 1972  11/20/2017 10:53:54 VM mvn clean install
+ 1973  11/20/2017 10:56:16 VM sudo apt-get upgrade
+ 1974  11/20/2017 10:57:32 VM sudo apt-get update
+ 1975  11/20/2017 11:00:14 VM mvn jetty:run
+ 1976  11/20/2017 11:00:39 VM cd ..
+ 1977  11/20/2017 11:00:44 VM git status 
+ 1978  11/20/2017 11:01:36 VM git checkout -b v030
+ 1979  11/20/2017 11:01:44 VM git status 
+ 1980  11/20/2017 11:02:00 VM git add -u
+ 1981  11/20/2017 11:02:07 VM git add Spring/
+ 1982  11/20/2017 11:02:40 VM git add Wildfly/src/main/resources/
+ 1983  11/20/2017 11:02:44 VM git status 
+ 1984  11/20/2017 11:03:28 VM git commit -m "Dodanie Spring"
+ 1985  11/20/2017 11:03:38 VM git push -u origin master
+ 1986  11/20/2017 11:04:02 VM git push -u origin v030
+ 1987  11/20/2017 11:08:05 VM cd Spring/
+ 1988  11/20/2017 11:08:15 VM mvn clean install
+ 1989  11/20/2017 11:42:24 VM git status 
+ 1990  11/20/2017 11:42:30 VM git add -u
+ 1991  11/20/2017 11:42:35 VM git add *.java
+ 1992  11/20/2017 11:42:44 VM git stat
+ 1993  11/20/2017 11:42:46 VM git status 
+ 1994  11/20/2017 11:43:02 VM git commit -m "zabawy Spring"
+ 1995  11/20/2017 11:43:09 VM git push origin master
+ 1996  11/20/2017 11:43:27 VM git push origin v030
+ 1997  11/20/2017 11:46:00 VM exit
+ 1998  11/20/2017 03:11:04 NM cmus
+ 1999  11/20/2017 03:11:27 NM cd /media/rooigevaar19/Windows/Users/redth/Music/
+ 2000  11/20/2017 03:11:28 NM ls
+ 2001  11/20/2017 03:11:33 NM cd Free\ YouTube\ Downloader/
+ 2002  11/20/2017 03:11:34 NM ls
+ 2003  11/20/2017 03:11:37 NM cmus
+ 2004  11/20/2017 04:17:31 NM exit
+ 2005  11/20/2017 03:14:09 NM ./compile.sh 
+ 2006  11/20/2017 03:14:24 NM ./a.out 
+ 2007  11/20/2017 03:21:27 NM ./compile.sh 
+ 2008  11/20/2017 03:21:35 NM ./a.out 
+ 2009  11/20/2017 03:22:28 NM ./compile.sh 
+ 2010  11/20/2017 03:22:34 NM ./a.out 
+ 2011  11/20/2017 03:22:57 NM ./compile.sh 
+ 2012  11/20/2017 03:23:45 NM ./a.out 
+ 2013  11/20/2017 03:38:08 NM ./compile2.sh 
+ 2014  11/20/2017 03:38:16 NM ./a.out 
+ 2015  11/20/2017 03:39:28 NM ./compile2.sh 
+ 2016  11/20/2017 03:39:34 NM ./a.out 
+ 2017  11/20/2017 03:44:50 NM ./compile2.sh 
+ 2018  11/20/2017 03:44:53 NM ./compile.sh 
+ 2019  11/20/2017 03:48:58 NM ./compile.sh save-temps
+ 2020  11/20/2017 03:50:10 NM ./compile.sh 
+ 2021  11/20/2017 03:50:22 NM ./a.out 
+ 2022  11/20/2017 03:50:54 NM ./a.out save-all
+ 2023  11/20/2017 03:51:00 NM ./compile.sh saveall
+ 2024  11/20/2017 03:51:04 NM ./compile.sh save-all
+ 2025  11/20/2017 03:51:45 NM ./compile.sh 
+ 2026  11/20/2017 03:52:42 NM ./a.out 
+ 2027  11/20/2017 03:56:33 NM ./compile.sh 
+ 2028  11/20/2017 03:57:11 NM ./compile.sh save-output
+ 2029  11/20/2017 03:57:23 NM ./compile.sh save-temps
+ 2030  11/20/2017 03:58:22 NM ./compile.sh
+ 2031  11/20/2017 04:17:33 NM exit
+ 2032  11/20/2017 05:07:24 NM ./compile.sh
+ 2033  11/20/2017 05:07:36 NM ./a.out 
+ 2034  11/20/2017 07:20:59 NM ./compile.sh 
+ 2035  11/20/2017 07:21:27 NM ./compile.sh save-output
+ 2036  11/20/2017 07:23:38 NM ./compile.sh 
+ 2037  11/20/2017 07:23:53 NM ./a.out 
+ 2038  11/20/2017 07:35:56 NM exit
+ 2039  11/20/2017 07:10:46 NM cmus
+ 2040  11/20/2017 07:36:05 NM sudo shutdown -h now
+ 2041  11/21/2017 10:38:00 VM cmus
+ 2042  11/21/2017 12:07:45 NM exit
+ 2043  11/21/2017 11:07:55 VM ls
+ 2044  11/21/2017 11:08:04 VM cd /media/rooigevaar19/Media/
+ 2045  11/21/2017 11:08:16 VM cd Projects/Zespolowy/ProjektZespolowy/
+ 2046  11/21/2017 11:08:34 VM ls
+ 2047  11/21/2017 11:08:51 VM mvn jetty:run
+ 2048  11/21/2017 12:07:47 NM exit
+ 2049  11/21/2017 01:30:53 NM ./compile.sh save-temps
+ 2050  11/21/2017 01:31:59 NM ./run 
+ 2051  11/21/2017 01:32:51 NM ./compile.sh save-temps
+ 2052  11/21/2017 01:33:00 NM ./run 
+ 2053  11/21/2017 01:35:43 NM ./compile.sh save-temps
+ 2054  11/21/2017 01:35:50 NM ./run 
+ 2055  11/21/2017 01:36:18 NM ./compile.sh save-temps
+ 2056  11/21/2017 01:36:25 NM ./run 
+ 2057  11/21/2017 01:37:08 NM ./run > wyniki.csv
+ 2058  11/21/2017 03:48:44 NM cd ../..
+ 2059  11/21/2017 03:48:45 NM ls
+ 2060  11/21/2017 03:48:49 NM cd servletjspdemo/
+ 2061  11/21/2017 03:48:55 NM ls
+ 2062  11/21/2017 03:48:59 NM cd Wildfly/
+ 2063  11/21/2017 03:49:01 NM ls
+ 2064  11/21/2017 04:55:24 NM mvn clean install
+ 2065  11/21/2017 04:55:46 NM mvn wildfly:deploy
+ 2066  11/21/2017 04:57:57 NM mvn clean install
+ 2067  11/21/2017 04:58:02 NM mvn wildfly:deploy
+ 2068  11/21/2017 04:59:04 NM mvn wildfly:undeploy
+ 2069  11/21/2017 04:59:21 NM exit
+ 2070  11/21/2017 03:47:43 NM ./standalone.sh 
+ 2071  11/21/2017 04:59:26 NM exit
+ 2072  11/21/2017 03:50:00 NM cd JavaEEProjects/servletjspdemo/Wildfly/
+ 2073  11/21/2017 03:50:01 NM ls
+ 2074  11/21/2017 03:50:06 NM cd db/
+ 2075  11/21/2017 03:50:07 NM ls
+ 2076  11/21/2017 04:59:37 NM exit
+ 2077  11/21/2017 03:50:41 NM ./runHSQLDBServer.sh 
+ 2078  11/21/2017 04:59:38 NM exit
+ 2079  11/21/2017 03:46:51 NM cmus
+ 2080  11/21/2017 04:59:43 NM exit
+ 2081  11/21/2017 04:59:59 NM git status 
+ 2082  11/21/2017 05:00:04 NM git add *.java
+ 2083  11/21/2017 05:00:09 NM git add -u
+ 2084  11/21/2017 05:00:12 NM git stat
+ 2085  11/21/2017 05:00:14 NM git status 
+ 2086  11/21/2017 05:00:24 NM git commit -m "dodanie 3 tabel i związków"
+ 2087  11/21/2017 05:00:31 NM git push origin v030
+ 2088  11/21/2017 05:00:46 NM exit
+ 2089  11/21/2017 05:45:31 NM ./compile.sh 
+ 2090  11/21/2017 05:49:21 NM ./run 
+ 2091  11/21/2017 05:35:32 NM cmus
+ 2092  11/21/2017 05:50:48 NM sudo shutdown -h now
+ 2093  11/21/2017 08:34:54 NM ./compile.sh 
+ 2094  11/21/2017 08:38:28 NM ./compile.sh save-output
+ 2095  11/21/2017 08:39:08 NM ./compile.sh 
+ 2096  11/21/2017 08:39:13 NM ./run 
+ 2097  11/21/2017 08:39:53 NM ./compile.sh 
+ 2098  11/21/2017 08:39:55 NM ./run 
+ 2099  11/21/2017 08:45:02 NM ./compile.sh 
+ 2100  11/21/2017 08:45:26 NM ./run 
+ 2101  11/21/2017 08:46:14 NM ./compile.sh 
+ 2102  11/21/2017 08:46:38 NM ./run 
+ 2103  11/21/2017 08:46:48 NM fg %1
+ 2104  11/21/2017 08:47:44 NM ./compile.sh 
+ 2105  11/21/2017 08:47:50 NM ./run 
+ 2106  11/21/2017 08:48:24 NM ./compile.sh 
+ 2107  11/21/2017 08:48:29 NM ./run 
+ 2108  11/21/2017 09:02:23 NM ./compile.sh 
+ 2109  11/21/2017 09:03:09 NM ./run 
+ 2110  11/21/2017 09:07:30 NM ./compile.sh 
+ 2111  11/21/2017 09:07:35 NM ./run 
+ 2112  11/21/2017 09:30:23 NM ./compile.sh 
+ 2113  11/21/2017 09:30:34 NM cd ../MVE-Matrices2/
+ 2114  11/21/2017 09:30:36 NM ./compile.sh 
+ 2115  11/21/2017 09:30:52 NM ./compile.sh save-output
+ 2116  11/21/2017 09:31:46 NM ./compile.sh 
+ 2117  11/21/2017 09:38:55 NM ./compile.sh save-output
+ 2118  11/21/2017 09:43:06 NM ls 04-*-sub.cpp
+ 2119  11/21/2017 09:43:15 NM ls *-sub.cpp
+ 2120  11/21/2017 09:43:21 NM ls "*-sub.cpp"
+ 2121  11/21/2017 09:43:27 NM ls *.cpp
+ 2122  11/21/2017 09:43:31 NM ls 04-*.cpp
+ 2123  11/21/2017 09:43:38 NM ls 04-*-sub.cpp
+ 2124  11/21/2017 09:43:42 NM ls 04-*.cpp
+ 2125  11/21/2017 09:43:58 NM ./compile.sh save-output
+ 2126  11/21/2017 08:01:09 NM mvn jetty:run
+ 2127  11/21/2017 08:01:58 NM mvn clean install
+ 2128  11/21/2017 08:02:04 NM mvn jetty:run
+ 2129  11/21/2017 08:09:40 NM mvn clean install
+ 2130  11/21/2017 08:09:44 NM mvn jetty:run
+ 2131  11/21/2017 08:21:25 NM git commit -m "Zakrzewski: formularz edycji Account"
+ 2132  11/21/2017 08:21:39 NM git add *.jsp
+ 2133  11/21/2017 08:21:43 NM git add -u
+ 2134  11/21/2017 08:21:43 NM git add *.jsp
+ 2135  11/21/2017 08:21:45 NM git commit -m "Zakrzewski: formularz edycji Account"
+ 2136  11/21/2017 08:21:52 NM git push origin master
+ 2137  11/21/2017 08:31:35 NM ./run > wyniki.csv
+ 2138  11/21/2017 09:48:40 NM ./compile.sh 
+ 2139  11/21/2017 09:48:49 NM exit
+ 2140  11/21/2017 09:46:26 NM chmod +x run.sh 
+ 2141  11/21/2017 09:46:31 NM ./run.sh 
+ 2142  11/21/2017 10:03:30 NM exit
+ 2143  11/22/2017 09:05:19 VM mvn clean install
+ 2144  11/22/2017 09:05:48 VM exit
+ 2145  11/22/2017 09:08:57 VM git init
+ 2146  11/22/2017 09:09:30 VM echo "# Oremus" > README.md
+ 2147  11/22/2017 09:09:37 VM git status 
+ 2148  11/22/2017 09:09:43 VM git add README.md 
+ 2149  11/22/2017 09:09:59 VM git checkout -b v010
+ 2150  11/22/2017 09:10:38 VM git status 
+ 2151  11/22/2017 09:12:10 VM git add .gitignore 
+ 2152  11/22/2017 09:12:12 VM git status 
+ 2153  11/22/2017 09:13:02 VM git add .gitignore 
+ 2154  11/22/2017 09:13:03 VM git status 
+ 2155  11/22/2017 09:13:08 VM git add *
+ 2156  11/22/2017 09:13:12 VM git status 
+ 2157  11/22/2017 09:13:37 VM git commit -m "Pierwszy commit."
+ 2158  11/22/2017 09:15:15 VM git status 
+ 2159  11/22/2017 09:18:07 VM git remote add origin https://github.com/RooiGevaar19/OremusProject.git
+ 2160  11/22/2017 09:18:13 VM git push origin v010 
+ 2161  11/22/2017 09:18:35 VM exit
+ 2162  11/22/2017 08:48:19 VM cmus
+ 2163  11/22/2017 09:22:16 VM exit
+ 2164  11/22/2017 08:49:34 VM ./compile.sh 
+ 2165  11/22/2017 08:50:12 VM cd ../MVE-Test/
+ 2166  11/22/2017 08:50:18 VM ./run.sh 
+ 2167  11/22/2017 09:07:34 VM ls
+ 2168  11/22/2017 09:07:40 VM cat results-*
+ 2169  11/22/2017 11:25:10 VM mvn clean install
+ 2170  11/22/2017 11:25:40 VM exit
+ 2171  11/22/2017 12:27:12 NM mvn clean install
+ 2172  11/22/2017 12:27:27 NM mvn jetty:run
+ 2173  11/22/2017 12:08:45 NM cmus
+ 2174  11/22/2017 01:13:07 NM exit
+ 2175  11/22/2017 02:30:13 NM export PATH=$NETKIT_HOME/bin:$PATH
+ 2176  11/22/2017 02:30:26 NM source .bashrc 
+ 2177  11/22/2017 02:30:27 NM export PATH=$NETKIT_HOME/bin:$PATH
+ 2178  11/22/2017 02:27:03 NM tar -xjSf netkit-2.8.tar.bz2 
+ 2179  11/22/2017 02:27:11 NM tar -xjSf netkit-filesystem-i386-F5.2.tar.bz2 
+ 2180  11/22/2017 02:28:07 NM tar -xjSf netkit-kernel-i386-K2.8.tar.bz2 
+ 2181  11/22/2017 02:31:58 NM nano ~/.bashrc 
+ 2182  11/22/2017 02:32:21 NM source ~/.bashrc 
+ 2183  11/22/2017 02:32:28 NM echo "$PATH"
+ 2184  11/22/2017 02:30:46 NM ./check_configuration.
+ 2185  11/22/2017 02:30:51 NM ./check_configuration.sh 
+ 2186  11/22/2017 02:31:10 NM echo "$PATH"
+ 2187  11/22/2017 02:31:17 NM source .bashrc 
+ 2188  11/22/2017 02:31:22 NM source ~/.bashrc 
+ 2189  11/22/2017 02:31:25 NM export PATH=$NETKIT_HOME/bin:$PATH
+ 2190  11/22/2017 02:31:27 NM ./check_configuration.sh 
+ 2191  11/22/2017 02:33:13 NM lstart
+ 2192  11/22/2017 02:43:15 NM lcrash
+ 2193  11/22/2017 02:45:46 NM exit
+ 2194  11/22/2017 02:51:45 NM lstart
+ 2195  11/22/2017 02:52:32 NM lcrash
+ 2196  11/22/2017 02:52:54 NM lstart
+ 2197  11/22/2017 02:54:52 NM lcrash
+ 2198  11/22/2017 02:19:40 NM sudo apt-get install libc6:i386 libncurses5:i386 libreadline6:i386
+ 2199  11/22/2017 02:42:29 NM cd /media/rooigevaar19/Media/Music/
+ 2200  11/22/2017 02:42:31 NM cmus
+ 2201  11/22/2017 03:07:45 NM exit
+ 2202  11/22/2017 04:30:35 NM history
+ 2203  11/22/2017 04:31:18 NM nano ./r1/etc/
+ 2204  11/22/2017 04:31:46 NM nano ./r2/etc/zebra/ripd.conf 
+ 2205  11/22/2017 04:32:02 NM nano ./r3/etc/zebra/ripd.conf 
+ 2206  11/22/2017 04:32:42 NM nano ./r4/etc/zebra/ripd.conf 
+ 2207  11/22/2017 04:32:54 NM nano ./r5/etc/zebra/ripd.conf 
+ 2208  11/22/2017 04:33:06 NM nano ./r3/etc/zebra/ripd.conf 
+ 2209  11/22/2017 04:33:09 NM nano ./r2/etc/zebra/ripd.conf 
+ 2210  11/22/2017 04:33:12 NM nano ./r4/etc/zebra/ripd.conf 
+ 2211  11/22/2017 04:33:15 NM nano ./r5/etc/zebra/ripd.conf 
+ 2212  11/22/2017 04:33:27 NM lstart
+ 2213  11/22/2017 04:34:12 NM lcrash
+ 2214  11/22/2017 04:34:39 NM lstart
+ 2215  11/22/2017 04:38:13 NM lcrash
+ 2216  11/22/2017 04:40:34 NM lstart
+ 2217  11/22/2017 04:43:16 NM lcrash
+ 2218  11/22/2017 04:43:31 NM nano ./r2/etc/zebra/ripd.conf 
+ 2219  11/22/2017 04:44:35 NM lstart
+ 2220  11/22/2017 04:46:40 NM lcrash
+ 2221  11/22/2017 04:47:59 NM lstart
+ 2222  11/22/2017 04:57:43 NM lcrash
+ 2223  11/22/2017 05:01:49 NM lstart
+ 2224  11/22/2017 05:06:31 NM lcrash
+ 2225  11/22/2017 05:08:12 NM lstart
+ 2226  11/22/2017 05:13:15 NM lcrash
+ 2227  11/22/2017 05:13:33 NM nano ./r4/etc/zebra/ripd.conf 
+ 2228  11/22/2017 05:13:54 NM nano ./r5/etc/zebra/ripd.conf 
+ 2229  11/22/2017 05:14:16 NM nano ./r3/etc/zebra/ripd.conf 
+ 2230  11/22/2017 05:14:40 NM nano ./r2/etc/zebra/ripd.conf 
+ 2231  11/22/2017 05:15:00 NM lstart
+ 2232  11/22/2017 05:19:23 NM lcrash
+ 2233  11/22/2017 05:23:09 NM tar -czf plipkowski_kol1.tar.gz ./*
+ 2234  11/22/2017 05:21:32 NM lclean
+ 2235  11/22/2017 05:22:09 NM tar -czf plipkowski_kol1.tar.gz .
+ 2236  11/22/2017 04:11:55 NM cd /media/rooigevaar19/Media/Music/
+ 2237  11/22/2017 04:11:56 NM cmus
+ 2238  11/22/2017 05:26:50 NM exit
+ 2239  11/22/2017 10:13:15 NM ./compile.sh 
+ 2240  11/22/2017 10:13:29 NM ./run 
+ 2241  11/22/2017 10:16:22 NM ./compile.sh 
+ 2242  11/22/2017 10:16:35 NM ./run 
+ 2243  11/22/2017 10:16:58 NM ./run > wyniki_gauss_no_pivoting.csv
+ 2244  11/22/2017 10:18:44 NM cat wyniki_gauss_no_pivoting.csv 
+ 2245  11/22/2017 07:41:31 NM cd /media/rooigevaar19/Media/Music/
+ 2246  11/22/2017 07:41:56 NM cd /media/rooigevaar19/Windows/Users/redth/Music/Free\ YouTube\ Downloader/
+ 2247  11/22/2017 07:41:58 NM ls
+ 2248  11/22/2017 07:42:02 NM cmus
+ 2249  11/22/2017 10:37:06 NM exit
+ 2250  11/23/2017 10:55:01 VM cmus
+ 2251  11/23/2017 11:26:33 VM sudo shutdown -h now
+ 2252  11/23/2017 05:43:07 NM git init
+ 2253  11/23/2017 05:43:11 NM git stats
+ 2254  11/23/2017 05:43:14 NM git status 
+ 2255  11/23/2017 05:43:19 NM git add *
+ 2256  11/23/2017 05:43:32 NM git commit -m "first commit"
+ 2257  11/23/2017 05:43:43 NM git push origin master
+ 2258  11/23/2017 05:45:02 NM git remote add origin https://github.com/RooiGevaar19/gaussjordan.git
+ 2259  11/23/2017 05:45:07 NM git push origin master
+ 2260  11/23/2017 08:20:34 NM ./compile.sh 
+ 2261  11/23/2017 08:21:24 NM ls
+ 2262  11/23/2017 10:12:23 NM echo "MVE-Test/run-*" > .gitignore
+ 2263  11/23/2017 08:22:56 NM chmod +x print-to-csv.sh 
+ 2264  11/23/2017 08:22:57 NM ./print-to-csv.sh 
+ 2265  11/23/2017 09:49:33 NM ./compile.sh 
+ 2266  11/23/2017 09:57:39 NM ./run-7 
+ 2267  11/23/2017 09:59:19 NM ./compile.sh 
+ 2268  11/23/2017 10:00:11 NM ./run-7 
+ 2269  11/23/2017 10:01:11 NM ./compile.sh 
+ 2270  11/23/2017 10:02:47 NM ./run-7 
+ 2271  11/23/2017 10:04:27 NM ./compile.sh 
+ 2272  11/23/2017 10:05:08 NM ./run-7 
+ 2273  11/23/2017 10:09:51 NM ./compile.sh 
+ 2274  11/23/2017 10:10:35 NM ./run-7 
+ 2275  11/23/2017 10:13:52 NM ./compile.sh 
+ 2276  11/23/2017 10:14:38 NM ./run-7 
+ 2277  11/23/2017 10:15:35 NM ./compile.sh 
+ 2278  11/23/2017 10:16:20 NM ./run-7 
+ 2279  11/23/2017 10:18:28 NM ./compile.sh 
+ 2280  11/23/2017 10:19:10 NM ./run-7 
+ 2281  11/23/2017 10:21:20 NM ./compile.sh 
+ 2282  11/23/2017 10:22:00 NM ./run-7 
+ 2283  11/23/2017 10:22:39 NM ./compile.sh 
+ 2284  11/23/2017 10:23:21 NM ./run-7 
+ 2285  11/23/2017 10:24:32 NM ./compile.sh 
+ 2286  11/23/2017 10:25:13 NM ./run-7 
+ 2287  11/23/2017 10:26:04 NM ./compile.sh 
+ 2288  11/23/2017 10:27:31 NM ./run-7 
+ 2289  11/23/2017 10:29:18 NM ./compile.sh 
+ 2290  11/23/2017 10:30:10 NM ./run-7 
+ 2291  11/23/2017 10:33:33 NM ./compile.sh 
+ 2292  11/23/2017 10:34:15 NM ./run-7 
+ 2293  11/23/2017 10:36:08 NM ./compile.sh 
+ 2294  11/23/2017 10:36:56 NM ./run-7 
+ 2295  11/23/2017 10:40:37 NM ./compile.sh 
+ 2296  11/23/2017 10:41:16 NM ./run-7 
+ 2297  11/23/2017 10:44:18 NM ./compile.sh 
+ 2298  11/23/2017 10:45:06 NM ./run-7 
+ 2299  11/23/2017 10:45:58 NM ./compile.sh 
+ 2300  11/23/2017 10:46:37 NM ./run-7 
+ 2301  11/23/2017 10:47:21 NM git status 
+ 2302  11/23/2017 10:47:24 NM git add -u
+ 2303  11/23/2017 10:47:31 NM git add ../.gitignore 
+ 2304  11/23/2017 10:47:35 NM git add 04-07-GaussAccurate.sub.cpp 
+ 2305  11/23/2017 10:47:38 NM git status 
+ 2306  11/23/2017 10:47:47 NM git commit -m "meh"
+ 2307  11/23/2017 10:47:56 NM git push origin master
+ 2308  11/23/2017 10:50:12 NM ./compile.sh 
+ 2309  11/23/2017 10:50:58 NM ./run-7 
+ 2310  11/23/2017 10:53:44 NM ./compile.sh 
+ 2311  11/23/2017 10:54:25 NM ./run-7 
+ 2312  11/23/2017 10:56:51 NM ./compile.sh 
+ 2313  11/23/2017 10:57:30 NM ./run-7 
+ 2314  11/23/2017 11:05:17 NM ./compile.sh 
+ 2315  11/23/2017 11:06:22 NM ./run-7 
+ 2316  11/23/2017 11:08:36 NM ./compile.sh 
+ 2317  11/23/2017 11:09:18 NM ./run-7 
+ 2318  11/23/2017 11:10:06 NM ./compile.sh 
+ 2319  11/23/2017 11:10:48 NM ./run-7 
+ 2320  11/23/2017 11:17:09 NM ./compile.sh 
+ 2321  11/23/2017 11:17:50 NM ./run-7 
+ 2322  11/23/2017 11:18:43 NM ./compile.sh 
+ 2323  11/23/2017 11:19:24 NM ./run-7 
+ 2324  11/23/2017 11:20:09 NM ./compile.sh 
+ 2325  11/23/2017 11:23:38 NM ./run-7 
+ 2326  11/23/2017 11:24:41 NM ./compile.sh 
+ 2327  11/23/2017 11:26:16 NM ./run-7 
+ 2328  11/23/2017 11:27:16 NM ./compile.sh 
+ 2329  11/23/2017 11:28:01 NM ./run-7 
+ 2330  11/23/2017 11:37:49 NM ./compile.sh 
+ 2331  11/23/2017 11:44:18 NM ./compile.sh save-output
+ 2332  11/23/2017 11:45:37 NM ./compile.sh 
+ 2333  11/23/2017 11:51:49 NM ./run-7 
+ 2334  11/23/2017 11:53:36 NM ./compile.sh 
+ 2335  11/23/2017 11:54:55 NM ./run-7 
+ 2336  11/23/2017 11:58:39 NM ./compile.sh 
+ 2337  11/23/2017 11:59:29 NM ./run-7 
+ 2338  11/24/2017 12:03:36 VM ./compile.sh 
+ 2339  11/24/2017 12:06:00 VM ./run-7 
+ 2340  11/24/2017 12:06:19 VM ./run-8
+ 2341  11/24/2017 12:06:25 VM ./run-9
+ 2342  11/24/2017 12:07:07 VM git status 
+ 2343  11/24/2017 12:07:10 VM git add -u
+ 2344  11/24/2017 12:07:15 VM git add *.sub.cpp
+ 2345  11/24/2017 12:07:19 VM git status 
+ 2346  11/24/2017 12:07:30 VM git commit -m "nareszcie"
+ 2347  11/24/2017 12:07:37 VM git push origin master
+ 2348  11/24/2017 12:10:30 VM ./print-to-csv.sh 
+ 2349  11/24/2017 12:21:49 VM ./compile.sh 
+ 2350  11/24/2017 12:26:59 VM ./print-to-csv.sh 
+ 2351  11/24/2017 12:27:10 VM ./run-1
+ 2352  11/24/2017 12:28:03 VM git status 
+ 2353  11/24/2017 12:28:07 VM git add -u
+ 2354  11/24/2017 12:28:17 VM git commit -m "przegrana XD"
+ 2355  11/24/2017 12:28:34 VM git push origin master
+ 2356  11/24/2017 12:38:48 VM exit
+ 2357  11/23/2017 08:20:56 NM git status 
+ 2358  11/23/2017 08:21:08 NM git add -u
+ 2359  11/23/2017 08:21:10 NM git status 
+ 2360  11/23/2017 08:24:31 NM git add MVE-Test/
+ 2361  11/23/2017 08:24:34 NM git status 
+ 2362  11/23/2017 08:24:51 NM git commit -m "Porządki"
+ 2363  11/23/2017 08:24:57 NM git push origin master
+ 2364  11/24/2017 12:11:11 VM git add .gitignore 
+ 2365  11/24/2017 12:11:18 VM git status 
+ 2366  11/24/2017 12:11:30 VM git commit -m "poprawki przy .gitignore"
+ 2367  11/24/2017 12:11:41 VM git push origin master
+ 2368  11/24/2017 12:39:07 VM exit
+ 2369  11/24/2017 08:11:55 VM cmus
+ 2370  11/24/2017 09:40:31 VM exit
+ 2371  11/24/2017 08:12:57 VM ./print-to-csv.sh 
+ 2372  11/24/2017 08:25:32 VM cat results-run-2.csv 
+ 2373  11/24/2017 08:25:50 VM cat results-run-7.csv 
+ 2374  11/24/2017 08:26:11 VM ./run-7 > results-run-7.csv 
+ 2375  11/24/2017 08:26:15 VM cat results-run-7.csv 
+ 2376  11/24/2017 08:26:18 VM ./run-7 > results-run-7.csv 
+ 2377  11/24/2017 08:26:22 VM cat results-run-7.csv 
+ 2378  11/24/2017 08:26:24 VM ./run-7 > results-run-7.csv 
+ 2379  11/24/2017 08:26:28 VM cat results-run-7.csv 
+ 2380  11/24/2017 08:26:41 VM cat results-run-8.csv 
+ 2381  11/24/2017 08:27:15 VM cat results-run-9.csv 
+ 2382  11/24/2017 10:35:37 VM cd /media/rooigevaar19/Media/Music/
+ 2383  11/24/2017 10:35:44 VM cmus
+ 2384  11/24/2017 10:53:57 VM cd /media/rooigevaar19/Windows/Users/redth/Music/Free\ YouTube\ Downloader/
+ 2385  11/24/2017 10:53:58 VM cmus
+ 2386  11/24/2017 11:44:49 VM exit
+ 2387  11/24/2017 12:33:46 NM cmus
+ 2388  11/24/2017 01:09:43 NM sudo shutdown -h now
+ 2389  11/24/2017 01:36:29 NM git status 
+ 2390  11/24/2017 01:36:35 NM git add .gitignore 
+ 2391  11/24/2017 01:36:40 NM git add -u
+ 2392  11/24/2017 01:37:01 NM git commit -m "Delete unnecessary files"
+ 2393  11/24/2017 01:37:16 NM git push origin master
+ 2394  11/24/2017 01:37:59 NM git pull origin master
+ 2395  11/24/2017 01:38:32 NM git push origin master
+ 2396  11/24/2017 01:40:41 NM exit
+ 2397  11/24/2017 01:40:50 NM git init
+ 2398  11/24/2017 01:40:54 NM git stat
+ 2399  11/24/2017 01:40:55 NM git status 
+ 2400  11/24/2017 01:41:03 NM git add .gitignore 
+ 2401  11/24/2017 01:41:29 NM git add README.md 
+ 2402  11/24/2017 01:41:33 NM git add HexCalculator-kernafval/
+ 2403  11/24/2017 01:41:39 NM git status 
+ 2404  11/24/2017 01:41:53 NM git checkout -b v010
+ 2405  11/24/2017 01:41:55 NM git status 
+ 2406  11/24/2017 01:42:23 NM git commit -m "First commit"
+ 2407  11/24/2017 01:43:06 NM git remote add origin https://github.com/RooiGevaar19/HexCalculator.git
+ 2408  11/24/2017 01:43:13 NM git push -u origin master
+ 2409  11/24/2017 01:43:20 NM git push -u origin v010
+ 2410  11/24/2017 03:50:13 NM fpc rpn.pas 
+ 2411  11/24/2017 04:50:17 NM cd ../rpn_console/
+ 2412  11/24/2017 04:50:20 NM cd -
+ 2413  11/24/2017 04:50:25 NM fpc rpn.pas 
+ 2414  11/24/2017 03:53:20 NM fpc rpn.pas 
+ 2415  11/24/2017 03:54:12 NM ./rpn
+ 2416  11/24/2017 03:54:16 NM ./rpn "5"
+ 2417  11/24/2017 03:54:19 NM ./rpn "2 3 +"
+ 2418  11/24/2017 03:54:32 NM fpc rpn.pas 
+ 2419  11/24/2017 03:54:33 NM ./rpn "2 3 +"
+ 2420  11/24/2017 03:54:46 NM fpc rpn.pas 
+ 2421  11/24/2017 03:54:48 NM ./rpn "2 3 +"
+ 2422  11/24/2017 03:55:29 NM fpc rpn.pas 
+ 2423  11/24/2017 03:56:10 NM ./rpn "2 3 +"
+ 2424  11/24/2017 03:56:14 NM ./rpn "2 3.5 +"
+ 2425  11/24/2017 04:51:14 NM ./rpn "2 3.5 +" -i
+ 2426  11/24/2017 04:51:23 NM ./rpn "2 3.5 +" -fp
+ 2427  11/24/2017 04:51:32 NM ./rpn "2 63 ^" -fp
+ 2428  11/24/2017 04:51:34 NM ./rpn "2 63 ^" -f2
+ 2429  11/24/2017 04:51:38 NM ./rpn "2 63 ^" -i
+ 2430  11/24/2017 04:52:00 NM ./rpn "2 63 ^" -if
+ 2431  11/24/2017 04:52:03 NM ./rpn "2 63 ^" -ir
+ 2432  11/24/2017 04:52:05 NM ./rpn "2 63 ^" -it
+ 2433  11/24/2017 04:52:10 NM ./rpn "2 32 ^" -it
+ 2434  11/24/2017 04:52:14 NM ./rpn "2 33 ^" -it
+ 2435  11/24/2017 04:52:17 NM ./rpn "2 50 ^" -it
+ 2436  11/24/2017 04:52:21 NM ./rpn "2 50 ^" -i
+ 2437  11/24/2017 04:52:49 NM ./rpn "2 51 ^" -i
+ 2438  11/24/2017 04:52:52 NM ./rpn "2 52 ^" -i
+ 2439  11/24/2017 04:52:54 NM ./rpn "2 53 ^" -i
+ 2440  11/24/2017 04:52:56 NM ./rpn "2 54 ^" -i
+ 2441  11/24/2017 04:52:59 NM ./rpn "2 55 ^" -i
+ 2442  11/24/2017 04:53:01 NM ./rpn "2 56 ^" -i
+ 2443  11/24/2017 04:53:03 NM ./rpn "2 57 ^" -i
+ 2444  11/24/2017 04:53:06 NM ./rpn "2 58 ^" -i
+ 2445  11/24/2017 04:53:09 NM ./rpn "2 59 ^" -i
+ 2446  11/24/2017 04:53:11 NM ./rpn "2 60 ^" -i
+ 2447  11/24/2017 04:53:13 NM ./rpn "2 61 ^" -i
+ 2448  11/24/2017 04:53:16 NM ./rpn "2 62 ^" -i
+ 2449  11/24/2017 04:53:18 NM ./rpn "2 63 ^" -i
+ 2450  11/24/2017 04:53:21 NM ./rpn "2 63 ^" -it
+ 2451  11/24/2017 04:53:23 NM ./rpn "2 62 ^" -it
+ 2452  11/24/2017 04:53:38 NM ./rpn "2 63 ^" -e
+ 2453  11/24/2017 04:53:57 NM ./rpn "2"
+ 2454  11/24/2017 04:54:06 NM ./rpn
+ 2455  11/24/2017 04:54:10 NM ./rpn help
+ 2456  11/24/2017 04:55:48 NM fpc rpn.pas 
+ 2457  11/24/2017 04:55:55 NM ./rpn
+ 2458  11/24/2017 04:55:57 NM ./rpn help
+ 2459  11/24/2017 04:56:01 NM ./rpn expressions
+ 2460  11/24/2017 04:56:04 NM ./rpn expression
+ 2461  11/24/2017 04:57:41 NM fpc rpn.pas 
+ 2462  11/24/2017 05:01:32 NM ./rpn expression
+ 2463  11/24/2017 05:02:06 NM fpc rpn.pas 
+ 2464  11/24/2017 05:02:08 NM ./rpn expression
+ 2465  11/24/2017 05:02:25 NM fpc rpn.pas 
+ 2466  11/24/2017 05:02:26 NM ./rpn expression
+ 2467  11/24/2017 05:03:49 NM fpc rpn.pas 
+ 2468  11/24/2017 05:03:52 NM ./rpn expression
+ 2469  11/24/2017 05:03:58 NM ./rpn help
+ 2470  11/24/2017 05:04:12 NM ./rpn "2 3 +"
+ 2471  11/24/2017 05:04:19 NM ./rpn "2 3 +" -i
+ 2472  11/24/2017 05:04:25 NM ./rpn "2 3.4 +" -i
+ 2473  11/24/2017 05:09:59 NM ./rpn "2" -i
+ 2474  11/24/2017 05:10:03 NM ./rpn "2 0 /" -i
+ 2475  11/24/2017 05:10:17 NM exit
+ 2476  11/24/2017 06:16:29 NM fpc rpn.pas 
+ 2477  11/24/2017 06:16:32 NM ./rpn "2 0 /" -i
+ 2478  11/24/2017 06:16:35 NM ./rpn "2" -i
+ 2479  11/24/2017 06:16:44 NM exit
+ 2480  11/24/2017 02:25:10 NM git init
+ 2481  11/24/2017 02:25:16 NM git add .gitignore 
+ 2482  11/24/2017 02:25:21 NM git add README.md 
+ 2483  11/24/2017 02:25:25 NM git add rpn_kernafval/
+ 2484  11/24/2017 02:25:29 NM git stat
+ 2485  11/24/2017 02:25:31 NM git status 
+ 2486  11/24/2017 02:25:37 NM git checkout -b v010
+ 2487  11/24/2017 02:27:41 NM git status 
+ 2488  11/24/2017 02:27:46 NM git add -u
+ 2489  11/24/2017 02:27:52 NM git add rpn_kernafval
+ 2490  11/24/2017 02:27:56 NM git status 
+ 2491  11/24/2017 02:28:33 NM git commit -m "First commit"
+ 2492  11/24/2017 02:30:04 NM git remote add origin https://github.com/RooiGevaar19/RPNCalculator.git
+ 2493  11/24/2017 02:30:16 NM git push -u origin v010 
+ 2494  11/24/2017 02:39:27 NM git add -u
+ 2495  11/24/2017 02:39:29 NM git status 
+ 2496  11/24/2017 02:39:38 NM git commit -m "Edit README"
+ 2497  11/24/2017 02:39:44 NM git push -u origin v010 
+ 2498  11/24/2017 02:44:52 NM git status 
+ 2499  11/24/2017 02:44:56 NM git add -u
+ 2500  11/24/2017 02:45:05 NM git commit -m "Edit README 2"
+ 2501  11/24/2017 02:45:09 NM git push -u origin v010 
+ 2502  11/24/2017 02:46:14 NM git add -u
+ 2503  11/24/2017 02:46:16 NM git commit -m "Edit README 2"
+ 2504  11/24/2017 02:46:19 NM git push -u origin v010 
+ 2505  11/24/2017 02:48:46 NM git add -u
+ 2506  11/24/2017 02:48:48 NM git commit -m "Edit README 2"
+ 2507  11/24/2017 02:48:50 NM git push -u origin v010 
+ 2508  11/24/2017 02:51:42 NM git add -u
+ 2509  11/24/2017 02:51:45 NM git commit -m "Edit README 3"
+ 2510  11/24/2017 02:51:48 NM git push -u origin v010 
+ 2511  11/24/2017 02:57:06 NM git commit -m "Edit README 4"
+ 2512  11/24/2017 02:57:11 NM git add -u
+ 2513  11/24/2017 02:57:12 NM git commit -m "Edit README 4"
+ 2514  11/24/2017 02:57:16 NM git push -u origin v010 
+ 2515  11/24/2017 02:58:36 NM git commit -m "Edit README 4"
+ 2516  11/24/2017 02:58:39 NM git add -u
+ 2517  11/24/2017 02:58:41 NM git commit -m "Edit README 4"
+ 2518  11/24/2017 02:58:43 NM git push -u origin v010 
+ 2519  11/24/2017 05:19:39 NM git status 
+ 2520  11/24/2017 05:19:48 NM git add rpn_console/
+ 2521  11/24/2017 05:19:52 NM git add rpn_gui/
+ 2522  11/24/2017 05:19:58 NM git stat
+ 2523  11/24/2017 05:34:53 NM git ls
+ 2524  11/24/2017 05:34:58 NM git status 
+ 2525  11/24/2017 05:35:13 NM git add -u
+ 2526  11/24/2017 05:35:16 NM git add *
+ 2527  11/24/2017 05:35:23 NM git status 
+ 2528  11/24/2017 05:35:32 NM git rm --cached *.o
+ 2529  11/24/2017 05:35:36 NM git rm --cached *.ppu
+ 2530  11/24/2017 05:36:12 NM git commit -m "Console and GUI Application"
+ 2531  11/24/2017 05:36:20 NM git push origin v010
+ 2532  11/24/2017 06:09:35 NM cd rpn_console/
+ 2533  11/24/2017 06:10:05 NM ./rpn "8 2 - 3 / 1 4 + 2 * + 6 /"
+ 2534  11/24/2017 06:15:20 NM ./rpn "8 2 - 3 / 1 4 + 2 * + 6 /" -fr
+ 2535  11/24/2017 06:15:34 NM ./rpn expression
+ 2536  11/24/2017 06:15:48 NM ./rpn help
+ 2537  11/24/2017 06:15:54 NM ./rpn "8 2 - 3 / 1 4 + 2 * + 6 /" -fp
+ 2538  11/24/2017 06:16:53 NM cd ..
+ 2539  11/24/2017 06:16:55 NM git status 
+ 2540  11/24/2017 06:16:58 NM git add -u
+ 2541  11/24/2017 06:17:22 NM git commit -m "Corrections in console app"
+ 2542  11/24/2017 06:17:28 NM git push origin master
+ 2543  11/24/2017 06:17:34 NM git push origin v010
+ 2544  11/24/2017 06:18:41 NM ./rpn_console/rpn "8 2 - 3 / 1 4 + 2 * + 6 /" -fp
+ 2545  11/24/2017 06:18:55 NM ./rpn_console/rpn "2 2 root" -fp
+ 2546  11/24/2017 06:19:01 NM ./rpn_console/rpn "2 2 root"
+ 2547  11/24/2017 06:19:16 NM ./rpn_console/rpn "3 2 root"
+ 2548  11/24/2017 06:19:26 NM ./rpn_console/rpn "5 2 root"
+ 2549  11/24/2017 06:19:33 NM ./rpn_console/rpn "512 2 log"
+ 2550  11/24/2017 06:19:42 NM ./rpn_console/rpn "2 512 log"
+ 2551  11/24/2017 06:19:54 NM ./rpn_console/rpn "512 2 log"
+ 2552  11/24/2017 06:19:59 NM exit
+ 2553  11/24/2017 06:28:18 NM git status 
+ 2554  11/24/2017 06:28:21 NM git add -u
+ 2555  11/24/2017 06:28:34 NM git commit -m "Corrections: logarithm"
+ 2556  11/24/2017 06:28:42 NM git push origin v010
+ 2557  11/24/2017 01:33:44 NM cmus
+ 2558  11/24/2017 01:34:07 NM cd /media/rooigevaar19/Windows/Users/redth/Music/
+ 2559  11/24/2017 01:34:08 NM cmus
+ 2560  11/24/2017 06:55:23 NM sudo reboot
+ 2561  11/26/2017 12:07:27 NM cmus
+ 2562  11/26/2017 01:30:31 NM exit
+ 2563  11/26/2017 12:59:29 NM git status 
+ 2564  11/26/2017 12:59:40 NM git add .gitignore 
+ 2565  11/26/2017 12:59:50 NM git commit -m "poprawki gitignore"
+ 2566  11/26/2017 01:00:00 NM git push origin master 
+ 2567  11/26/2017 01:30:33 NM exit
+ 2568  11/26/2017 12:08:45 NM ./print-to-csv.sh 
+ 2569  11/26/2017 01:30:41 NM exit
+ 2570  11/27/2017 04:26:38 NM fpc rpn
+ 2571  11/27/2017 04:26:40 NM fpc rpn.pas 
+ 2572  11/27/2017 04:27:47 NM ./rpn '10 24 ^' -f2
+ 2573  11/27/2017 04:27:52 NM ./rpn '10 24 ^' -i
+ 2574  11/27/2017 04:27:55 NM ./rpn '10 24 ^' -ir
+ 2575  11/27/2017 04:28:03 NM ./rpn help
+ 2576  11/27/2017 04:28:08 NM ./rpn '10 24 ^' -it
+ 2577  11/27/2017 04:28:13 NM ./rpn '10 18 ^' -it
+ 2578  11/27/2017 04:28:16 NM ./rpn '10 19 ^' -it
+ 2579  11/27/2017 04:28:48 NM ./rpn '10 -1 ^' -it
+ 2580  11/27/2017 04:30:11 NM fpc rpn.pas 
+ 2581  11/27/2017 04:30:13 NM ./rpn '10 -1 ^' -it
+ 2582  11/27/2017 04:30:16 NM ./rpn '10 -1 ^' -f
+ 2583  11/27/2017 04:30:18 NM ./rpn '10 -1 ^'
+ 2584  11/27/2017 04:30:21 NM exit
+ 2585  11/27/2017 04:10:25 NM ./rpn
+ 2586  11/27/2017 04:10:33 NM rpn help
+ 2587  11/27/2017 04:10:41 NM ./rpn help
+ 2588  11/27/2017 04:11:15 NM rpn '2 63 ^' -f2
+ 2589  11/27/2017 04:11:20 NM ./rpn '2 63 ^' -f2
+ 2590  11/27/2017 04:12:24 NM ./rpn '10 18 ^' -f2
+ 2591  11/27/2017 04:12:27 NM ./rpn '10 19 ^' -f2
+ 2592  11/27/2017 04:12:31 NM ./rpn '10 20 ^' -f2
+ 2593  11/27/2017 04:12:34 NM ./rpn '10 24 ^' -f2
+ 2594  11/27/2017 04:12:39 NM ./rpn '10 25 ^' -f2
+ 2595  11/27/2017 04:12:42 NM ./rpn '10 24 ^' -f2
+ 2596  11/27/2017 04:12:46 NM ./rpn '10 27 ^' -f2
+ 2597  11/27/2017 04:12:54 NM ./rpn '10 28 ^' -f2
+ 2598  11/27/2017 04:13:06 NM cd ..
+ 2599  11/27/2017 04:13:10 NM git status 
+ 2600  11/27/2017 04:13:22 NM git checkout -b 020
+ 2601  11/27/2017 04:30:59 NM git status 
+ 2602  11/27/2017 04:31:02 NM git add -u
+ 2603  11/27/2017 04:31:05 NM git status 
+ 2604  11/27/2017 04:31:29 NM git commit -m "Upgraded power operation"
+ 2605  11/27/2017 04:31:36 NM exit
+ 2606  11/27/2017 07:08:04 NM ./rpn '24 4 /'
+ 2607  11/27/2017 07:08:19 NM ./rpn '24 6.5 /'
+ 2608  11/27/2017 07:08:24 NM ./rpn '24 0 /'
+ 2609  11/27/2017 07:08:37 NM ./rpn '24 6 /'
+ 2610  11/27/2017 07:08:41 NM ./rpn '24 7 /'
+ 2611  11/27/2017 07:08:45 NM ./rpn '22 7 /'
+ 2612  11/27/2017 07:08:52 NM ./rpn '22 7 /' -f16
+ 2613  11/27/2017 07:08:55 NM ./rpn '22 7 /' -f2
+ 2614  11/27/2017 07:08:57 NM ./rpn '22 7 /' -f10
+ 2615  11/27/2017 07:09:02 NM ./rpn '22 7 /' -fp
+ 2616  11/27/2017 07:09:09 NM ./rpn '1 1 /' -fp
+ 2617  11/27/2017 07:09:19 NM ./rpn '2 63 ^' -fp
+ 2618  11/27/2017 07:09:31 NM ./rpn '2 31 ^' -fp
+ 2619  11/27/2017 07:09:35 NM ./rpn '2 31 ^' -i
+ 2620  11/27/2017 07:09:42 NM ./rpn '2 31 ^' -ir
+ 2621  11/27/2017 07:09:52 NM ./rpn '5 5.5 +' -ir
+ 2622  11/27/2017 07:09:55 NM ./rpn '5 5.55 +' -ir
+ 2623  11/27/2017 07:28:48 NM exit
+ 2624  11/27/2017 07:33:25 NM git tat
+ 2625  11/27/2017 07:33:28 NM git status 
+ 2626  11/27/2017 07:33:38 NM git add rpn_gui/unit3.pas 
+ 2627  11/27/2017 07:33:41 NM git add -u
+ 2628  11/27/2017 07:33:44 NM git status 
+ 2629  11/27/2017 07:34:09 NM git commit -m "Add Polish language support"
+ 2630  11/27/2017 07:34:19 NM exit
+ 2631  11/27/2017 09:42:51 NM git status 
+ 2632  11/27/2017 09:43:17 NM git push origin 020
+ 2633  11/27/2017 09:43:42 NM git checkout -b v020
+ 2634  11/27/2017 09:43:49 NM git status 
+ 2635  11/27/2017 09:44:05 NM git commit -m "Add Polish language"
+ 2636  11/27/2017 09:44:13 NM git push origin v020 
+ 2637  11/27/2017 09:48:16 NM git add -u
+ 2638  11/27/2017 09:48:19 NM git status 
+ 2639  11/27/2017 09:48:29 NM git commit -m "Edit README.md"
+ 2640  11/27/2017 09:48:33 NM git push origin v020 
+ 2641  11/27/2017 09:51:49 NM git add -u
+ 2642  11/27/2017 09:51:51 NM git commit -m "Edit README.md"
+ 2643  11/27/2017 09:51:53 NM git push origin v020 
+ 2644  11/27/2017 09:53:15 NM git add -u
+ 2645  11/27/2017 09:53:17 NM git commit -m "Edit README.md"
+ 2646  11/27/2017 09:53:19 NM git push origin v020 
+ 2647  11/27/2017 10:03:14 NM git add -u
+ 2648  11/27/2017 10:03:16 NM git commit -m "Edit README.md"
+ 2649  11/27/2017 10:03:18 NM git push origin v020 
+ 2650  11/27/2017 09:46:31 NM cmus
+ 2651  11/27/2017 11:00:28 NM exit
+ 2652  11/27/2017 10:52:39 NM mvn clean install
+ 2653  11/27/2017 10:52:49 NM mvn jetty:run
+ 2654  11/27/2017 10:53:42 NM git status 
+ 2655  11/27/2017 10:53:47 NM git add *.java
+ 2656  11/27/2017 10:53:51 NM git status 
+ 2657  11/27/2017 10:54:19 NM git commit -m "DOdanie okrojonych instrukcji UPDATE"
+ 2658  11/27/2017 10:54:36 NM git push origin master
+ 2659  11/27/2017 10:55:06 NM git pull origin master
+ 2660  11/27/2017 10:55:55 NM git status 
+ 2661  11/27/2017 10:56:12 NM git push origin master
+ 2662  11/27/2017 11:00:51 NM exit
+ 2663  11/28/2017 10:47:12 VM git clean install
+ 2664  11/28/2017 10:47:18 VM mvn clean install
+ 2665  11/28/2017 10:47:35 VM mvn jetty:run
+ 2666  11/28/2017 10:50:03 VM mvn clean install
+ 2667  11/28/2017 10:50:07 VM mvn jetty:run
+ 2668  11/28/2017 11:37:17 VM exit
+ 2669  11/28/2017 11:22:03 VM git status 
+ 2670  11/28/2017 11:22:09 VM git add -u
+ 2671  11/28/2017 11:22:14 VM git add src/*
+ 2672  11/28/2017 11:22:18 VM git status 
+ 2673  11/28/2017 11:22:36 VM git commit -m "Edycja strony startowej"
+ 2674  11/28/2017 11:22:42 VM git push origin v010
+ 2675  11/28/2017 11:37:22 VM exit
+ 2676  11/28/2017 10:46:41 VM cmus
+ 2677  11/28/2017 11:39:31 VM exit
+ 2678  11/28/2017 03:54:02 NM cd wildfly-11.0.0.Final/bin/
+ 2679  11/28/2017 03:54:05 NM ./standalone.sh 
+ 2680  11/28/2017 04:57:57 NM exit
+ 2681  11/28/2017 03:56:05 NM ./runHSQLDBClient.sh 
+ 2682  11/28/2017 04:58:04 NM exit
+ 2683  11/28/2017 03:55:24 NM ./runHSQLDBServer.sh 
+ 2684  11/28/2017 04:58:08 NM exit
+ 2685  11/28/2017 03:54:15 NM cd servletjspdemo/
+ 2686  11/28/2017 03:54:16 NM ls
+ 2687  11/28/2017 03:54:19 NM cd Wildfly/
+ 2688  11/28/2017 03:54:20 NM ls
+ 2689  11/28/2017 03:54:23 NM cd db/
+ 2690  11/28/2017 03:55:12 NM cd ..
+ 2691  11/28/2017 04:17:53 NM mvn clean install
+ 2692  11/28/2017 04:18:22 NM mvn wildfly:deploy
+ 2693  11/28/2017 04:24:46 NM mvn wildfly:redeploy
+ 2694  11/28/2017 04:55:57 NM cd ..
+ 2695  11/28/2017 04:56:00 NM git status 
+ 2696  11/28/2017 04:56:09 NM git add -u
+ 2697  11/28/2017 04:56:12 NM git status 
+ 2698  11/28/2017 04:56:20 NM git add *.java
+ 2699  11/28/2017 04:56:23 NM git status 
+ 2700  11/28/2017 04:56:39 NM git commit -m "zabawy lazy initialization"
+ 2701  11/28/2017 04:56:47 NM git push origin v030
+ 2702  11/28/2017 04:58:11 NM exit
+ 2703  11/28/2017 03:51:30 NM cmus
+ 2704  11/28/2017 04:59:29 NM exit
+ 2705  11/28/2017 05:36:15 NM git pull origin master 
+ 2706  11/28/2017 05:38:35 NM git clean install
+ 2707  11/28/2017 05:38:43 NM mvn clean install
+ 2708  11/28/2017 05:39:01 NM mvn jetty:run
+ 2709  11/28/2017 06:11:31 NM exit
+ 2710  11/28/2017 05:40:49 NM cd /media/rooigevaar19/Media/Music/
+ 2711  11/28/2017 05:40:51 NM cmus
+ 2712  11/28/2017 06:11:41 NM sudo shutdown 0h now
+ 2713  11/28/2017 06:11:45 NM sudo shutdown -h now
+ 2714  11/28/2017 07:55:49 NM git pull origin master
+ 2715  11/28/2017 07:58:19 NM mvn clean install
+ 2716  11/28/2017 07:58:37 NM mvn jetty:run
+ 2717  11/28/2017 08:05:18 NM mvn clean install
+ 2718  11/28/2017 08:05:23 NM mvn jetty:run
+ 2719  11/28/2017 08:27:32 NM mvn clean install
+ 2720  11/28/2017 08:27:36 NM mvn jetty:run
+ 2721  11/28/2017 09:37:51 NM mvn clean install
+ 2722  11/28/2017 09:37:55 NM mvn jetty:run
+ 2723  11/28/2017 09:42:52 NM mvn clean install
+ 2724  11/28/2017 09:42:56 NM mvn jetty:run
+ 2725  11/28/2017 09:48:11 NM mvn clean install
+ 2726  11/28/2017 09:48:17 NM mvn jetty:run
+ 2727  11/28/2017 09:49:34 NM git status 
+ 2728  11/28/2017 09:49:38 NM git add 0u
+ 2729  11/28/2017 09:49:48 NM git add src/main/java/actions/
+ 2730  11/28/2017 09:49:57 NM git add src/main/java/actions/git add *.jsp
+ 2731  11/28/2017 09:50:03 NM git add *.jsp
+ 2732  11/28/2017 09:50:06 NM git status 
+ 2733  11/28/2017 09:50:13 NM git add -u
+ 2734  11/28/2017 09:50:18 NM git statq
+ 2735  11/28/2017 09:50:19 NM git status 
+ 2736  11/28/2017 09:51:11 NM git commit -m "Poprawki w managerach i podwaliny pod obsługę UPDATE i DELETE w panelu administratora."
+ 2737  11/28/2017 09:51:17 NM git push origin master
+ 2738  11/28/2017 10:12:06 NM exit
+ 2739  11/28/2017 08:27:46 NM psql cigarbase 
+ 2740  11/28/2017 10:12:18 NM exit
+ 2741  11/28/2017 10:15:27 NM echo
+ 2742  11/28/2017 10:15:29 NM xd
+ 2743  11/28/2017 10:19:01 NM exit
+ 2744  11/29/2017 10:18:20 VM git pull origin master
+ 2745  11/29/2017 10:18:43 VM git log
+ 2746  11/29/2017 10:19:18 VM lynx github.com
+ 2747  11/29/2017 10:19:31 VM sudo apt-get install lynx
+ 2748  11/29/2017 10:20:08 VM lynx github.com
+ 2749  11/29/2017 10:23:09 VM mvn clean install
+ 2750  11/29/2017 10:23:25 VM mvn jetty:run
+ 2751  11/29/2017 10:35:58 VM mvn clean install
+ 2752  11/29/2017 10:36:02 VM mvn jetty:run
+ 2753  11/29/2017 10:43:22 VM mvn clean install
+ 2754  11/29/2017 10:43:26 VM mvn jetty:run
+ 2755  11/29/2017 10:45:54 VM git status 
+ 2756  11/29/2017 10:45:59 VM git add *.jsp
+ 2757  11/29/2017 10:46:31 VM git commit -m "Lipkowski/Zakrzewski: poprawki w UPDATE/DELETE"
+ 2758  11/29/2017 10:46:39 VM git push origin master 
+ 2759  11/29/2017 10:49:31 VM exit
+ 2760  11/29/2017 10:25:50 VM psql cigarbase 
+ 2761  11/29/2017 10:49:38 VM exit
+ 2762  11/29/2017 12:38:49 NM psql cigarbase 
+ 2763  11/29/2017 12:06:18 NM mvn clean install
+ 2764  11/29/2017 12:06:40 NM mvn jetty:run
+ 2765  11/29/2017 02:50:46 NM ./rpn "8 5 ^" -i
+ 2766  11/29/2017 02:50:56 NM ./rpn "8 5 ^" -e
+ 2767  11/29/2017 02:51:19 NM ./rpn "8 5 ^ 2 *" -e
+ 2768  11/29/2017 02:51:28 NM ./rpn "8 5 ^ 2 * 60 /" -e
+ 2769  11/29/2017 02:51:35 NM ./rpn "8 5 ^ 2 * 60 /"
+ 2770  11/29/2017 02:51:43 NM ./rpn "8 5 ^ 2 * 3600 /"
+ 2771  11/29/2017 02:52:12 NM ./rpn "8 5 ^ 2 * 3600 / 2137 *"
+ 2772  11/29/2017 02:52:50 NM ./rpn "8 5 ^ 2 * 3600 / 2137 * 24 / 365 /"
+ 2773  11/29/2017 02:52:56 NM ./rpn "8 5 ^ 2 * 3600 / 2137 * 24 / 365.25 /"
+ 2774  11/29/2017 02:57:10 NM exit
+ 2775  11/29/2017 02:57:19 NM git status 
+ 2776  11/29/2017 02:57:22 NM git add maszrum/
+ 2777  11/29/2017 02:57:36 NM git commit -m "dodanie projekt3"
+ 2778  11/29/2017 02:57:44 NM git push origin master 
+ 2779  11/29/2017 03:44:50 NM exit
+ 2780  11/29/2017 04:17:54 NM vstart pc1 --eth0=A
+ 2781  11/29/2017 04:18:07 NM vstart pc2 --eth0=C
+ 2782  11/29/2017 04:18:37 NM vstart r1 --eth0=A --eth1=B
+ 2783  11/29/2017 04:18:54 NM vstart r2 --eth0=C --eth1=B
+ 2784  11/29/2017 04:29:11 NM vcrash 
+ 2785  11/29/2017 05:13:34 NM cat "dhcpd3" > hehekomenda
+ 2786  11/29/2017 05:13:41 NM exit
+ 2787  11/29/2017 04:29:57 NM lstart
+ 2788  11/29/2017 04:31:31 NM lcrash
+ 2789  11/29/2017 04:32:46 NM lstart
+ 2790  11/29/2017 04:35:13 NM lcrash
+ 2791  11/29/2017 04:44:23 NM lstart
+ 2792  11/29/2017 05:13:16 NM lcrash
+ 2793  11/29/2017 05:13:53 NM exit
+ 2794  11/29/2017 06:44:15 NM fpc rpn.pas 
+ 2795  11/29/2017 06:44:21 NM ./rpn help
+ 2796  11/29/2017 06:44:26 NM ./rpn expression
+ 2797  11/29/2017 06:49:07 NM fpc rpn.pas 
+ 2798  11/29/2017 06:49:09 NM ./rpn expression
+ 2799  11/29/2017 06:49:14 NM ./rpn operands
+ 2800  11/29/2017 06:50:02 NM fpc rpn.pas 
+ 2801  11/29/2017 06:50:03 NM ./rpn operands
+ 2802  11/29/2017 06:50:16 NM ./rpn expressions
+ 2803  11/29/2017 06:50:18 NM ./rpn expression
+ 2804  11/29/2017 06:50:24 NM ./rpn help
+ 2805  11/29/2017 06:52:06 NM cd ..
+ 2806  11/29/2017 06:52:10 NM git status 
+ 2807  11/29/2017 06:52:18 NM git checkout -b v021
+ 2808  11/29/2017 06:52:24 NM git status 
+ 2809  11/29/2017 06:52:40 NM git add *
+ 2810  11/29/2017 06:53:07 NM git add README.md 
+ 2811  11/29/2017 06:54:33 NM git status 
+ 2812  11/29/2017 06:54:53 NM git commit -m "0.2.1 - Unary operands"
+ 2813  11/29/2017 06:54:59 NM exit
+ 2814  11/29/2017 06:17:19 NM cmus
+ 2815  11/29/2017 06:55:03 NM exit
+ 2816  11/29/2017 06:18:48 NM git status 
+ 2817  11/29/2017 06:19:09 NM cd rpn_
+ 2818  11/29/2017 06:19:11 NM cd rpn_console/
+ 2819  11/29/2017 06:19:20 NM ./rpn "5 +"
+ 2820  11/29/2017 06:55:11 NM ./rpn "5 5 + sin"
+ 2821  11/29/2017 06:55:23 NM ./rpn "0 sin" -i
+ 2822  11/29/2017 06:55:25 NM exit
+ 2823  11/29/2017 09:58:57 NM git log
+ 2824  11/29/2017 10:09:47 NM git status 
+ 2825  11/29/2017 10:09:52 NM git add -u
+ 2826  11/29/2017 10:09:54 NM git status 
+ 2827  11/29/2017 10:10:07 NM git commit -m "Edit README.md"
+ 2828  11/29/2017 10:10:11 NM git push origin v021
+ 2829  11/29/2017 10:50:54 NM git status 
+ 2830  11/29/2017 10:51:00 NM git ad .gitignore
+ 2831  11/29/2017 10:51:04 NM git add .gitignore
+ 2832  11/29/2017 10:51:09 NM git add README.md 
+ 2833  11/29/2017 10:51:12 NM git status 
+ 2834  11/29/2017 10:51:18 NM git commit -m "Edit README.md"
+ 2835  11/29/2017 10:51:25 NM git push origin v021
+ 2836  11/29/2017 11:00:04 NM exit
+ 2837  11/29/2017 10:29:54 NM cd 
+ 2838  11/29/2017 10:34:53 NM ./rpn expression
+ 2839  11/29/2017 11:00:19 NM ./rpn "PI 1 + sin"
+ 2840  11/29/2017 11:00:25 NM ./rpn "PI PI + sin"
+ 2841  11/29/2017 11:00:41 NM ./rpn "PI PI + 0.5 PI * + sin"
+ 2842  11/30/2017 10:44:58 VM ./rpn "5 5 +"
+ 2843  11/30/2017 10:45:06 VM ./rpn "70 27 -"
+ 2844  11/30/2017 10:45:10 VM ./rpn "100 27 -"
+ 2845  11/30/2017 10:51:43 VM ./rpn "2 3 + sin" -i
+ 2846  11/30/2017 10:51:46 VM ./rpn "2 3 + sin"
+ 2847  11/30/2017 11:02:06 VM ./rpn "0 sin"
+ 2848  11/30/2017 11:02:12 VM ./rpn "PI sin"
+ 2849  11/30/2017 11:02:21 VM clear
+ 2850  11/30/2017 11:02:26 VM ./rpn "0 sin"
+ 2851  11/30/2017 11:32:59 VM ./rpn "PI sin"
+ 2852  11/30/2017 11:33:22 VM ./rpn "PI sin" -i
+ 2853  11/30/2017 11:33:35 VM ./rpn "PI sin" -f2
+ 2854  11/30/2017 11:33:46 VM ./rpn "PI sin" -f16
+ 2855  11/30/2017 11:33:50 VM ./rpn "PI sin" -f1p
+ 2856  11/30/2017 11:33:52 VM ./rpn "PI sin" -fp
+ 2857  11/30/2017 11:40:49 VM fpc rpn.pas 
+ 2858  11/30/2017 11:41:04 VM ./rpn "25 fact" -i
+ 2859  11/30/2017 11:41:07 VM ./rpn "25 fact"
+ 2860  11/30/2017 11:41:13 VM ./rpn "25 fact" -f2
+ 2861  11/30/2017 11:41:46 VM ./rpn "6 fact 1 + sin" -f2
+ 2862  11/30/2017 11:41:50 VM ./rpn "6 fact 1 + sin"
+ 2863  11/30/2017 11:42:19 VM cd ..
+ 2864  11/30/2017 11:42:56 VM git status 
+ 2865  11/30/2017 11:42:59 VM git add -u
+ 2866  11/30/2017 11:43:10 VM git commit -m "Factorial"
+ 2867  11/30/2017 11:43:16 VM git push origin v021
+ 2868  11/30/2017 11:43:57 VM exit
+ 2869  11/30/2017 11:28:48 VM git pull origin master
+ 2870  11/30/2017 11:30:37 VM ./compile.sh 
+ 2871  11/30/2017 11:31:42 VM ./print-to-csv.sh 
+ 2872  11/30/2017 11:50:18 VM cat results-run-7.csv 
+ 2873  11/30/2017 11:51:09 VM exit
+ 2874  11/30/2017 12:51:13 NM ./compile.sh 
+ 2875  11/30/2017 01:00:47 NM git status 
+ 2876  11/30/2017 01:00:51 NM cd ..
+ 2877  11/30/2017 01:00:54 NM git status 
+ 2878  11/30/2017 01:01:01 NM git commit -m "hyhyhy"
+ 2879  11/30/2017 01:01:06 NM git add -u
+ 2880  11/30/2017 01:01:11 NM git add *.cpp
+ 2881  11/30/2017 01:01:15 NM git commit -m "hyhyhy"
+ 2882  11/30/2017 01:01:21 NM git push origin master
+ 2883  11/30/2017 01:04:51 NM cd -
+ 2884  11/30/2017 01:04:54 NM ./compile.sh 
+ 2885  11/30/2017 01:21:01 NM ./run-4
+ 2886  11/30/2017 01:30:28 NM ./compile.sh 
+ 2887  11/30/2017 01:37:16 NM ./compile.sh save-output
+ 2888  11/30/2017 01:39:50 NM ./run-4
+ 2889  11/30/2017 01:39:53 NM ./run-5
+ 2890  11/30/2017 01:40:02 NM ./run-6
+ 2891  11/30/2017 01:40:04 NM ./run-7
+ 2892  11/30/2017 01:41:14 NM ./compile.sh 
+ 2893  11/30/2017 01:42:32 NM ./run-4
+ 2894  11/30/2017 01:43:06 NM ./run-5
+ 2895  11/30/2017 01:43:11 NM ./run-6
+ 2896  11/30/2017 01:44:35 NM ./run-5
+ 2897  11/30/2017 01:44:42 NM ./run-6
+ 2898  11/30/2017 01:49:33 NM ./run-4
+ 2899  11/30/2017 01:49:53 NM ./run-6
+ 2900  11/30/2017 03:21:53 NM git status 
+ 2901  11/30/2017 03:21:56 NM git add -u
+ 2902  11/30/2017 03:22:05 NM git commit -m "hyhyhyhy"
+ 2903  11/30/2017 03:22:17 NM git push origin master
+ 2904  11/30/2017 03:27:57 NM exit
+ 2905  11/30/2017 02:10:15 NM ./compile.sh 
+ 2906  11/30/2017 02:11:22 NM ./run-1
+ 2907  11/30/2017 02:11:28 NM ./run-2
+ 2908  11/30/2017 02:11:42 NM ./run-3
+ 2909  11/30/2017 02:12:06 NM ./print-to-csv.sh 
+ 2910  11/30/2017 02:23:39 NM cat results-run-7
+ 2911  11/30/2017 02:23:42 NM cat results-run-7.csv 
+ 2912  11/30/2017 02:23:55 NM ./run-7 > results-run-7.csv
+ 2913  11/30/2017 02:24:08 NM cat results-run-7.csv 
+ 2914  11/30/2017 02:24:15 NM cat results-run-8.csv 
+ 2915  11/30/2017 02:24:57 NM cat results-run-9.csv 
+ 2916  11/30/2017 02:25:03 NM cat results-run-7.csv 
+ 2917  11/30/2017 02:43:59 NM cat results-run-8.csv 
+ 2918  11/30/2017 02:47:09 NM ./compile.sh 
+ 2919  11/30/2017 02:49:05 NM ./run-7 > results-run-7.csv 
+ 2920  11/30/2017 02:49:14 NM cat results-run-7.csv 
+ 2921  11/30/2017 02:49:58 NM ./run-8 > results-run-8.csv 
+ 2922  11/30/2017 02:50:08 NM cat results-run-8.csv 
+ 2923  11/30/2017 02:50:15 NM ./run-8 > results-run-8.csv 
+ 2924  11/30/2017 02:50:19 NM cat results-run-8.csv 
+ 2925  11/30/2017 02:50:33 NM ./run-9 > results-run-9.csv 
+ 2926  11/30/2017 02:50:40 NM cat results-run-9.csv 
+ 2927  11/30/2017 02:50:55 NM ./run-7 > results-run-7.csv 
+ 2928  11/30/2017 02:51:05 NM cat results-run-7.csv 
+ 2929  11/30/2017 02:51:17 NM ./run-7 > results-run-7.csv 
+ 2930  11/30/2017 02:51:26 NM cat results-run-7.csv 
+ 2931  11/30/2017 02:51:27 NM ./run-7 > results-run-7.csv 
+ 2932  11/30/2017 02:51:31 NM cat results-run-7.csv 
+ 2933  11/30/2017 02:51:33 NM ./run-7 > results-run-7.csv 
+ 2934  11/30/2017 02:51:51 NM cat results-run-7.csv 
+ 2935  11/30/2017 02:51:56 NM ./run-7 > results-run-7.csv 
+ 2936  11/30/2017 02:52:00 NM cat results-run-7.csv 
+ 2937  11/30/2017 03:02:31 NM ./run-8 > results-run-8.csv 
+ 2938  11/30/2017 03:02:37 NM cat results-run-8.csv 
+ 2939  11/30/2017 03:12:40 NM cat results-run-9.csv 
+ 2940  11/30/2017 03:18:55 NM cat results-run-3.csv 
+ 2941  11/30/2017 03:19:45 NM ./compile.sh 
+ 2942  11/30/2017 03:28:01 NM exit
+ 2943  11/30/2017 02:26:19 NM git status 
+ 2944  11/30/2017 02:26:22 NM gi add -u
+ 2945  11/30/2017 02:26:25 NM git add -u
+ 2946  11/30/2017 02:26:31 NM git commit -m "xd"
+ 2947  11/30/2017 02:26:37 NM git push origin master 
+ 2948  11/30/2017 02:39:03 NM git add .gitignore 
+ 2949  11/30/2017 02:39:07 NM git status 
+ 2950  11/30/2017 02:40:42 NM git add -u
+ 2951  11/30/2017 02:40:48 NM git commit -m "lel"
+ 2952  11/30/2017 02:40:52 NM git push origin master
+ 2953  11/30/2017 03:28:20 NM exit
+ 2954  11/30/2017 02:38:37 NM ./compile.sh 
+ 2955  11/30/2017 03:28:26 NM exit
+ 2956  12/01/2017 08:51:45 VM fpc rpn.pas 
+ 2957  12/01/2017 08:51:52 VM ./rpn '5.5 round'
+ 2958  12/01/2017 08:52:01 VM ./rpn help
+ 2959  12/01/2017 08:52:06 VM ./rpn expression
+ 2960  12/01/2017 08:52:12 VM ./rpn operands
+ 2961  12/01/2017 09:03:00 VM ./rpn '2 3 +'
+ 2962  12/01/2017 09:03:20 VM exit
+ 2963  12/01/2017 08:13:30 VM cmus
+ 2964  12/01/2017 09:11:03 VM exit
+ 2965  12/01/2017 09:03:27 VM git status 
+ 2966  12/01/2017 09:03:34 VM git add -u
+ 2967  12/01/2017 09:04:10 VM git commit -m "Added some functions"
+ 2968  12/01/2017 09:04:49 VM git push origin v021
+ 2969  12/01/2017 09:08:48 VM git commit -m "Edit README.md"
+ 2970  12/01/2017 09:08:53 VM git add -u
+ 2971  12/01/2017 09:08:54 VM git commit -m "Edit README.md"
+ 2972  12/01/2017 09:08:58 VM git push origin v021
+ 2973  12/01/2017 09:12:11 VM exit
+ 2974  12/01/2017 10:34:50 VM cd /media/rooigevaar19/Media/Music/
+ 2975  12/01/2017 10:34:51 VM ls
+ 2976  12/01/2017 10:34:53 VM cmus
+ 2977  12/01/2017 11:41:37 VM exit
+ 2978  12/01/2017 10:18:00 VM swipl
+ 2979  12/01/2017 10:18:15 VM sudo apt-get install swi-prolog-nox 
+ 2980  12/01/2017 10:21:01 VM cd /media/rooigevaar19/Media/Projects/studia/deklaratywne/
+ 2981  12/01/2017 10:21:02 VM ls
+ 2982  12/01/2017 10:21:15 VM mkdir -p prolog/zad1
+ 2983  12/01/2017 10:21:19 VM cd prolog/zad1/
+ 2984  12/01/2017 10:21:20 VM ls
+ 2985  12/01/2017 10:21:24 VM swipl
+ 2986  12/01/2017 11:42:05 VM xit
+ 2987  12/01/2017 01:08:20 NM fpc rpn.pas 
+ 2988  12/01/2017 01:08:40 NM ./rpn '> > +'
+ 2989  12/01/2017 01:08:43 NM ./rpn '> 5 +'
+ 2990  12/01/2017 01:09:11 NM fpc rpn.pas 
+ 2991  12/01/2017 01:09:13 NM ./rpn '> 5 +'
+ 2992  12/01/2017 01:09:24 NM ./rpn '> 5 +' > xd
+ 2993  12/01/2017 01:09:36 NM rm xd 
+ 2994  12/01/2017 01:09:57 NM cat | ./rpn '> > +'
+ 2995  12/01/2017 01:10:09 NM ./rpn '> > +'
+ 2996  12/01/2017 01:10:20 NM exit
+ 2997  12/01/2017 12:26:49 NM cmus
+ 2998  12/01/2017 01:10:27 NM exit
+ 2999  12/01/2017 05:10:19 NM ./rpn "> > > + +"
+ 3000  12/01/2017 05:10:33 NM exit
+ 3001  12/01/2017 02:48:58 NM cmus
+ 3002  12/01/2017 05:27:16 NM exit
+ 3003  12/01/2017 05:07:03 NM git status 
+ 3004  12/01/2017 05:07:08 NM git add -u
+ 3005  12/01/2017 05:07:13 NM git add *.pas
+ 3006  12/01/2017 05:07:17 NM git add *.lfm
+ 3007  12/01/2017 05:07:19 NM git status 
+ 3008  12/01/2017 05:07:55 NM git commit -m "Add scanner"
+ 3009  12/01/2017 05:08:17 NM git push origin v021
+ 3010  12/01/2017 05:09:32 NM git status 
+ 3011  12/01/2017 05:09:34 NM git add -u
+ 3012  12/01/2017 05:09:45 NM git commit -m "Edit README.md"
+ 3013  12/01/2017 05:09:52 NM git push origin v021
+ 3014  12/01/2017 05:27:18 NM exit
+ 3015  12/02/2017 12:46:59 NM fpc rpn.pas 
+ 3016  12/02/2017 12:47:07 NM ./rpn '2 2 +'
+ 3017  12/02/2017 12:47:15 NM ./rpn expression
+ 3018  12/02/2017 12:47:31 NM fpc rpn.pas 
+ 3019  12/02/2017 12:47:41 NM exit
+ 3020  12/02/2017 12:47:50 NM git checkout -b v030
+ 3021  12/02/2017 12:47:54 NM git status 
+ 3022  12/02/2017 12:48:02 NM git add -u
+ 3023  12/02/2017 12:51:01 NM git status 
+ 3024  12/02/2017 01:03:40 NM git add -u
+ 3025  12/02/2017 01:03:49 NM git commit -m "Detect system locale"
+ 3026  12/02/2017 01:03:56 NM git push origin v030
+ 3027  12/02/2017 01:04:58 NM exit
+ 3028  12/04/2017 08:43:18 VM git pull origin master
+ 3029  12/04/2017 10:26:38 VM git clone https://github.com/KubaNeumann/shdemo.git
+ 3030  12/04/2017 10:42:45 VM exit
+ 3031  12/04/2017 10:47:32 VM cd ..
+ 3032  12/04/2017 10:47:36 VM git status 
+ 3033  12/04/2017 10:47:41 VM git add Spring+Hibernate/
+ 3034  12/04/2017 10:47:44 VM git status 
+ 3035  12/04/2017 10:48:04 VM git commit -m "Dodanie Spring+Hibernate"
+ 3036  12/04/2017 10:48:12 VM git push origin master
+ 3037  12/04/2017 10:48:34 VM git push origin v030 
+ 3038  12/04/2017 10:58:30 VM mvn jetty:run
+ 3039  12/04/2017 10:58:51 VM mvn clean test
+ 3040  12/04/2017 10:59:03 VM cd Spring+Hibernate/
+ 3041  12/04/2017 10:59:06 VM mvn jetty:run
+ 3042  12/04/2017 10:59:14 VM mvn clean test
+ 3043  12/04/2017 11:00:37 VM ~/rpn "2 3 +"
+ 3044  12/04/2017 11:01:00 VM ~/rpn "> > /"
+ 3045  12/04/2017 11:02:04 VM ~/rpn "> > > > > > +"
+ 3046  12/04/2017 11:03:09 VM ~/rpn "> > > > > 2 +"
+ 3047  12/04/2017 11:19:52 VM cd ..
+ 3048  12/04/2017 11:19:56 VM git status q
+ 3049  12/04/2017 11:20:04 VM git status
+ 3050  12/04/2017 11:20:18 VM git status 
+ 3051  12/04/2017 11:20:29 VM git add -u
+ 3052  12/04/2017 11:20:34 VM git add *.java
+ 3053  12/04/2017 11:20:37 VM git status 
+ 3054  12/04/2017 11:20:56 VM git commit -m "Dodanie Spring Boot"
+ 3055  12/04/2017 11:21:08 VM git push origin v030
+ 3056  12/04/2017 11:42:54 VM git status 
+ 3057  12/04/2017 11:43:03 VM git add *.java
+ 3058  12/04/2017 11:43:05 VM git status 
+ 3059  12/04/2017 11:43:22 VM git commit -m "roboty w springu"
+ 3060  12/04/2017 11:43:28 VM git push origin v030
+ 3061  12/04/2017 11:43:46 VM exit
+ 3062  12/04/2017 10:40:56 VM chmod 777 run*
+ 3063  12/04/2017 10:41:01 VM ./runHSQLDBServer.sh 
+ 3064  12/04/2017 11:43:50 VM exit
+ 3065  12/04/2017 10:07:05 NM ssh root@94.177.245.154
+ 3066  12/04/2017 10:08:36 NM ssh postgres@94.177.245.154
+ 3067  12/04/2017 10:08:48 NM ssh rooi@94.177.245.154
+ 3068  12/04/2017 10:26:38 NM exit
+ 3069  12/04/2017 10:04:14 NM git pull origin master
+ 3070  12/04/2017 10:05:37 NM mvn clean install
+ 3071  12/04/2017 10:05:51 NM mvn jetty:run
+ 3072  12/04/2017 10:11:23 NM mvn clean install
+ 3073  12/04/2017 10:11:28 NM mvn jetty:run
+ 3074  12/04/2017 10:15:13 NM mvn clean install
+ 3075  12/04/2017 10:15:17 NM mvn jetty:run
+ 3076  12/04/2017 10:16:02 NM mvn clean install
+ 3077  12/04/2017 10:16:06 NM mvn jetty:run
+ 3078  12/04/2017 10:26:19 NM mvn clean install
+ 3079  12/04/2017 10:26:29 NM mvn jetty:run
+ 3080  12/04/2017 10:31:47 NM exit
+ 3081  12/04/2017 10:30:48 NM git status 
+ 3082  12/04/2017 10:30:54 NM git add -u
+ 3083  12/04/2017 10:31:30 NM git commit -m "Przekierowanie aplikacji na zewnętrzny serwer bazodanowy"
+ 3084  12/04/2017 10:31:36 NM git push origin master
+ 3085  12/05/2017 04:39:09 NM git pull  origin master
+ 3086  12/05/2017 04:54:43 NM mvn clean install
+ 3087  12/05/2017 04:56:07 NM mvn jetty:run
+ 3088  12/05/2017 05:01:02 NM exit
+ 3089  12/05/2017 04:43:33 NM ssh rooi@94.177.245.154
+ 3090  12/05/2017 04:16:55 NM ssh editor@94.177.245.154
+ 3091  12/05/2017 05:01:23 NM xit
+ 3092  12/05/2017 05:01:26 NM exit
+ 3093  12/05/2017 04:01:58 NM cd ..
+ 3094  12/05/2017 04:02:02 NM ls
+ 3095  12/05/2017 04:02:06 NM cd wildfly-11.0.0.Final/bin/
+ 3096  12/05/2017 04:02:06 NM ls
+ 3097  12/05/2017 04:02:09 NM ./standalone.sh 
+ 3098  12/05/2017 05:01:31 NM exit
+ 3099  12/05/2017 05:01:33 NM exit
+ 3100  12/05/2017 04:01:41 NM cd db/
+ 3101  12/05/2017 04:01:45 NM ./runHSQLDBClient.sh 
+ 3102  12/05/2017 05:01:35 NM exit
+ 3103  12/05/2017 04:01:29 NM cd db
+ 3104  12/05/2017 04:01:34 NM ./runHSQLDBServer.sh 
+ 3105  12/05/2017 05:01:36 NM exit
+ 3106  12/05/2017 07:48:37 NM ssh editor@94.177.245.154
+ 3107  12/05/2017 07:50:16 NM ssh editor@94.177.245.154
+ 3108  12/05/2017 07:38:20 NM git status 
+ 3109  12/05/2017 07:38:24 NM git add -u
+ 3110  12/05/2017 07:38:27 NM git status 
+ 3111  12/05/2017 07:39:05 NM git commit -m "Dodanie watermarków dla loggera serwera aplikacji."
+ 3112  12/05/2017 07:39:18 NM git push origin master 
+ 3113  12/05/2017 07:39:31 NM mvn jetty:run
+ 3114  12/05/2017 07:39:47 NM mvn clean install
+ 3115  12/05/2017 07:39:57 NM mvn jetty:run
+ 3116  12/05/2017 07:42:34 NM git stat
+ 3117  12/05/2017 07:42:35 NM git status 
+ 3118  12/05/2017 07:42:38 NM git add -u
+ 3119  12/05/2017 07:43:51 NM git commit -m "Dodanie watermarków dla loggera serwera aplikacji. V2"
+ 3120  12/05/2017 07:43:58 NM git push origin master
+ 3121  12/05/2017 07:56:30 NM exit
+ 3122  12/06/2017 09:01:46 VM for i in `seq 1 1 2137` ; do echo "kurwa"; done
+ 3123  12/06/2017 10:19:42 VM git pull origin master
+ 3124  12/06/2017 10:25:47 VM mvn clean install
+ 3125  12/06/2017 10:25:59 VM mvn jetty:run
+ 3126  12/06/2017 10:26:24 VM ps x
+ 3127  12/06/2017 10:26:40 VM ps x | grep wildfly
+ 3128  12/06/2017 10:26:45 VM ps x | grep jboss
+ 3129  12/06/2017 10:30:13 VM exit
+ 3130  12/06/2017 10:32:35 VM git status 
+ 3131  12/06/2017 10:32:39 VM git add -u
+ 3132  12/06/2017 10:32:43 VM git status 
+ 3133  12/06/2017 10:33:01 VM git commit -m "Zakrzewski: poprawka Edit Attendance"
+ 3134  12/06/2017 10:33:08 VM git push origin master
+ 3135  12/06/2017 10:33:47 VM exit
+ 3136  12/06/2017 04:09:53 NM for i in 1 2 3 4 ; do mkdir "pc$i"; done
+ 3137  12/06/2017 04:22:04 NM mkdir -p /etc/dhcp3/
+ 3138  12/06/2017 04:22:05 NM mkdir -p /etc/dhcp3
+ 3139  12/06/2017 04:22:14 NM sudo mkdir -p /etc/dhcp3
+ 3140  12/06/2017 04:29:06 NM mkdir -p etc/dhcp3
+ 3141  12/06/2017 04:34:07 NM cd ..
+ 3142  12/06/2017 04:21:09 NM lstart
+ 3143  12/06/2017 04:28:31 NM lcrash
+ 3144  12/06/2017 04:34:11 NM lstart
+ 3145  12/06/2017 04:35:37 NM lcrash
+ 3146  12/06/2017 04:36:11 NM lstart
+ 3147  12/06/2017 04:38:55 NM lcrash
+ 3148  12/06/2017 04:39:24 NM lstart
+ 3149  12/06/2017 04:42:52 NM lcrash
+ 3150  12/06/2017 04:43:21 NM lstart
+ 3151  12/06/2017 04:47:10 NM lcrash
+ 3152  12/06/2017 04:48:18 NM lstart
+ 3153  12/06/2017 04:49:14 NM lcrash
+ 3154  12/06/2017 04:49:21 NM lstart
+ 3155  12/06/2017 04:49:42 NM lcrash
+ 3156  12/06/2017 04:50:12 NM lstart
+ 3157  12/06/2017 04:51:05 NM lcrash
+ 3158  12/06/2017 05:03:54 NM lstart
+ 3159  12/06/2017 05:04:26 NM lcrash
+ 3160  12/06/2017 05:12:43 NM exit
+ 3161  12/06/2017 04:06:46 NM cmus
+ 3162  12/06/2017 05:12:46 NM exit
+ 3163  12/06/2017 06:54:30 NM ~/rpn "2 3 +"
+ 3164  12/06/2017 06:54:40 NM ~/rpn "2 3 + 4 / 6 log"
+ 3165  12/06/2017 06:54:53 NM ~/rpn "2 3 + 4 / 6 5 log"
+ 3166  12/06/2017 06:55:05 NM ~/rpn "2 3 + 4 /"
+ 3167  12/06/2017 06:55:09 NM ~/rpn "2 3 + 4 / 6 log"
+ 3168  12/06/2017 06:55:13 NM ~/rpn "2 3 + 4 / 6 log" -e
+ 3169  12/06/2017 06:55:26 NM ~/rpn "2 3 + 4 / 1 log" -e
+ 3170  12/06/2017 06:55:29 NM ~/rpn "2 3 + 4 / 12 log" -e
+ 3171  12/06/2017 06:55:39 NM ~/rpn "2 2 log"
+ 3172  12/06/2017 06:55:43 NM ~/rpn "3 2 log"
+ 3173  12/06/2017 06:55:55 NM exit
+ 3174  12/07/2017 10:52:37 VM cmus
+ 3175  12/07/2017 10:53:58 VM fpc rpn.pas 
+ 3176  12/07/2017 10:54:06 VM cp ./rpn ~/rpn
+ 3177  12/07/2017 10:55:01 VM ./rpn "2 8 log"
+ 3178  12/07/2017 10:55:11 VM ./rpn "4 2 log"
+ 3179  12/07/2017 10:55:19 VM ./rpn "8 2 log"
+ 3180  12/07/2017 10:55:33 VM ./rpn "16 2 root"
+ 3181  12/07/2017 10:55:38 VM ./rpn "2 16 root"
+ 3182  12/07/2017 10:55:45 VM ./rpn "2 16 root" -e
+ 3183  12/07/2017 10:55:49 VM ./rpn "2 8 root" -e
+ 3184  12/07/2017 10:55:52 VM ./rpn "2 1 root" -e
+ 3185  12/07/2017 10:55:55 VM ./rpn "2 2 root" -e
+ 3186  12/07/2017 10:58:28 VM fpc rpn.pas 
+ 3187  12/07/2017 10:58:33 VM cp ./rpn ~/rpn
+ 3188  12/07/2017 10:58:35 VM ./rpn "2 2 root" -e
+ 3189  12/07/2017 10:58:37 VM ./rpn "2 2 root"
+ 3190  12/07/2017 11:18:08 VM exit
+ 3191  12/08/2017 10:20:54 VM swipl
+ 3192  12/08/2017 11:46:30 VM exit
+ 3193  12/08/2017 10:20:12 VM cmus
+ 3194  12/08/2017 11:46:37 VM exit
+ 3195  12/08/2017 05:32:59 NM git status 
+ 3196  12/08/2017 05:33:12 NM git add -u
+ 3197  12/08/2017 05:33:20 NM git status 
+ 3198  12/08/2017 05:33:44 NM git commit -m "Dodanie tabeli Message do bazy i wrzucenie jej do bazy."
+ 3199  12/08/2017 05:37:38 NM git status 
+ 3200  12/08/2017 05:37:49 NM git add src/main/sql/create.sql 
+ 3201  12/08/2017 05:37:52 NM gi stat
+ 3202  12/08/2017 05:37:55 NM git status 
+ 3203  12/08/2017 05:38:02 NM git commit -m "Dodanie tabeli Message do bazy i wrzucenie jej do bazy. V2"
+ 3204  12/08/2017 05:38:12 NM git push origin master
+ 3205  12/08/2017 05:51:19 NM ./rpn "2 4 log"
+ 3206  12/08/2017 05:51:23 NM ./rpn "2 8 log"
+ 3207  12/08/2017 05:51:28 NM ~/rpn "2 8 log"
+ 3208  12/08/2017 05:51:35 NM exit
+ 3209  12/08/2017 05:53:13 NM git status 
+ 3210  12/08/2017 05:53:24 NM git add -u
+ 3211  12/08/2017 05:53:38 NM git commit -m "fixed some bugs"
+ 3212  12/08/2017 05:53:54 NM git add -u
+ 3213  12/08/2017 05:53:55 NM git commit -m "fixed some bugs"
+ 3214  12/08/2017 05:54:03 NM git push origin v030
+ 3215  12/08/2017 06:13:29 NM exit
+ 3216  12/11/2017 12:59:51 NM ssh editor@94.177.245.154
+ 3217  12/11/2017 12:45:09 NM git status 
+ 3218  12/11/2017 12:45:16 NM git add *.java
+ 3219  12/11/2017 12:45:18 NM git status 
+ 3220  12/11/2017 12:45:33 NM git commit -m "Utworzenie modelu i interfejsu Message"
+ 3221  12/11/2017 12:45:43 NM git push origin master
+ 3222  12/11/2017 01:02:28 NM git status 
+ 3223  12/11/2017 01:02:34 NM git add *.java
+ 3224  12/11/2017 01:02:36 NM git status 
+ 3225  12/11/2017 01:02:40 NM git commit -m "Utworzenie modelu i interfejsu Message V2"
+ 3226  12/11/2017 01:02:45 NM git push origin master
+ 3227  12/11/2017 01:02:59 NM exit
+ 3228  12/11/2017 11:49:15 VM git pull origin master
+ 3229  12/11/2017 02:59:41 NM mvn clean install
+ 3230  12/11/2017 03:01:10 NM mvn jetty:run
+ 3231  12/11/2017 03:19:47 NM git status 
+ 3232  12/11/2017 03:19:51 NM git add -u
+ 3233  12/11/2017 03:19:57 NM git add *.java
+ 3234  12/11/2017 03:19:58 NM git status 
+ 3235  12/11/2017 03:20:32 NM git commit -m "Sesyjność logowania użytkowników"
+ 3236  12/11/2017 03:20:37 NM git push origin master
+ 3237  12/11/2017 03:37:06 NM exit
+ 3238  12/11/2017 04:15:57 NM ./rpn "2 2 16 ^ log"
+ 3239  12/11/2017 04:16:05 NM cd ../rpn_console/
+ 3240  12/11/2017 04:16:07 NM ./rpn "2 2 16 ^ log"
+ 3241  12/11/2017 04:16:17 NM ./rpn "2 16 ^"
+ 3242  12/11/2017 04:16:35 NM ./rpn "9 2 root"
+ 3243  12/11/2017 04:18:34 NM fpc rpn.pas 
+ 3244  12/11/2017 04:18:36 NM ./rpn "9 2 root"
+ 3245  12/11/2017 04:18:42 NM ./rpn "
+ 3246  12/11/2017 04:19:28 NM ./rpn "9 2 root sin"
+ 3247  12/11/2017 04:19:36 NM ./rpn "22 7 / sin"
+ 3248  12/11/2017 04:19:50 NM ./rpn "22 7 / 2 * sin"
+ 3249  12/11/2017 04:20:07 NM fpc help
+ 3250  12/11/2017 04:20:14 NM ./rpn help
+ 3251  12/11/2017 04:20:17 NM exit
+ 3252  12/11/2017 04:20:28 NM sudo reboot
+ 3253  12/11/2017 08:35:52 NM git status 
+ 3254  12/11/2017 08:35:56 NM git add *
+ 3255  12/11/2017 08:35:58 NM git status 
+ 3256  12/11/2017 08:36:13 NM git commit -m "dodanie modelu symulacji"
+ 3257  12/11/2017 08:36:18 NM git push origin master 
+ 3258  12/11/2017 08:37:14 NM rpc rpn.pas 
+ 3259  12/11/2017 08:37:22 NM fpc rpn.pas `
+ 3260  12/11/2017 08:37:41 NM cp ./rpn ~/rpn
+ 3261  12/11/2017 08:37:47 NM cd ..
+ 3262  12/11/2017 08:37:48 NM ls
+ 3263  12/11/2017 08:38:06 NM git status 
+ 3264  12/11/2017 08:38:21 NM git add -u
+ 3265  12/11/2017 08:38:26 NM git status 
+ 3266  12/11/2017 08:38:41 NM git commit -m "Corrections on logarithm"
+ 3267  12/11/2017 08:38:49 NM git push origin v030
+ 3268  12/11/2017 08:58:12 NM git status 
+ 3269  12/11/2017 08:58:17 NM git commit -m "dodanie modelu symulacji V2"
+ 3270  12/11/2017 08:58:24 NM git add -u
+ 3271  12/11/2017 08:58:26 NM git commit -m "dodanie modelu symulacji V2"
+ 3272  12/11/2017 08:58:34 NM git push origin master
+ 3273  12/12/2017 11:15:23 VM mvn clean install
+ 3274  12/12/2017 11:15:37 VM mvn jetty:run
+ 3275  12/12/2017 11:18:56 VM git status 
+ 3276  12/12/2017 11:19:02 VM git add *.java
+ 3277  12/12/2017 11:19:04 VM git status 
+ 3278  12/12/2017 11:19:17 VM git commit -m "Haszowanie haseł"
+ 3279  12/12/2017 11:19:25 VM git push origin master
+ 3280  12/12/2017 11:19:57 VM git pull origin master
+ 3281  12/12/2017 11:20:35 VM git push origin master
+ 3282  12/12/2017 11:27:16 VM mvn clean install
+ 3283  12/12/2017 11:27:23 VM mvn jetty:run
+ 3284  12/12/2017 11:30:03 VM git commit -m "Usuwanie możliwości usuwania roli"
+ 3285  12/12/2017 11:30:09 VM git add *.jsp
+ 3286  12/12/2017 11:30:10 VM git commit -m "Usuwanie możliwości usuwania roli"
+ 3287  12/12/2017 11:30:15 VM git push origin master
+ 3288  12/12/2017 11:30:42 VM exit
+ 3289  12/12/2017 11:30:51 VM exit
+ 3290  12/12/2017 12:13:20 NM git status 
+ 3291  12/12/2017 12:13:27 NM git add -u
+ 3292  12/12/2017 12:13:52 NM git commit -m "Rozwiązanie problemu z haszowaniem wtórnym haseł"
+ 3293  12/12/2017 12:13:58 NM git push origin master
+ 3294  12/12/2017 12:17:51 NM exit
+ 3295  12/12/2017 12:40:49 NM git status 
+ 3296  12/12/2017 12:40:56 NM git add -u
+ 3297  12/12/2017 12:41:05 NM git commit -m "prace1"
+ 3298  12/12/2017 12:41:14 NM git push origin v030
+ 3299  12/12/2017 12:46:23 NM exit
+ 3300  12/12/2017 03:57:28 NM cd wildfly-11.0.0.Final/bin/
+ 3301  12/12/2017 03:57:29 NM ./standalone.sh 
+ 3302  12/12/2017 04:00:05 NM cd servletjspdemo/Wildfly/
+ 3303  12/12/2017 04:00:06 NM ls
+ 3304  12/12/2017 04:00:11 NM cd db/
+ 3305  12/12/2017 04:00:12 NM ls
+ 3306  12/12/2017 04:00:16 NM ./runHSQLDBServer.sh 
+ 3307  12/12/2017 04:00:30 NM cd servletjspdemo/Wildfly/db/
+ 3308  12/12/2017 04:00:33 NM ./runHSQLDBClient.sh 
+ 3309  12/12/2017 04:01:09 NM cd servletjspdemo/Wildfly/
+ 3310  12/12/2017 04:01:10 NM ld
+ 3311  12/12/2017 04:01:11 NM ls
+ 3312  12/12/2017 04:35:35 NM mvn clean install
+ 3313  12/12/2017 04:35:51 NM mvn wildfly:deploy
+ 3314  12/12/2017 04:48:25 NM mvn clean install
+ 3315  12/12/2017 04:48:30 NM mvn wildfly:deploy
+ 3316  12/12/2017 04:49:19 NM mvn clean install
+ 3317  12/12/2017 04:49:23 NM mvn wildfly:deploy
+ 3318  12/12/2017 04:52:10 NM mvn wildfly:undeploy
+ 3319  12/12/2017 04:52:14 NM mvn clean install
+ 3320  12/12/2017 04:52:19 NM mvn wildfly:deploy
+ 3321  12/12/2017 04:55:14 NM cd ..
+ 3322  12/12/2017 04:55:16 NM git status 
+ 3323  12/12/2017 04:55:22 NM git add *
+ 3324  12/12/2017 04:55:30 NM git status 
+ 3325  12/12/2017 04:55:44 NM git rm --cached Wildfly/h.html 
+ 3326  12/12/2017 04:55:46 NM git status 
+ 3327  12/12/2017 04:56:01 NM git commit -m "relacje dwukierunkowe"
+ 3328  12/12/2017 04:56:07 NM git push origin master
+ 3329  12/12/2017 04:56:58 NM exit
+ 3330  12/12/2017 04:57:54 NM git status 
+ 3331  12/12/2017 04:58:04 NM git push origin v030
+ 3332  12/12/2017 04:58:29 NM exit
+ 3333  12/12/2017 05:49:43 NM cmus
+ 3334  12/12/2017 06:08:16 NM sudo shutdown -h now
+ 3335  12/12/2017 07:55:01 NM git checkout -b backup.12-12-2017
+ 3336  12/12/2017 07:55:07 NM git status 
+ 3337  12/12/2017 07:55:24 NM git commit -m "backup 12-12-2017"
+ 3338  12/12/2017 07:55:37 NM git push origin backup.12-12-2017 
+ 3339  12/12/2017 07:57:39 NM git branch
+ 3340  12/12/2017 07:57:44 NM git branch master 
+ 3341  12/12/2017 07:57:54 NM git checkout master
+ 3342  12/12/2017 07:57:58 NM git branch master 
+ 3343  12/12/2017 07:58:00 NM git branch
+ 3344  12/12/2017 07:19:22 NM g++ sim.cpp
+ 3345  12/12/2017 07:38:14 NM ./a.out 
+ 3346  12/12/2017 07:39:54 NM g++ sim.cpp
+ 3347  12/12/2017 07:39:56 NM ./a.out 
+ 3348  12/12/2017 07:40:11 NM g++ sim.cpp
+ 3349  12/12/2017 07:40:12 NM ./a.out 
+ 3350  12/12/2017 07:41:01 NM g++ sim.cpp
+ 3351  12/12/2017 07:41:02 NM ./a.out 
+ 3352  12/12/2017 07:41:15 NM g++ sim.cpp
+ 3353  12/12/2017 07:41:17 NM ./a.out 
+ 3354  12/12/2017 07:41:26 NM g++ sim.cpp
+ 3355  12/12/2017 07:41:27 NM ./a.out 
+ 3356  12/12/2017 07:41:56 NM g++ sim.cpp
+ 3357  12/12/2017 07:41:57 NM ./a.out 
+ 3358  12/12/2017 08:01:36 NM g++ sim.cpp
+ 3359  12/12/2017 08:01:38 NM ./a.out 
+ 3360  12/12/2017 08:01:45 NM g++ sim.cpp
+ 3361  12/12/2017 08:01:46 NM ./a.out 
+ 3362  12/12/2017 08:02:30 NM g++ sim.cpp
+ 3363  12/12/2017 08:02:31 NM ./a.out 
+ 3364  12/12/2017 08:03:30 NM g++ sim.cpp
+ 3365  12/12/2017 08:03:32 NM ./a.out 
+ 3366  12/12/2017 08:05:16 NM g++ sim.cpp
+ 3367  12/12/2017 08:05:18 NM ./a.out 
+ 3368  12/12/2017 08:05:26 NM g++ sim.cpp
+ 3369  12/12/2017 08:05:27 NM ./a.out 
+ 3370  12/12/2017 08:06:48 NM g++ sim.cpp
+ 3371  12/12/2017 08:06:49 NM ./a.out 
+ 3372  12/12/2017 08:07:05 NM g++ sim.cpp
+ 3373  12/12/2017 08:07:06 NM ./a.out 
+ 3374  12/12/2017 08:07:18 NM g++ sim.cpp
+ 3375  12/12/2017 08:07:19 NM ./a.out 
+ 3376  12/12/2017 08:11:10 NM g++ sim.cpp
+ 3377  12/12/2017 08:11:11 NM ./a.out 
+ 3378  12/12/2017 08:11:30 NM g++ sim.cpp
+ 3379  12/12/2017 08:11:31 NM ./a.out 
+ 3380  12/12/2017 08:11:47 NM g++ sim.cpp
+ 3381  12/12/2017 08:11:49 NM ./a.out 
+ 3382  12/12/2017 11:26:36 NM ./project1
+ 3383  12/12/2017 11:29:41 NM ./project1 > out.txt
+ 3384  12/12/2017 11:29:45 NM cat out.txt 
+ 3385  12/12/2017 07:12:58 NM git status 
+ 3386  12/12/2017 07:13:02 NM git add -u
+ 3387  12/12/2017 07:13:10 NM git commit -m "kostka1"
+ 3388  12/12/2017 07:13:18 NM git push origin master
+ 3389  12/12/2017 07:44:18 NM git add -u
+ 3390  12/12/2017 07:44:20 NM git commit -m "kostka2"
+ 3391  12/12/2017 07:44:23 NM git push origin master
+ 3392  12/12/2017 11:31:32 NM git status 
+ 3393  12/12/2017 11:31:39 NM git add *
+ 3394  12/12/2017 11:31:43 NM git status 
+ 3395  12/12/2017 11:31:56 NM git add -u
+ 3396  12/12/2017 11:32:13 NM git status 
+ 3397  12/12/2017 11:32:22 NM git rm --cached *.bak
+ 3398  12/12/2017 11:32:25 NM git status 
+ 3399  12/12/2017 11:32:46 NM git rm --cached */lib
+ 3400  12/12/2017 11:33:23 NM git rm --cached maszrum/symulacja/SimulationFPC/lib
+ 3401  12/12/2017 11:33:26 NM git rm --cached maszrum/symulacja/SimulationFPC/lib -r
+ 3402  12/12/2017 11:33:34 NM git add -u
+ 3403  12/12/2017 11:33:39 NM git add .gitignore 
+ 3404  12/12/2017 11:33:42 NM git status 
+ 3405  12/12/2017 11:34:09 NM git commit -m "Symulator Grzybobrania"
+ 3406  12/12/2017 11:34:15 NM git push origin master
+ 3407  12/12/2017 11:40:53 NM exit
+ 3408  12/12/2017 09:21:28 NM cd /media/rooigevaar19/Windows/Users/redth/Music/Free\ YouTube\ Downloader/
+ 3409  12/12/2017 09:21:30 NM ls
+ 3410  12/12/2017 09:21:32 NM cmus
+ 3411  12/12/2017 11:40:59 NM exit
+ 3412  12/13/2017 08:50:02 VM ./project1
+ 3413  12/13/2017 08:44:37 VM cmus
+ 3414  12/13/2017 08:55:37 VM sudo reboot
+ 3415  12/13/2017 09:10:38 VM ./rpn "2 > +"
+ 3416  12/13/2017 09:10:49 VM ./rpn "2 > ^"
+ 3417  12/13/2017 09:11:01 VM ./rpn "2 31 ^ 1 -"
+ 3418  12/13/2017 09:09:45 VM cmus
+ 3419  12/13/2017 09:21:09 VM sudo shutdown -h now
+ 3420  12/13/2017 11:21:39 VM fpc rpn.pas 
+ 3421  12/13/2017 11:21:46 VM cp ./rpn ~rpn
+ 3422  12/13/2017 11:21:50 VM cp ./rpn ~/rpn
+ 3423  12/13/2017 11:21:57 VM rm \~rpn 
+ 3424  12/13/2017 11:22:06 VM cd ..
+ 3425  12/13/2017 11:22:11 VM git status 
+ 3426  12/13/2017 11:22:51 VM git add -u
+ 3427  12/13/2017 11:23:52 VM git status 
+ 3428  12/13/2017 11:24:11 VM git commit -m "add Newton"
+ 3429  12/13/2017 11:24:17 VM git push origin v030
+ 3430  12/13/2017 11:25:26 VM sudo reboot
+ 3431  12/13/2017 03:11:47 NM ./project1
+ 3432  12/13/2017 03:40:54 NM exit
+ 3433  12/13/2017 04:26:14 NM lstart
+ 3434  12/13/2017 04:59:59 NM lcrash
+ 3435  12/13/2017 04:10:20 NM cmus
+ 3436  12/13/2017 05:00:46 NM sudo shutdown -h now
+ 3437  12/13/2017 07:01:31 NM ./project1
+ 3438  12/13/2017 07:05:38 NM exit
+ 3439  12/13/2017 06:36:33 NM cmus
+ 3440  12/13/2017 07:13:32 NM sudo shutdown -h now
+ 3441  12/14/2017 07:26:38 NM javac Param.java 
+ 3442  12/14/2017 07:28:42 NM javac Dice.java 
+ 3443  12/14/2017 07:31:11 NM javac Param.java 
+ 3444  12/14/2017 07:31:13 NM javac Dice.java 
+ 3445  12/14/2017 06:38:04 NM git status 
+ 3446  12/14/2017 06:38:09 NM git add generowanie/
+ 3447  12/14/2017 06:38:12 NM ls
+ 3448  12/14/2017 06:38:18 NM cd ..
+ 3449  12/14/2017 06:38:21 NM git status 
+ 3450  12/14/2017 06:38:27 NM git add -u
+ 3451  12/14/2017 06:38:28 NM git status 
+ 3452  12/14/2017 06:38:42 NM git commit -m "param, generator Java"
+ 3453  12/14/2017 06:38:49 NM git push origin master 
+ 3454  12/14/2017 06:40:59 NM git status 
+ 3455  12/14/2017 06:41:05 NM git add -u
+ 3456  12/14/2017 06:44:25 NM git status 
+ 3457  12/14/2017 06:44:32 NM git commit -m "param, generator Java"
+ 3458  12/14/2017 06:44:35 NM git push origin master 
+ 3459  12/14/2017 07:32:42 NM git commit -m "param, generator Java"
+ 3460  12/14/2017 07:32:52 NM git add maszrum/generowanie/GenerowanieJava/*.java
+ 3461  12/14/2017 07:32:54 NM git commit -m "param, generator Java"
+ 3462  12/14/2017 07:32:56 NM git push origin master 
+ 3463  12/15/2017 10:53:39 VM git status 
+ 3464  12/15/2017 10:53:44 VM git add -u
+ 3465  12/15/2017 10:53:59 VM git log
+ 3466  12/15/2017 10:55:35 VM git tree
+ 3467  12/15/2017 10:55:40 VM git stat
+ 3468  12/15/2017 10:55:41 VM git status 
+ 3469  12/15/2017 10:56:00 VM ls maszrum/generowanie/GenerowanieJava/
+ 3470  12/15/2017 11:01:59 VM git status 
+ 3471  12/15/2017 11:02:04 VM git add -u
+ 3472  12/15/2017 11:02:14 VM git add maszrum/generowanie/GenerowanieJava/EntryManager.java 
+ 3473  12/15/2017 11:02:16 VM git status 
+ 3474  12/15/2017 11:02:38 VM git commit -m "java u Szwarciego"
+ 3475  12/15/2017 11:02:42 VM git push origin master
+ 3476  12/15/2017 11:07:52 VM exit
+ 3477  12/15/2017 10:21:50 VM ls
+ 3478  12/15/2017 10:21:54 VM swipl
+ 3479  12/15/2017 10:24:30 VM cd ../zad2
+ 3480  12/15/2017 10:24:32 VM swipl
+ 3481  12/15/2017 11:45:36 VM exit
+ 3482  12/15/2017 10:21:31 VM cd /media/rooigevaar19/Windows/Users/redth/Music/Free\ YouTube\ Downloader/
+ 3483  12/15/2017 10:21:32 VM ;s
+ 3484  12/15/2017 10:21:34 VM ls
+ 3485  12/15/2017 10:21:41 VM cmus
+ 3486  12/15/2017 11:45:40 VM exit
+ 3487  12/15/2017 08:18:00 NM javac Param.java 
+ 3488  12/15/2017 08:18:09 NM javac Dice.java 
+ 3489  12/15/2017 08:18:16 NM javac Entry.java 
+ 3490  12/15/2017 08:18:24 NM javac EntryManager.java 
+ 3491  12/15/2017 08:18:30 NM javac MatrixGenerator.java 
+ 3492  12/15/2017 08:19:52 NM java MatrixGenerator 
+ 3493  12/15/2017 08:20:11 NM java MatrixGenerator > output.csv
+ 3494  12/15/2017 08:27:31 NM java MatrixGenerator 
+ 3495  12/15/2017 08:27:34 NM javac MatrixGenerator.java 
+ 3496  12/15/2017 08:27:37 NM java MatrixGenerator > output.csv
+ 3497  12/15/2017 07:56:25 NM git status 
+ 3498  12/15/2017 07:56:32 NM git add -u
+ 3499  12/15/2017 07:56:48 NM git status 
+ 3500  12/15/2017 07:57:04 NM git commit -m "dziala generator"
+ 3501  12/15/2017 07:57:14 NM git push origin master
+ 3502  12/15/2017 09:24:52 NM exit
+ 3503  12/16/2017 12:08:53 NM chmod +x run.sh 
+ 3504  12/16/2017 12:08:55 NM ./run.sh 
+ 3505  12/16/2017 12:09:10 NM javac MatrixGenerator.java 
+ 3506  12/16/2017 12:09:13 NM ./run.sh 
+ 3507  12/16/2017 12:11:25 NM chmod +x compile.sh 
+ 3508  12/16/2017 12:11:27 NM ./compile.sh 
+ 3509  12/16/2017 12:11:32 NM ./run.sh 
+ 3510  12/16/2017 12:15:33 NM g++ Obliczanie.cpp 
+ 3511  12/16/2017 12:16:52 NM g++ Obliczanie.cpp -std=c++11
+ 3512  12/16/2017 12:18:03 NM ./a.out 
+ 3513  12/16/2017 12:18:46 NM g++ Obliczanie.cpp -std=c++11
+ 3514  12/16/2017 12:18:48 NM ./a.out 
+ 3515  12/16/2017 12:32:11 NM ./project1
+ 3516  12/16/2017 12:55:17 NM exit
+ 3517  12/16/2017 12:23:07 NM ./run.sh 
+ 3518  12/16/2017 12:23:12 NM ./compile.sh 
+ 3519  12/16/2017 12:23:15 NM ./run.sh 
+ 3520  12/16/2017 12:24:41 NM ./compile.sh 
+ 3521  12/16/2017 12:24:44 NM ./run.sh 
+ 3522  12/16/2017 12:25:37 NM ./compile.sh 
+ 3523  12/16/2017 12:25:40 NM ./run.sh 
+ 3524  12/16/2017 12:26:26 NM ./compile.sh 
+ 3525  12/16/2017 12:26:30 NM ./run.sh 
+ 3526  12/16/2017 12:26:47 NM ./compile.sh 
+ 3527  12/16/2017 12:26:50 NM ./run.sh 
+ 3528  12/16/2017 12:30:27 NM ./compile.sh 
+ 3529  12/16/2017 12:31:08 NM ./run.sh 
+ 3530  12/16/2017 12:32:59 NM ./compile.sh 
+ 3531  12/16/2017 12:33:06 NM ./run.sh 
+ 3532  12/16/2017 12:33:32 NM ./compile.sh 
+ 3533  12/16/2017 12:33:35 NM ./run.sh 
+ 3534  12/16/2017 12:55:20 NM ext
+ 3535  12/16/2017 12:55:23 NM exit
+ 3536  12/16/2017 12:19:55 NM git status 
+ 3537  12/16/2017 12:20:00 NM git add -u
+ 3538  12/16/2017 12:20:06 NM git add maszrum/GenerowanieJava/
+ 3539  12/16/2017 12:20:11 NM git add maszrum/ObliczanieCpp/
+ 3540  12/16/2017 12:20:16 NM git add maszrum/SymulacjaFPC/
+ 3541  12/16/2017 12:20:19 NM git status 
+ 3542  12/16/2017 12:20:36 NM git commit -m "obliczanie, niedzialajace"
+ 3543  12/16/2017 12:20:47 NM git push origin master
+ 3544  12/16/2017 12:55:25 NM exit
+ 3545  12/16/2017 11:42:06 VM cmus
+ 3546  12/16/2017 12:55:29 NM exit
+ 3547  12/18/2017 07:28:14 NM mvn clean install
+ 3548  12/18/2017 07:30:29 NM exit
+ 3549  12/18/2017 07:05:31 NM cd src/
+ 3550  12/18/2017 07:05:37 NM d ..
+ 3551  12/18/2017 07:05:40 NM cd ..
+ 3552  12/18/2017 07:05:43 NM cd scripts/
+ 3553  12/18/2017 07:05:44 NM ls
+ 3554  12/18/2017 07:05:50 NM ./runHSQLDBServer.sh 
+ 3555  12/18/2017 07:30:33 NM exit
+ 3556  12/18/2017 07:04:00 NM cmus
+ 3557  12/18/2017 07:38:09 NM sudo shutdown -h now
+ 3558  12/19/2017 10:50:09 VM git pull origin master
+ 3559  12/19/2017 11:00:28 VM mvn clean install
+ 3560  12/19/2017 11:00:43 VM mvn jetty:run
+ 3561  12/19/2017 11:41:31 VM exit
+ 3562  12/19/2017 10:51:24 VM cmus
+ 3563  12/19/2017 11:41:38 VM exit
+ 3564  12/19/2017 11:53:01 VM git status 
+ 3565  12/19/2017 11:53:08 VM git add -u
+ 3566  12/19/2017 11:53:10 VM git status 
+ 3567  12/19/2017 11:53:46 VM git commit -m "Poprawki w rejestracji i logowaniu się (dowolnosć nicków i rozwiązanie problemu pustych danych)"
+ 3568  12/19/2017 11:53:57 VM git push origin master
+ 3569  12/19/2017 04:03:05 NM mvn wildfly:deploy
+ 3570  12/19/2017 04:05:29 NM history
+ 3571  12/19/2017 04:06:02 NM history > komendy.txt
